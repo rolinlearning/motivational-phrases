@@ -1,0 +1,297 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"La sabiduría es hija de la experiencia.",
+    "length":"38",
+    "author":"Leonardo da Vinci",
+    "tags":[
+    "sabiduría",
+    "experiencia"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"1"
+    },
+    {
+    "quote":"El conocimiento habla, pero la sabiduría escucha.",
+    "length":"47",
+    "author":"Jimi Hendrix",
+    "tags":[
+    "conocimiento",
+    "sabiduría",
+    "escuchar"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"2"
+    },
+    {
+    "quote":"La sabiduría es el resultado de una vida bien vivida.",
+    "length":"52",
+    "author":"Sócrates",
+    "tags":[
+    "sabiduría",
+    "vida",
+    "bien vivir"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"3"
+    },
+    {
+    "quote":"La sabiduría no es producto de la instrucción sino de la experiencia.",
+    "length":"67",
+    "author":"Albert Einstein",
+    "tags":[
+    "sabiduría",
+    "instrucción",
+    "experiencia"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"4"
+    },
+    {
+    "quote":"La sabiduría consiste en ser capaz de distinguir lo bueno de lo malo y lo verdadero de lo falso.",
+    "length":"95",
+    "author":"Sócrates",
+    "tags":[
+    "sabiduría",
+    "bueno",
+    "malo",
+    "verdadero",
+    "falso"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"5"
+    },
+    {
+    "quote":"La verdadera sabiduría es estar preparado para la desgracia.",
+    "length":"57",
+    "author":"Esquilo",
+    "tags":[
+    "sabiduría",
+    "desgracia",
+    "preparación"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"6"
+    },
+    {
+    "quote":"La sabiduría es el arte de conocer los límites del conocimiento.",
+    "length":"60",
+    "author":"Platón",
+    "tags":[
+    "sabiduría",
+    "arte",
+    "conocimiento",
+    "límites"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"7"
+    },
+    {
+    "quote":"La sabiduría es la joya del carácter.",
+    "length":"35",
+    "author":"William Rounseville Alger",
+    "tags":[
+    "sabiduría",
+    "carácter",
+    "joya"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"8"
+    },
+    {
+    "quote":"La sabiduría mejor es la que da el tiempo.",
+    "length":"40",
+    "author":"Tito Livio",
+    "tags":[
+    "sabiduría",
+    "tiempo"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"9"
+    },
+    {
+    "quote":"La sabiduría es la quintaesencia de la ciencia, el arte y la filosofía.",
+    "length":"70",
+    "author":"Alfonso Reyes",
+    "tags":[
+    "sabiduría",
+    "ciencia",
+    "arte",
+    "filosofía"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"10"
+    },
+    {
+    "quote":"La sabiduría es la cosa mejor que poseen los hombres para la conducción de la vida.",
+    "length":"81",
+    "author":"Sócrates",
+    "tags":[
+    "sabiduría",
+    "vida",
+    "conducción"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"11"
+    },
+    {
+    "quote":"La verdadera sabiduría no está en acumular conocimientos, sino en saber vivir.",
+    "length":"75",
+    "author":"Lucio Anneo Séneca",
+    "tags":[
+    "sabiduría",
+    "conocimientos",
+    "vivir"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"12"
+    },
+    {
+    "quote":"La sabiduría es como una isla rodeada de tempestades y tormentas. Solo los hábiles pilotos pueden llegar a ella.",
+    "length":"107",
+    "author":"Michel de Montaigne",
+    "tags":[
+    "sabiduría",
+    "isla",
+    "tempestades",
+    "tormentas",
+    "pilotos"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"13"
+    },
+    {
+    "quote":"La sabiduría nos hace ser pacientes con los defectos de los demás.",
+    "length":"63",
+    "author":"Samuel Smiles",
+    "tags":[
+    "sabiduría",
+    "paciencia",
+    "defectos",
+    "otros"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"14"
+    },
+    {
+    "quote":"La verdadera sabiduría está en reconocer la propia ignorancia.",
+    "length":"58",
+    "author":"Sócrates",
+    "tags":[
+    "sabiduría",
+    "ignorancia",
+    "reconocimiento"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"15"
+    },
+    {
+    "quote":"La sabiduría es tener sueños bastante grandes para no perderlos de vista mientras se persiguen.",
+    "length":"92",
+    "author":"Oscar Wilde",
+    "tags":[
+    "sabiduría",
+    "sueños",
+    "perseguir",
+    "vista"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"16"
+    },
+    {
+    "quote":"La verdadera sabiduría consiste en servir mejor a los demás.",
+    "length":"57",
+    "author":"Marco Aurelio",
+    "tags":[
+    "sabiduría",
+    "servicio",
+    "otros"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"17"
+    },
+    {
+    "quote":"La sabiduría suprema es tener sueños bastante grandes para no perderlos de vista mientras se los persigue.",
+    "length":"100",
+    "author":"William Faulkner",
+    "tags":[
+    "sabiduría",
+    "sueños",
+    "vista",
+    "perseguir"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"18"
+    },
+    {
+    "quote":"La sabiduría es saber lo que es necesario hacer después de uno sabe lo que es necesario saber.",
+    "length":"92",
+    "author":"Anónimo",
+    "tags":[
+    "sabiduría",
+    "necesidad",
+    "saber",
+    "hacer"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"19"
+    },
+    {
+    "quote":"La verdadera sabiduría está en ver las cosas como son, sin distorsionarlas.",
+    "length":"73",
+    "author":"Anónimo",
+    "tags":[
+    "sabiduría",
+    "verdad",
+    "distorsión"
+    ],
+    "category":"wisdom",
+    "date":"2023-08-08",
+    "title":"Frase sabia del día",
+    "id":"20"
+    }
+    ]
+    }
+    }

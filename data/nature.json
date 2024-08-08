@@ -1,0 +1,289 @@
+{
+   "success": {
+      "total": 20
+   },
+   "contents": {
+      "quotes": [
+         {
+            "quote": "La naturaleza no hace nada incompleto ni nada en vano.",
+            "length": "48",
+            "author": "Aristóteles",
+            "tags": [
+               "naturaleza",
+               "completo",
+               "vano"
+            ],
+            "category": "nature",
+            "date": "384-01-01",
+            "title": "Nature Quote of the day",
+            "id": "1"
+         },
+         {
+            "quote": "Adopt the pace of nature: her secret is patience.",
+            "length": "53",
+            "author": "Ralph Waldo Emerson",
+            "tags": [
+               "naturaleza",
+               "paciencia",
+               "ritmo"
+            ],
+            "category": "nature",
+            "date": "1837-05-25",
+            "title": "Nature Quote of the day",
+            "id": "2"
+         },
+         {
+            "quote": "El que planta un árbol, planta una esperanza.",
+            "length": "41",
+            "author": "Lucy Larcom",
+            "tags": [
+               "naturaleza",
+               "árbol",
+               "esperanza"
+            ],
+            "category": "nature",
+            "date": "1869-08-15",
+            "title": "Nature Quote of the day",
+            "id": "3"
+         },
+         {
+            "quote": "En la naturaleza está la preservación del mundo.",
+            "length": "49",
+            "author": "Henry David Thoreau",
+            "tags": [
+               "naturaleza",
+               "preservación",
+               "mundo"
+            ],
+            "category": "nature",
+            "date": "1851-10-12",
+            "title": "Nature Quote of the day",
+            "id": "4"
+         },
+         {
+            "quote": "Mira profundamente en la naturaleza y entonces entenderás todo mejor.",
+            "length": "67",
+            "author": "Albert Einstein",
+            "tags": [
+               "naturaleza",
+               "entendimiento",
+               "profundidad"
+            ],
+            "category": "nature",
+            "date": "1941-09-23",
+            "title": "Nature Quote of the day",
+            "id": "5"
+         },
+         {
+            "quote": "La tierra tiene música para aquellos que escuchan.",
+            "length": "45",
+            "author": "William Shakespeare",
+            "tags": [
+               "naturaleza",
+               "música",
+               "tierra"
+            ],
+            "category": "nature",
+            "date": "1601-06-20",
+            "title": "Nature Quote of the day",
+            "id": "6"
+         },
+         {
+            "quote": "La naturaleza siempre lleva los colores del espíritu.",
+            "length": "54",
+            "author": "Ralph Waldo Emerson",
+            "tags": [
+               "naturaleza",
+               "colores",
+               "espíritu"
+            ],
+            "category": "nature",
+            "date": "1836-11-13",
+            "title": "Nature Quote of the day",
+            "id": "7"
+         },
+         {
+            "quote": "Cada flor es un alma que florece en la naturaleza.",
+            "length": "51",
+            "author": "Gerard De Nerval",
+            "tags": [
+               "naturaleza",
+               "flores",
+               "alma"
+            ],
+            "category": "nature",
+            "date": "1845-07-18",
+            "title": "Nature Quote of the day",
+            "id": "8"
+         },
+         {
+            "quote": "El susurro de la naturaleza habla la verdad.",
+            "length": "44",
+            "author": "Michael Bassey Johnson",
+            "tags": [
+               "naturaleza",
+               "verdad",
+               "susurro"
+            ],
+            "category": "nature",
+            "date": "2010-10-01",
+            "title": "Nature Quote of the day",
+            "id": "9"
+         },
+         {
+            "quote": "En todas las cosas de la naturaleza hay algo de lo maravilloso.",
+            "length": "61",
+            "author": "Aristóteles",
+            "tags": [
+               "naturaleza",
+               "maravilloso",
+               "cosas"
+            ],
+            "category": "nature",
+            "date": "384-01-01",
+            "title": "Nature Quote of the day",
+            "id": "10"
+         },
+         {
+            "quote": "La naturaleza sostiene el alma, eleva el espíritu y genera vida.",
+            "length": "63",
+            "author": "Johann Wolfgang von Goethe",
+            "tags": [
+               "naturaleza",
+               "alma",
+               "espíritu"
+            ],
+            "category": "nature",
+            "date": "1782-08-12",
+            "title": "Nature Quote of the day",
+            "id": "11"
+         },
+         {
+            "quote": "La naturaleza no es un lugar para visitar. Es el hogar.",
+            "length": "51",
+            "author": "Gary Snyder",
+            "tags": [
+               "naturaleza",
+               "hogar",
+               "visitar"
+            ],
+            "category": "nature",
+            "date": "1974-04-05",
+            "title": "Nature Quote of the day",
+            "id": "12"
+         },
+         {
+            "quote": "La naturaleza no se apura, pero todo se logra.",
+            "length": "45",
+            "author": "Lao Tzu",
+            "tags": [
+               "naturaleza",
+               "apuro",
+               "logro"
+            ],
+            "category": "nature",
+            "date": "500-01-01",
+            "title": "Nature Quote of the day",
+            "id": "13"
+         },
+         {
+            "quote": "Hay un libro abierto siempre para todos los ojos: la naturaleza.",
+            "length": "60",
+            "author": "Jean-Jacques Rousseau",
+            "tags": [
+               "naturaleza",
+               "libro",
+               "ojos"
+            ],
+            "category": "nature",
+            "date": "1762-05-15",
+            "title": "Nature Quote of the day",
+            "id": "14"
+         },
+         {
+            "quote": "La naturaleza es el arte de Dios.",
+            "length": "31",
+            "author": "Dante Alighieri",
+            "tags": [
+               "naturaleza",
+               "arte",
+               "Dios"
+            ],
+            "category": "nature",
+            "date": "1308-01-01",
+            "title": "Nature Quote of the day",
+            "id": "15"
+         },
+         {
+            "quote": "La naturaleza nunca traiciona el corazón que la ama.",
+            "length": "50",
+            "author": "William Wordsworth",
+            "tags": [
+               "naturaleza",
+               "traición",
+               "amor"
+            ],
+            "category": "nature",
+            "date": "1802-09-20",
+            "title": "Nature Quote of the day",
+            "id": "16"
+         },
+         {
+            "quote": "Para mí, un césped no podado es una obra de arte.",
+            "length": "46",
+            "author": "Janine Benyus",
+            "tags": [
+               "naturaleza",
+               "arte",
+               "césped"
+            ],
+            "category": "nature",
+            "date": "1997-11-14",
+            "title": "Nature Quote of the day",
+            "id": "17"
+         },
+         {
+            "quote": "El cielo está bajo nuestros pies tanto como sobre nuestras cabezas.",
+            "length": "63",
+            "author": "Henry David Thoreau",
+            "tags": [
+               "naturaleza",
+               "cielo",
+               "pies"
+            ],
+            "category": "nature",
+            "date": "1854-08-09",
+            "title": "Nature Quote of the day",
+            "id": "18"
+         },
+         {
+            "quote": "La naturaleza es la maestra más sabia y perfecta.",
+            "length": "49",
+            "author": "Gottfried Wilhelm Leibniz",
+            "tags": [
+               "naturaleza",
+               "sabiduría",
+               "perfección"
+            ],
+            "category": "nature",
+            "date": "1697-02-05",
+            "title": "Nature Quote of the day",
+            "id": "19"
+         },
+         {
+            "quote": "La naturaleza nunca se apresura. Átomo por átomo, poco a poco logra su trabajo.",
+            "length": "69",
+            "author": "Ralph Waldo Emerson",
+            "tags": [
+               "naturaleza",
+               "trabajo",
+               "paciencia"
+            ],
+            "category": "nature",
+            "date": "1841-12-03",
+            "title": "Nature Quote of the day",
+            "id": "20"
+         }
+      ]
+   }
+}

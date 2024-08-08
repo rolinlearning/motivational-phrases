@@ -1,0 +1,290 @@
+
+{
+  "success": {
+    "total": 20
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+        "length": "67",
+        "author": "Eleanor Roosevelt",
+        "tags": [
+          "futuro",
+          "sueños",
+          "creencia"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "aHrT1mnK2efL9BCJOpQUuIzE"
+      },
+      {
+        "quote": "La mejor manera de predecir el futuro es crearlo.",
+        "length": "54",
+        "author": "Peter Drucker",
+        "tags": [
+          "futuro",
+          "acción",
+          "creación"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "bIsU2noL3fgM0CDKPqRVvJaF"
+      },
+      {
+        "quote": "No te conformes con lo que la vida te da, lucha por lo que te mereces.",
+        "length": "75",
+        "author": "Antonio Banderas",
+        "tags": [
+          "lucha",
+          "merecimiento",
+          "superación"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "cJtV3opM4ghN1DELQrSWwKbG"
+      },
+      {
+        "quote": "La única forma de hacer un gran trabajo es amar lo que haces.",
+        "length": "65",
+        "author": "Steve Jobs",
+        "tags": [
+          "trabajo",
+          "pasión",
+          "éxito"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "dKuW4pqN5hiO2EFMRsTXxLcH"
+      },
+      {
+        "quote": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
+        "length": "68",
+        "author": "Winston Churchill",
+        "tags": [
+          "éxito",
+          "fracaso",
+          "perseverancia"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "eLvX5qrO6ijP3FGNStUYyMdI"
+      },
+      {
+        "quote": "La grandeza nace de pequeños comienzos.",
+        "length": "44",
+        "author": "Séneca",
+        "tags": [
+          "grandeza",
+          "comienzo",
+          "progreso"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "fMwY6rsP7jkQ4GHOTuVZzNeJ"
+      },
+      {
+        "quote": "Cada día es una nueva oportunidad para cambiar tu vida.",
+        "length": "59",
+        "author": "Ken Poirot",
+        "tags": [
+          "oportunidad",
+          "cambio",
+          "vida"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "gNxZ7stQ8klR5HIPUvWAaOfK"
+      },
+      {
+        "quote": "Si puedes soñarlo, puedes lograrlo.",
+        "length": "39",
+        "author": "Walt Disney",
+        "tags": [
+          "sueños",
+          "logros",
+          "posibilidad"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "hOyA8tuR9lmS6IJQVwXBbPgL"
+      },
+      {
+        "quote": "La vida es 10% lo que nos sucede y 90% cómo reaccionamos a ello.",
+        "length": "72",
+        "author": "Charles R. Swindoll",
+        "tags": [
+          "vida",
+          "actitud",
+          "reacción"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "iPzB9uvS0mnT7JKRWxYCcQhM"
+      },
+      {
+        "quote": "El secreto para salir adelante es comenzar.",
+        "length": "47",
+        "author": "Mark Twain",
+        "tags": [
+          "inicio",
+          "progreso",
+          "acción"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "jQaC0vwT1noU8KLSXyZDdRiN"
+      },
+      {
+        "quote": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+        "length": "63",
+        "author": "George Eliot",
+        "tags": [
+          "oportunidad",
+          "potencial",
+          "cambio"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "kRbD1wxU2opV9LMTYzAEeSjO"
+      },
+      {
+        "quote": "El pesimista ve dificultad en toda oportunidad. El optimista ve oportunidad en toda dificultad.",
+        "length": "102",
+        "author": "Winston Churchill",
+        "tags": [
+          "optimismo",
+          "oportunidad",
+          "actitud"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "lScE2xyV3pqW0MNUZaBFfTkP"
+      },
+      {
+        "quote": "No importa lo lento que vayas, siempre y cuando no te detengas.",
+        "length": "67",
+        "author": "Confucio",
+        "tags": [
+          "perseverancia",
+          "progreso",
+          "constancia"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "mTdF3yzW4qrX1OPVAcCGgUlQ"
+      },
+      {
+        "quote": "La mejor preparación para mañana es hacer lo mejor hoy.",
+        "length": "61",
+        "author": "H. Jackson Brown Jr.",
+        "tags": [
+          "preparación",
+          "presente",
+          "esfuerzo"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "nUeG4zaX5rsY2PQWBdDHhVmR"
+      },
+      {
+        "quote": "Tu tiempo es limitado, no lo malgastes viviendo la vida de alguien distinto.",
+        "length": "79",
+        "author": "Steve Jobs",
+        "tags": [
+          "tiempo",
+          "autenticidad",
+          "vida"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "oVfH5abY6stZ3QRXCeEIiWnS"
+      },
+      {
+        "quote": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+        "length": "71",
+        "author": "Robert Collier",
+        "tags": [
+          "éxito",
+          "esfuerzo",
+          "constancia"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "pWgI6bcZ7tuA4RSYDfFJjXoT"
+      },
+      {
+        "quote": "La diferencia entre lo ordinario y lo extraordinario es ese pequeño extra.",
+        "length": "76",
+        "author": "Jimmy Johnson",
+        "tags": [
+          "excelencia",
+          "esfuerzo",
+          "distinción"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "qXhJ7cdA8uvB5STZEgGKkYpU"
+      },
+      {
+        "quote": "Cree que puedes y ya estás a medio camino.",
+        "length": "48",
+        "author": "Theodore Roosevelt",
+        "tags": [
+          "creencia",
+          "confianza",
+          "logro"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "rYiK8deB9vwC6TUAFhHLlZqV"
+      },
+      {
+        "quote": "La motivación es lo que te pone en marcha, el hábito es lo que hace que sigas.",
+        "length": "81",
+        "author": "Jim Ryun",
+        "tags": [
+          "motivación",
+          "hábito",
+          "perseverancia"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "sZjL9efC0wxD7UVBGiIMmArW"
+      },
+      {
+        "quote": "El único modo de hacer un gran trabajo es amar lo que haces.",
+        "length": "64",
+        "author": "Steve Jobs",
+        "tags": [
+          "pasión",
+          "trabajo",
+          "éxito"
+        ],
+        "category": "inspire",
+        "date": "2024-08-07",
+        "title": "Frase inspiradora del día",
+        "id": "tAkM0fgD1xyE8VWCHjJNnBsX"
+      }
+    ]
+  }
+}

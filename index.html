@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Motivation Nickname</title>
+    <link rel="stylesheet" href="./assets/styles/main.css" />
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* STYLES NICKNAME SECTION */
+      .nickname label {
+        margin-bottom: 10px;
+      }
+      .nickname input {
+        width: 250px;
+        padding: 10px;
+        font-size: 16px;
+        border: 2px solid var(--white);
+        background-color: var(--nickname-background-color);
+        color: var(--white);
+        border-radius: 15px;
+        outline: none;
+        transition: all 0.3s ease;
+      }
+      .nickname input:focus {
+        border-color: var(--nickname-border-color-focus);
+        background-color: var(--nickname-background-color-focus);
+      }
+
+      /* STYLES CATEGORIES SECTION  */
+
+      .hidden {
+        display: none;
+      }
+
+      .container {
+        max-width: 1024px;
+        margin: 50px auto;
+        padding: 20px;
+        background: #18173a;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      h5 {
+        text-align: center;
+      }
+
+      .cbox {
+        margin-top: 20px;
+      }
+
+      .cbox-genres {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+      }
+
+      .cbox-genres ul {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        gap: 10px;
+      }
+
+      .cbox-genres ul li {
+        flex: 1 1 calc(33.333% - 10px); /* Ajusta la base de la columna */
+        margin-bottom: 10px;
+      }
+
+      .cbox-genres ul li a {
+        display: block;
+        padding: 9px 10px;
+        border-radius: 10px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        max-width: 100%;
+        overflow: hidden;
+        font-size: 0.9em;
+        font-weight: 500;
+        background: transparent; /* Color de fondo transparente */
+        border: 1px solid #fff; /* Borde blanco */
+        color: #fff; /* Color del texto */
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        transition: background 0.3s, border-color 0.3s;
+        text-decoration: none;
+      }
+
+      .cbox-genres ul li a:hover {
+        background: #7b68ee;
+        border-color: #7b68ee;
+        outline: none;
+      }
+
+      #selected-category {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 1.2em;
+        color: #bb69de;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- NICKNAME SECTION -->
+    <div id="nameSection" class="nickname">
+      <form id="nameForm">
+        <label for="name">Ingresa tu nombre o alias</label>
+        <input type="text" name="nickname" id="name" />
+        <button type="submit">Siguiente</button>
+      </form>
+    </div>
+
+    <!-- CATEGORIES SECTION -->
+    <div id="categorySection" class="hidden">
+      <div class="container">
+        <h5>Selecciona una Categoría</h5>
+        <div class="cbox cbox-genres active">
+          <ul class="ulclear color-list sb-genre-list sb-genre-less">
+            <li><a href="#" data-category="inspire">Inspiracion</a></li>
+            <li><a href="#" data-category="management">Gestion</a></li>
+            <li><a href="#" data-category="life">Vida</a></li>
+            <li><a href="#" data-category="art">Arte</a></li>
+            <li><a href="#" data-category="sports">Deportes</a></li>
+            <li><a href="#" data-category="students">Estudiante</a></li>
+            <li><a href="#" data-category="love">Amor</a></li>
+            <li><a href="#" data-category="funny">Diversion</a></li>
+            <li><a href="#" data-category="game">Sabiduria todavia</a></li>
+            <li><a href="#" data-category="harem">Naturaleza</a></li>
+            <li><a href="#" data-category="historical">Literatura</a></li>
+            <li><a href="#" data-category="horror">Motivacion</a></li>
+          </ul>
+          <div class="clearfix"></div>
+          <button class="btn btn-sm btn-block btn-showmore mt-2">
+            Mostrar Más
+          </button>
+        </div>
+        <div id="selected-category">
+          <p>Selecciona una categoría para ver el mensaje.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- QUOTE SECTION  -->
+    <div id="messageSection" class="hidden">
+      <h5>Mensaje Personalizado</h5>
+      <div id="message"></div>
+    </div>
+
+    <script type="text/javascript">
+      // Función para mostrar la sección correspondiente
+      function showSection(sectionId) {
+        document.getElementById("nameSection").classList.add("hidden");
+        document.getElementById("categorySection").classList.add("hidden");
+        document.getElementById("messageSection").classList.add("hidden");
+        document.getElementById(sectionId).classList.remove("hidden");
+      }
+
+      // Función para obtener el mensaje predefinido
+      async function fetchMessages() {
+        try {
+          const response = await fetch("data/quotes.json");
+          if (!response.ok) throw new Error("Error al cargar el archivo JSON");
+          return await response.json();
+        } catch (error) {
+          console.error(error);
+          return {};
+        }
+      }
+
+      // Manejo del formulario de nombre
+      document
+        .getElementById("nameForm")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+          const name = document.getElementById("name").value;
+          localStorage.setItem("userName", name); // Guardar nombre en LocalStorage
+          showSection("categorySection"); // Mostrar sección de categoría
+        });
+
+      // Manejo del formulario de categoría
+      const categoryLinks = document.querySelectorAll(".color-list a");
+      const selectedCategoryDiv = document.getElementById("selected-category");
+
+      categoryLinks.forEach((link) => {
+        link.addEventListener("click", async (event) => {
+          event.preventDefault();
+
+          // Remover la clase 'selected' de todos los elementos
+          categoryLinks.forEach((link) => link.classList.remove("selected"));
+
+          // Agregar la clase 'selected' al elemento clicado
+          link.classList.add("selected");
+
+          // Obtener la categoría seleccionada
+          const category = link.getAttribute("data-category");
+          localStorage.setItem("userCategory", category); // Guardar categoría en LocalStorage
+
+          // Mostrar un mensaje basado en la categoría
+          selectedCategoryDiv.innerHTML = `<p>Has seleccionado la categoría: <strong>${category}</strong></p>`;
+          const name = localStorage.getItem("userName");
+          const randomMessage = "Hello, this random message is valid!";
+
+          //Llamar a la funcion para obtener mensaje random
+          const messages = await fetchMessages();
+          const categoryMessages = messages.contents.quotes.filter(
+            (quote) => quote.category === category
+          );
+          console.log(categoryMessages);
+
+          // Verificar si hay mensajes en la categoría
+          if (categoryMessages.length > 0) {
+            const randomMessage =
+              categoryMessages[
+                Math.floor(Math.random() * categoryMessages.length)
+              ];
+            const selectedQuote = randomMessage
+              ? randomMessage.quote
+              : "No hay mensajes disponibles para esta categoría.";
+            const name = localStorage.getItem("userName");
+            document.getElementById(
+              "message"
+            ).innerHTML = `Hola ${name}, tu mensaje es: "${selectedQuote}"`;
+            // Mostrar la sección de captura de nombre al cargar la página
+            showSection("messageSection");
+          } else {
+            console.log("No hay mensajes en esta categoriaa");
+            document.getElementById("message").innerHTML =
+              "No hay mensajes disponibles para esta categoría.";
+          }
+        });
+      });
+
+      // Mostrar la sección de captura de nombre al cargar la página
+      showSection("nameSection");
+    </script>
+  </body>
+</html>

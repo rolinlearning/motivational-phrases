@@ -1,0 +1,289 @@
+{
+    "success":{
+       "total":20
+    },
+    "contents":{
+       "quotes":[
+          {
+             "quote":"Lo que no te mata, te hace más fuerte.",
+             "length":"39",
+             "author":"Friedrich Nietzsche",
+             "tags":[
+                "fortaleza",
+                "adversidad",
+                "crecimiento"
+             ],
+             "category":"resiliencia",
+             "date":"1888-09-03",
+             "title":"Cita de resiliencia del día",
+             "id":"RE01FN03091888"
+          },
+          {
+             "quote":"La resiliencia es aceptar tu nueva realidad, incluso si es menos buena que la que tenías antes.",
+             "length":"98",
+             "author":"Elizabeth Edwards",
+             "tags":[
+                "aceptación",
+                "adaptación",
+                "cambio"
+             ],
+             "category":"resiliencia",
+             "date":"2006-11-15",
+             "title":"Cita de resiliencia del día",
+             "id":"RE02EE15112006"
+          },
+          {
+             "quote":"El bambú que se dobla es más fuerte que el roble que resiste.",
+             "length":"63",
+             "author":"Proverbio japonés",
+             "tags":[
+                "flexibilidad",
+                "fuerza",
+                "adaptabilidad"
+             ],
+             "category":"resiliencia",
+             "date":"1600-01-01",
+             "title":"Cita de resiliencia del día",
+             "id":"RE03PJ01011600"
+          },
+          {
+             "quote":"La vida no se trata de esperar a que pase la tormenta, se trata de aprender a bailar bajo la lluvia.",
+             "length":"99",
+             "author":"Vivian Greene",
+             "tags":[
+                "actitud",
+                "adversidad",
+                "optimismo"
+             ],
+             "category":"resiliencia",
+             "date":"2006-05-20",
+             "title":"Cita de resiliencia del día",
+             "id":"RE04VG20052006"
+          },
+          {
+             "quote":"El éxito no es final, el fracaso no es fatal: es el coraje para continuar lo que cuenta.",
+             "length":"89",
+             "author":"Winston Churchill",
+             "tags":[
+                "perseverancia",
+                "coraje",
+                "determinación"
+             ],
+             "category":"resiliencia",
+             "date":"1941-10-29",
+             "title":"Cita de resiliencia del día",
+             "id":"RE05WC29101941"
+          },
+          {
+             "quote":"La resiliencia es conocer que eres el único que tiene el poder sobre tu reacción a las cosas.",
+             "length":"95",
+             "author":"Naval Ravikant",
+             "tags":[
+                "poder",
+                "reacción",
+                "control"
+             ],
+             "category":"resiliencia",
+             "date":"2018-07-18",
+             "title":"Cita de resiliencia del día",
+             "id":"RE06NR18072018"
+          },
+          {
+             "quote":"Cae siete veces, levántate ocho.",
+             "length":"35",
+             "author":"Proverbio japonés",
+             "tags":[
+                "perseverancia",
+                "determinación",
+                "superación"
+             ],
+             "category":"resiliencia",
+             "date":"1700-01-01",
+             "title":"Cita de resiliencia del día",
+             "id":"RE07PJ01011700"
+          },
+          {
+             "quote":"La resiliencia es muy diferente de ser imparable o invulnerable. Es ser quebrado y quebrable y aun así crecer.",
+             "length":"116",
+             "author":"B. Brown",
+             "tags":[
+                "vulnerabilidad",
+                "crecimiento",
+                "superación"
+             ],
+             "category":"resiliencia",
+             "date":"2015-08-25",
+             "title":"Cita de resiliencia del día",
+             "id":"RE08BB25082015"
+          },
+          {
+             "quote":"No es la más fuerte de las especies la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio.",
+             "length":"122",
+             "author":"Charles Darwin",
+             "tags":[
+                "adaptación",
+                "evolución",
+                "cambio"
+             ],
+             "category":"resiliencia",
+             "date":"1859-11-24",
+             "title":"Cita de resiliencia del día",
+             "id":"RE09CD24111859"
+          },
+          {
+             "quote":"La resiliencia es el arte de navegar en los torrentes.",
+             "length":"55",
+             "author":"Boris Cyrulnik",
+             "tags":[
+                "navegación",
+                "adversidad",
+                "habilidad"
+             ],
+             "category":"resiliencia",
+             "date":"2001-09-12",
+             "title":"Cita de resiliencia del día",
+             "id":"RE10BC12092001"
+          },
+          {
+             "quote":"Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos.",
+             "length":"91",
+             "author":"Confucio",
+             "tags":[
+                "perseverancia",
+                "superación",
+                "gloria"
+             ],
+             "category":"resiliencia",
+             "date":"-500-06-15",
+             "title":"Cita de resiliencia del día",
+             "id":"RE11CO15060500"
+          },
+          {
+             "quote":"La resiliencia es la capacidad de adaptarse a las adversidades de la vida.",
+             "length":"76",
+             "author":"American Psychological Association",
+             "tags":[
+                "adaptación",
+                "adversidad",
+                "capacidad"
+             ],
+             "category":"resiliencia",
+             "date":"2014-02-01",
+             "title":"Cita de resiliencia del día",
+             "id":"RE12AP01022014"
+          },
+          {
+             "quote":"El dolor es inevitable, el sufrimiento es opcional.",
+             "length":"51",
+             "author":"Haruki Murakami",
+             "tags":[
+                "dolor",
+                "sufrimiento",
+                "elección"
+             ],
+             "category":"resiliencia",
+             "date":"2008-10-15",
+             "title":"Cita de resiliencia del día",
+             "id":"RE13HM15102008"
+          },
+          {
+             "quote":"La resiliencia no se trata de rebotar; se trata de avanzar.",
+             "length":"63",
+             "author":"Sheryl Sandberg",
+             "tags":[
+                "progreso",
+                "avance",
+                "superación"
+             ],
+             "category":"resiliencia",
+             "date":"2017-04-24",
+             "title":"Cita de resiliencia del día",
+             "id":"RE14SS24042017"
+          },
+          {
+             "quote":"No es lo que te sucede, sino cómo reaccionas lo que importa.",
+             "length":"64",
+             "author":"Epicteto",
+             "tags":[
+                "reacción",
+                "actitud",
+                "control"
+             ],
+             "category":"resiliencia",
+             "date":"108-01-01",
+             "title":"Cita de resiliencia del día",
+             "id":"RE15EP01011080"
+          },
+          {
+             "quote":"La resiliencia es el músculo invisible que nos permite luchar y levantarnos cuando caemos.",
+             "length":"92",
+             "author":"Lisa Nichols",
+             "tags":[
+                "fortaleza",
+                "lucha",
+                "recuperación"
+             ],
+             "category":"resiliencia",
+             "date":"2016-09-13",
+             "title":"Cita de resiliencia del día",
+             "id":"RE16LN13092016"
+          },
+          {
+             "quote":"La fuerza no viene de la capacidad física. Viene de una voluntad indomable.",
+             "length":"79",
+             "author":"Mahatma Gandhi",
+             "tags":[
+                "fuerza",
+                "voluntad",
+                "determinación"
+             ],
+             "category":"resiliencia",
+             "date":"1922-03-10",
+             "title":"Cita de resiliencia del día",
+             "id":"RE17MG10031922"
+          },
+          {
+             "quote":"La resiliencia es tu habilidad para escribir el final de tu propia historia.",
+             "length":"75",
+             "author":"Unknown",
+             "tags":[
+                "control",
+                "destino",
+                "narrativa"
+             ],
+             "category":"resiliencia",
+             "date":"2020-01-01",
+             "title":"Cita de resiliencia del día",
+             "id":"RE18UN01012020"
+          },
+          {
+             "quote":"En el centro de la dificultad yace la oportunidad.",
+             "length":"55",
+             "author":"Albert Einstein",
+             "tags":[
+                "oportunidad",
+                "dificultad",
+                "optimismo"
+             ],
+             "category":"resiliencia",
+             "date":"1935-06-19",
+             "title":"Cita de resiliencia del día",
+             "id":"RE19AE19061935"
+          },
+          {
+             "quote":"La resiliencia es el antídoto secreto para los tiempos difíciles.",
+             "length":"67",
+             "author":"Catherine DeVrye",
+             "tags":[
+                "antídoto",
+                "dificultad",
+                "superación"
+             ],
+             "category":"resiliencia",
+             "date":"2003-11-04",
+             "title":"Cita de resiliencia del día",
+             "id":"RE20CD04112003"
+          }
+       ]
+    }
+ }

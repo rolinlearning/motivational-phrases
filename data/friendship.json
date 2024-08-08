@@ -1,0 +1,292 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"Un amigo es uno que lo sabe todo sobre ti y a pesar de ello te quiere.",
+    "length":"72",
+    "author":"Elbert Hubbard",
+    "tags":[
+    "amistad",
+    "conocimiento",
+    "aceptación"
+    ],
+    "category":"friendship",
+    "date":"1859-1915",
+    "title":"Cita sobre la amistad",
+    "id":"1"
+    },
+    {
+    "quote":"No camines delante de mí, puede que no te siga. No camines detrás de mí, puede que no lidere. Camina junto a mí y sé mi amigo.",
+    "length":"125",
+    "author":"Albert Camus",
+    "tags":[
+    "amistad",
+    "compañerismo",
+    "igualdad"
+    ],
+    "category":"friendship",
+    "date":"1913-1960",
+    "title":"Cita sobre la amistad",
+    "id":"2"
+    },
+    {
+    "quote":"La amistad no es una planta que puedas dejar crecer sola. Tiene que ser cultivada.",
+    "length":"81",
+    "author":"Anónimo",
+    "tags":[
+    "amistad",
+    "cuidado",
+    "esfuerzo"
+    ],
+    "category":"friendship",
+    "date":"Desconocida",
+    "title":"Cita sobre la amistad",
+    "id":"3"
+    },
+    {
+    "quote":"No hay posesión más valiosa que una firme y sincera amistad.",
+    "length":"61",
+    "author":"Tomás de Kempis",
+    "tags":[
+    "amistad",
+    "valor",
+    "sinceridad"
+    ],
+    "category":"friendship",
+    "date":"1380-1471",
+    "title":"Cita sobre la amistad",
+    "id":"4"
+    },
+    {
+    "quote":"Las amistades se conservan mejor entre personas de igualdad.",
+    "length":"59",
+    "author":"Tito Livio",
+    "tags":[
+    "amistad",
+    "igualdad",
+    "conservación"
+    ],
+    "category":"friendship",
+    "date":"59 a.C.-17 d.C",
+    "title":"Cita sobre la amistad",
+    "id":"5"
+    },
+    {
+    "quote":"La amistad es el único cemento que siempre une y nunca se reseca.",
+    "length":"65",
+    "author":"John Wooden",
+    "tags":[
+    "amistad",
+    "unión",
+    "perdurable"
+    ],
+    "category":"friendship",
+    "date":"1910-2010",
+    "title":"Cita sobre la amistad",
+    "id":"6"
+    },
+    {
+    "quote":"Una amistad de verdad es un alma en dos cuerpos.",
+    "length":"48",
+    "author":"Aristóteles",
+    "tags":[
+    "amistad",
+    "vínculo",
+    "almas gemelas"
+    ],
+    "category":"friendship",
+    "date":"384 a.C-322 a.C",
+    "title":"Cita sobre la amistad",
+    "id":"7"
+    },
+    {
+    "quote":"La amistad es amor sin alas.",
+    "length":"28",
+    "author":"Lord Byron",
+    "tags":[
+    "amistad",
+    "amor",
+    "sencillez"
+    ],
+    "category":"friendship",
+    "date":"1788-1824",
+    "title":"Cita sobre la amistad",
+    "id":"8"
+    },
+    {
+    "quote":"La verdadera amistad multiplica los bienes de la vida y divide sus males.",
+    "length":"71",
+    "author":"Baltasar Gracián",
+    "tags":[
+    "amistad",
+    "bienestar",
+    "apoyo"
+    ],
+    "category":"friendship",
+    "date":"1601-1658",
+    "title":"Cita sobre la amistad",
+    "id":"9"
+    },
+    {
+    "quote":"Un amigo es un tesoro que ningún dinero puede comprar.",
+    "length":"53",
+    "author":"Anónimo",
+    "tags":[
+    "amistad",
+    "valor",
+    "riqueza"
+    ],
+    "category":"friendship",
+    "date":"Desconocida",
+    "title":"Cita sobre la amistad",
+    "id":"10"
+    },
+    {
+    "quote":"Una verdadera amistad no es una relación desinteresada, porque nadie estaría interesado en una relación así.",
+    "length":"105",
+    "author":"Milán Kundera",
+    "tags":[
+    "amistad",
+    "interés",
+    "reciprocidad"
+    ],
+    "category":"friendship",
+    "date":"1929",
+    "title":"Cita sobre la amistad",
+    "id":"11"
+    },
+    {
+    "quote":"No hay posesión más valiosa que una firme y verdadera amistad.",
+    "length":"61",
+    "author":"Tomás de Kempis",
+    "tags":[
+    "amistad",
+    "valor",
+    "verdad"
+    ],
+    "category":"friendship",
+    "date":"1380-1471",
+    "title":"Cita sobre la amistad",
+    "id":"12"
+    },
+    {
+    "quote":"Una amistad que puede cesar, nunca fue real.",
+    "length":"42",
+    "author":"San Jerónimo",
+    "tags":[
+    "amistad",
+    "autenticidad",
+    "permanencia"
+    ],
+    "category":"friendship",
+    "date":"347-420",
+    "title":"Cita sobre la amistad",
+    "id":"13"
+    },
+    {
+    "quote":"La amistad es la única corriente que corre clara y fresca a través de las vidas de los hombres.",
+    "length":"93",
+    "author":"Bryan W. Procter",
+    "tags":[
+    "amistad",
+    "claridad",
+    "frescura"
+    ],
+    "category":"friendship",
+    "date":"1787-1874",
+    "title":"Cita sobre la amistad",
+    "id":"14"
+    },
+    {
+    "quote":"Una verdadera amistad siempre te anima, nunca te humilla.",
+    "length":"55",
+    "author":"George Eliot",
+    "tags":[
+    "amistad",
+    "ánimo",
+    "apoyo"
+    ],
+    "category":"friendship",
+    "date":"1819-1880",
+    "title":"Cita sobre la amistad",
+    "id":"15"
+    },
+    {
+    "quote":"Las amistades nacen de afectos mutuos y se alimentan de una ternura recíproca.",
+    "length":"78",
+    "author":"Voltaire",
+    "tags":[
+    "amistad",
+    "afecto",
+    "ternura",
+    "reciprocidad"
+    ],
+    "category":"friendship",
+    "date":"1694-1778",
+    "title":"Cita sobre la amistad",
+    "id":"16"
+    },
+    {
+    "quote":"Una amistad larga hace la vida más noble.",
+    "length":"40",
+    "author":"Ralph Waldo Emerson",
+    "tags":[
+    "amistad",
+    "vida",
+    "nobleza"
+    ],
+    "category":"friendship",
+    "date":"1803-1882",
+    "title":"Cita sobre la amistad",
+    "id":"17"
+    },
+    {
+    "quote":"No hay nada más noble que cultivar la amistad de un alma hermosa.",
+    "length":"66",
+    "author":"Cicerón",
+    "tags":[
+    "amistad",
+    "alma",
+    "nobleza",
+    "cultivo"
+    ],
+    "category":"friendship",
+    "date":"106-43 a.C.",
+    "title":"Cita sobre la amistad",
+    "id":"18"
+    },
+    {
+    "quote":"Nunca encontrarás una amistad mejor que la confianza.",
+    "length":"52",
+    "author":"Sófocles",
+    "tags":[
+    "amistad",
+    "confianza",
+    "virtud"
+    ],
+    "category":"friendship",
+    "date":"496-406 a.C.",
+    "title":"Cita sobre la amistad",
+    "id":"19"
+    },
+    {
+    "quote":"Las amistades más bellas han sido forjadas por la adversidad, como el hierro por el fuego.",
+    "length":"87",
+    "author":"Lord Byron",
+    "tags":[
+    "amistad",
+    "belleza",
+    "adversidad",
+    "fortaleza"
+    ],
+    "category":"friendship",
+    "date":"1788-1824",
+    "title":"Cita sobre la amistad",
+    "id":"20"
+    }
+    ]
+    }
+    }

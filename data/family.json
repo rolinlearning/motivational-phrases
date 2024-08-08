@@ -1,0 +1,298 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"La familia es el lugar donde el corazón se siente más en casa.",
+    "length":"61",
+    "author":"Anónimo",
+    "tags":[
+    "familia",
+    "hogar",
+    "corazón"
+    ],
+    "category":"family",
+    "date":"Desconocida",
+    "title":"Cita sobre la familia",
+    "id":"1"
+    },
+    {
+    "quote":"Lo que cuenta verdaderamente en la familia debe ser algo sencillo y austero, y sano y bueno.",
+    "length":"92",
+    "author":"Jessamyn West",
+    "tags":[
+    "familia",
+    "sencillez",
+    "bondad",
+    "salud"
+    ],
+    "category":"family",
+    "date":"1902-1984",
+    "title":"Cita sobre la familia",
+    "id":"2"
+    },
+    {
+    "quote":"Una familia feliz es un paraíso anticipado.",
+    "length":"43",
+    "author":"John Bowring",
+    "tags":[
+    "familia",
+    "felicidad",
+    "paraíso"
+    ],
+    "category":"family",
+    "date":"1792-1872",
+    "title":"Cita sobre la familia",
+    "id":"3"
+    },
+    {
+    "quote":"Familia, el ancla que te mantiene firme en las tormentas de la vida.",
+    "length":"65",
+    "author":"Anónimo",
+    "tags":[
+    "familia",
+    "ancla",
+    "firmeza",
+    "tormentas"
+    ],
+    "category":"family",
+    "date":"Desconocida",
+    "title":"Cita sobre la familia",
+    "id":"4"
+    },
+    {
+    "quote":"En la familia la unión hace la fuerza.",
+    "length":"38",
+    "author":"Proverbio francés",
+    "tags":[
+    "familia",
+    "unión",
+    "fuerza"
+    ],
+    "category":"family",
+    "date":"Popular",
+    "title":"Cita sobre la familia",
+    "id":"5"
+    },
+    {
+    "quote":"El vínculo familiar es la unión más poderosa y hermosa del mundo.",
+    "length":"63",
+    "author":"Trumbo",
+    "tags":[
+    "familia",
+    "vínculo",
+    "poderoso",
+    "hermoso"
+    ],
+    "category":"family",
+    "date":"1905-1976",
+    "title":"Cita sobre la familia",
+    "id":"6"
+    },
+    {
+    "quote":"No se es una familia porque se comparte la misma sangre, sino porque se abraza el corazón.",
+    "length":"90",
+    "author":"Anónimo",
+    "tags":[
+    "familia",
+    "sangre",
+    "corazón",
+    "amor"
+    ],
+    "category":"family",
+    "date":"Desconocida",
+    "title":"Cita sobre la familia",
+    "id":"7"
+    },
+    {
+    "quote":"La familia es el primer círculo de afecto y solidaridad del ser humano.",
+    "length":"69",
+    "author":"Miguel de Unamuno",
+    "tags":[
+    "familia",
+    "afecto",
+    "solidaridad",
+    "humanidad"
+    ],
+    "category":"family",
+    "date":"1864-1936",
+    "title":"Cita sobre la familia",
+    "id":"8"
+    },
+    {
+    "quote":"Otros pueden amarte, pero sólo tu familia lo hará pase lo que pase.",
+    "length":"66",
+    "author":"Anónimo",
+    "tags":[
+    "familia",
+    "amor",
+    "incondicional"
+    ],
+    "category":"family",
+    "date":"Desconocida",
+    "title":"Cita sobre la familia",
+    "id":"9"
+    },
+    {
+    "quote":"Una familia es un tesoro valiosísimo, rico con risas y buen humor.",
+    "length":"65",
+    "author":"Anónimo",
+    "tags":[
+    "familia",
+    "tesoro",
+    "risas",
+    "humor"
+    ],
+    "category":"family",
+    "date":"Desconocida",
+    "title":"Cita sobre la familia",
+    "id":"10"
+    },
+    {
+    "quote":"La familia es el santuario de la vida.",
+    "length":"37",
+    "author":"Jeremy Taylor",
+    "tags":[
+    "familia",
+    "santuario",
+    "vida"
+    ],
+    "category":"family",
+    "date":"1613-1667",
+    "title":"Cita sobre la familia",
+    "id":"11"
+    },
+    {
+    "quote":"Llamar 'hogar' al lugar donde se encuentra la familia, es llamarlo 'paraíso'.",
+    "length":"74",
+    "author":"Charles Dickens",
+    "tags":[
+    "familia",
+    "hogar",
+    "paraíso"
+    ],
+    "category":"family",
+    "date":"1812-1870",
+    "title":"Cita sobre la familia",
+    "id":"12"
+    },
+    {
+    "quote":"La familia es la primera escuela para las virtudes humanas fundamentales.",
+    "length":"70",
+    "author":"Juan Pablo II",
+    "tags":[
+    "familia",
+    "escuela",
+    "virtudes",
+    "humanidad"
+    ],
+    "category":"family",
+    "date":"1920-2005",
+    "title":"Cita sobre la familia",
+    "id":"13"
+    },
+    {
+    "quote":"La paz doméstica es la recompensa de la armonía familiar.",
+    "length":"54",
+    "author":"Maria Edgeworth",
+    "tags":[
+    "familia",
+    "paz",
+    "armonía",
+    "recompensa"
+    ],
+    "category":"family",
+    "date":"1767-1849",
+    "title":"Cita sobre la familia",
+    "id":"14"
+    },
+    {
+    "quote":"Mi familia es mi fortaleza y mi gran debilidad.",
+    "length":"47",
+    "author":"Aung San Suu Kyi",
+    "tags":[
+    "familia",
+    "fortaleza",
+    "debilidad"
+    ],
+    "category":"family",
+    "date":"1945",
+    "title":"Cita sobre la familia",
+    "id":"15"
+    },
+    {
+    "quote":"Nada es más importante que la unión de una familia amorosa.",
+    "length":"59",
+    "author":"Francisco de Asís",
+    "tags":[
+    "familia",
+    "unión",
+    "amor"
+    ],
+    "category":"family",
+    "date":"1181-1226",
+    "title":"Cita sobre la familia",
+    "id":"16"
+    },
+    {
+    "quote":"Una familia unida puede sobrevivir a las mayores adversidades.",
+    "length":"62",
+    "author":"Anónimo",
+    "tags":[
+    "familia",
+    "unión",
+    "adversidad",
+    "supervivencia"
+    ],
+    "category":"family",
+    "date":"Desconocida",
+    "title":"Cita sobre la familia",
+    "id":"17"
+    },
+    {
+    "quote":"La familia es el núcleo preciado de la sociedad.",
+    "length":"46",
+    "author":"Billy Graham",
+    "tags":[
+    "familia",
+    "núcleo",
+    "sociedad"
+    ],
+    "category":"family",
+    "date":"1918-2018",
+    "title":"Cita sobre la familia",
+    "id":"18"
+    },
+    {
+    "quote":"La felicidad es tener una familia numerosa y buena.",
+    "length":"50",
+    "author":"Confucio",
+    "tags":[
+    "familia",
+    "felicidad",
+    "bondad"
+    ],
+    "category":"family",
+    "date":"551-479 a.C.",
+    "title":"Cita sobre la familia",
+    "id":"19"
+    },
+    {
+    "quote":"La familia es el corazón de cualquier sociedad sana.",
+    "length":"51",
+    "author":"Karmapa Tenzin Gyatso",
+    "tags":[
+    "familia",
+    "corazón",
+    "sociedad sana"
+    ],
+    "category":"family",
+    "date":"1924-Presente",
+    "title":"Cita sobre la familia",
+    "id":"20"
+    }
+    ]
+    }
+    }

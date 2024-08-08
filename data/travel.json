@@ -1,0 +1,300 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"Viajar no es solo un placer para los ricos, es una introducción a la vida misma.",
+    "length":"81",
+    "author":"Anónimo",
+    "tags":[
+    "viajes",
+    "vida",
+    "riqueza"
+    ],
+    "category":"travel",
+    "date":"Desconocida",
+    "title":"Cita sobre viajar",
+    "id":"1"
+    },
+    {
+    "quote":"Un viajero sin observación es un pájaro sin alas.",
+    "length":"49",
+    "author":"Moslih Eddin Saadi",
+    "tags":[
+    "viajes",
+    "observación",
+    "perspectiva"
+    ],
+    "category":"travel",
+    "date":"1184-1283",
+    "title":"Cita sobre viajar",
+    "id":"2"
+    },
+    {
+    "quote":"Viajar es a la aventura lo que el aprendizaje es a la sabiduría.",
+    "length":"61",
+    "author":"Amelia Barr",
+    "tags":[
+    "viajes",
+    "aventura",
+    "aprendizaje",
+    "sabiduría"
+    ],
+    "category":"travel",
+    "date":"1831-1919",
+    "title":"Cita sobre viajar",
+    "id":"3"
+    },
+    {
+    "quote":"Estar viajando es vivir la vida siempre por primera vez.",
+    "length":"56",
+    "author":"Gary Arndt",
+    "tags":[
+    "viajes",
+    "vida",
+    "novedades"
+    ],
+    "category":"travel",
+    "date":"Siglo XXI",
+    "title":"Cita sobre viajar",
+    "id":"4"
+    },
+    {
+    "quote":"Los viajes nos dejan memorias inolvidables, momentos para atesorar por el resto de nuestras vidas.",
+    "length":"96",
+    "author":"Anónimo",
+    "tags":[
+    "viajes",
+    "memorias",
+    "momentos",
+    "atesorar"
+    ],
+    "category":"travel",
+    "date":"Desconocida",
+    "title":"Cita sobre viajar",
+    "id":"5"
+    },
+    {
+    "quote":"Un viaje de mil millas comienza con un solo paso.",
+    "length":"48",
+    "author":"Lao Tzu",
+    "tags":[
+    "viajes",
+    "comienzos",
+    "esfuerzo"
+    ],
+    "category":"travel",
+    "date":"c.604-531 a.C.",
+    "title":"Cita sobre viajar",
+    "id":"6"
+    },
+    {
+    "quote":"Viajar deja joven el espíritu, una de las cosas más maravillosas que el dinero no puede comprar.",
+    "length":"94",
+    "author":"Anónimo",
+    "tags":[
+    "viajes",
+    "espíritu joven",
+    "riqueza",
+    "felicidad"
+    ],
+    "category":"travel",
+    "date":"Desconocida",
+    "title":"Cita sobre viajar",
+    "id":"7"
+    },
+    {
+    "quote":"La vida es un viaje para equilibrar el alma con el universo.",
+    "length":"59",
+    "author":"Gary Zukav",
+    "tags":[
+    "viajes",
+    "vida",
+    "alma",
+    "universo"
+    ],
+    "category":"travel",
+    "date":"1942",
+    "title":"Cita sobre viajar",
+    "id":"8"
+    },
+    {
+    "quote":"Estoy listo para viajar para ver escenas paisajísticas maravillosas que semejan sueños permanentes.",
+    "length":"94",
+    "author":"John Muir",
+    "tags":[
+    "viajes",
+    "paisajes",
+    "sueños",
+    "naturaleza"
+    ],
+    "category":"travel",
+    "date":"1838-1914",
+    "title":"Cita sobre viajar",
+    "id":"9"
+    },
+    {
+    "quote":"El mundo es un libro, y aquellos que no viajan leen solo una página.",
+    "length":"65",
+    "author":"San Agustín",
+    "tags":[
+    "viajes",
+    "mundo",
+    "libro",
+    "conocimiento"
+    ],
+    "category":"travel",
+    "date":"354-430",
+    "title":"Cita sobre viajar",
+    "id":"10"
+    },
+    {
+    "quote":"Los viajes forjan el carácter, calmando la mente con extraordinarios placeres externos.",
+    "length":"84",
+    "author":"Anónimo",
+    "tags":[
+    "viajes",
+    "carácter",
+    "mente",
+    "placeres"
+    ],
+    "category":"travel",
+    "date":"Desconocida",
+    "title":"Cita sobre viajar",
+    "id":"11"
+    },
+    {
+    "quote":"No importa cómo viajas, lo importante es ir.",
+    "length":"44",
+    "author":"Anónimo",
+    "tags":[
+    "viajes",
+    "ir",
+    "camino"
+    ],
+    "category":"travel",
+    "date":"Desconocida",
+    "title":"Cita sobre viajar",
+    "id":"12"
+    },
+    {
+    "quote":"La verdadera felicidad proviene de viajar de un lugar a otro persiguiendo todavía otro lugar.",
+    "length":"92",
+    "author":"Robert Kaplan",
+    "tags":[
+    "viajes",
+    "felicidad",
+    "aventura",
+    "búsqueda"
+    ],
+    "category":"travel",
+    "date":"1952",
+    "title":"Cita sobre viajar",
+    "id":"13"
+    },
+    {
+    "quote":"Para viajar con alegría hay que viajar ligero.",
+    "length":"46",
+    "author":"Antoine de Saint-Exupéry",
+    "tags":[
+    "viajes",
+    "alegría",
+    "ligereza"
+    ],
+    "category":"travel",
+    "date":"1900-1944",
+    "title":"Cita sobre viajar",
+    "id":"14"
+    },
+    {
+    "quote":"Los viajes son el sello de la educación realizada con los ojos y el alma de un ser humano sensato.",
+    "length":"96",
+    "author":"Ella Maillart",
+    "tags":[
+    "viajes",
+    "educación",
+    "alma",
+    "sensatez"
+    ],
+    "category":"travel",
+    "date":"1903-1997",
+    "title":"Cita sobre viajar",
+    "id":"15"
+    },
+    {
+    "quote":"No hayáis de comer ni dormir, sino leer y viajar.",
+    "length":"49",
+    "author":"Fray Luis de León",
+    "tags":[
+    "viajes",
+    "lectura",
+    "exploración"
+    ],
+    "category":"travel",
+    "date":"1527-1591",
+    "title":"Cita sobre viajar",
+    "id":"16"
+    },
+    {
+    "quote":"Un viaje de mil millas debe comenzar con un simple paso.",
+    "length":"55",
+    "author":"Lao Tzu",
+    "tags":[
+    "viajes",
+    "comienzo",
+    "pasos"
+    ],
+    "category":"travel",
+    "date":"c.604-531 a.C.",
+    "title":"Cita sobre viajar",
+    "id":"17"
+    },
+    {
+    "quote":"Si pensamos aventura es demasiado peligrosa, viviremos toda nuestra vida como los últimos.",
+    "length":"89",
+    "author":"Wilfred Thesiger",
+    "tags":[
+    "viajes",
+    "aventura",
+    "peligro",
+    "vida"
+    ],
+    "category":"travel",
+    "date":"1910-2003",
+    "title":"Cita sobre viajar",
+    "id":"18"
+    },
+    {
+    "quote":"Como todos los grandes viajeros, he visto más que países. He cruzado las líneas de prejuicios.",
+    "length":"92",
+    "author":"Mary Antin",
+    "tags":[
+    "viajes",
+    "crecimiento",
+    "prejuicios",
+    "mentalidad"
+    ],
+    "category":"travel",
+    "date":"1881-1949",
+    "title":"Cita sobre viajar",
+    "id":"19"
+    },
+    {
+    "quote":"El viaje en sí mismo es hogar.",
+    "length":"30",
+    "author":"Ellison Onizuka",
+    "tags":[
+    "viajes",
+    "hogar",
+    "camino"
+    ],
+    "category":"travel",
+    "date":"1946-1986",
+    "title":"Cita sobre viajar",
+    "id":"20"
+    }
+    ]
+    }
+    }

@@ -1,0 +1,289 @@
+{
+    "success":{
+       "total":20
+    },
+    "contents":{
+       "quotes":[
+          {
+             "quote":"La espiritualidad es despertar a la divinidad que hay dentro de ti.",
+             "length":"66",
+             "author":"Amit Ray",
+             "tags":[
+                "espiritualidad",
+                "despertar",
+                "divinidad"
+             ],
+             "category":"espiritualidad",
+             "date":"2015-03-21",
+             "title":"Cita espiritual del día",
+             "id":"ES01AR21032015"
+          },
+          {
+             "quote":"El silencio es el lenguaje de Dios, todo lo demás es una mala traducción.",
+             "length":"77",
+             "author":"Rumi",
+             "tags":[
+                "silencio",
+                "Dios",
+                "espiritualidad"
+             ],
+             "category":"espiritualidad",
+             "date":"1260-09-30",
+             "title":"Cita espiritual del día",
+             "id":"ES02RU30091260"
+          },
+          {
+             "quote":"La religión es para quienes temen el infierno. La espiritualidad es para quienes ya han estado allí.",
+             "length":"105",
+             "author":"Vine Deloria Jr.",
+             "tags":[
+                "religión",
+                "espiritualidad",
+                "experiencia"
+             ],
+             "category":"espiritualidad",
+             "date":"1994-11-15",
+             "title":"Cita espiritual del día",
+             "id":"ES03VD15111994"
+          },
+          {
+             "quote":"El alma siempre sabe qué hacer para sanarse a sí misma. El desafío es silenciar la mente.",
+             "length":"93",
+             "author":"Caroline Myss",
+             "tags":[
+                "alma",
+                "sanación",
+                "mente"
+             ],
+             "category":"espiritualidad",
+             "date":"2004-07-09",
+             "title":"Cita espiritual del día",
+             "id":"ES04CM09072004"
+          },
+          {
+             "quote":"La espiritualidad es reconocer y celebrar que estamos todos inextricablemente conectados entre sí por un poder mayor que todos nosotros.",
+             "length":"139",
+             "author":"Brené Brown",
+             "tags":[
+                "conexión",
+                "celebración",
+                "poder"
+             ],
+             "category":"espiritualidad",
+             "date":"2010-06-12",
+             "title":"Cita espiritual del día",
+             "id":"ES05BB12062010"
+          },
+          {
+             "quote":"Tu visión se volverá clara solamente cuando puedas mirar en tu propio corazón.",
+             "length":"84",
+             "author":"Carl Jung",
+             "tags":[
+                "visión",
+                "corazón",
+                "introspección"
+             ],
+             "category":"espiritualidad",
+             "date":"1957-02-18",
+             "title":"Cita espiritual del día",
+             "id":"ES06CJ18021957"
+          },
+          {
+             "quote":"La espiritualidad es la ciencia de la conexión del alma con su fuente.",
+             "length":"71",
+             "author":"Amit Ray",
+             "tags":[
+                "ciencia",
+                "alma",
+                "conexión"
+             ],
+             "category":"espiritualidad",
+             "date":"2017-08-03",
+             "title":"Cita espiritual del día",
+             "id":"ES07AR03082017"
+          },
+          {
+             "quote":"El propósito de la vida es vivir una vida con propósito.",
+             "length":"58",
+             "author":"Richard Leider",
+             "tags":[
+                "propósito",
+                "vida",
+                "significado"
+             ],
+             "category":"espiritualidad",
+             "date":"1997-04-22",
+             "title":"Cita espiritual del día",
+             "id":"ES08RL22041997"
+          },
+          {
+             "quote":"La paz viene desde adentro. No la busques afuera.",
+             "length":"53",
+             "author":"Buda",
+             "tags":[
+                "paz",
+                "interior",
+                "búsqueda"
+             ],
+             "category":"espiritualidad",
+             "date":"528-05-15",
+             "title":"Cita espiritual del día",
+             "id":"ES09BU15055280"
+          },
+          {
+             "quote":"El universo no está fuera de ti. Mira dentro de ti; todo lo que quieres, ya eres.",
+             "length":"85",
+             "author":"Rumi",
+             "tags":[
+                "universo",
+                "interior",
+                "realización"
+             ],
+             "category":"espiritualidad",
+             "date":"1273-12-17",
+             "title":"Cita espiritual del día",
+             "id":"ES10RU17121273"
+          },
+          {
+             "quote":"La espiritualidad es vivir la vida ordinaria con extraordinaria conciencia.",
+             "length":"75",
+             "author":"Osho",
+             "tags":[
+                "vida",
+                "conciencia",
+                "ordinario"
+             ],
+             "category":"espiritualidad",
+             "date":"1985-03-30",
+             "title":"Cita espiritual del día",
+             "id":"ES11OS30031985"
+          },
+          {
+             "quote":"Somos seres espirituales teniendo una experiencia humana.",
+             "length":"62",
+             "author":"Pierre Teilhard de Chardin",
+             "tags":[
+                "ser",
+                "experiencia",
+                "humanidad"
+             ],
+             "category":"espiritualidad",
+             "date":"1955-04-10",
+             "title":"Cita espiritual del día",
+             "id":"ES12PT10041955"
+          },
+          {
+             "quote":"La espiritualidad es la llave maestra que abre todas las puertas.",
+             "length":"64",
+             "author":"Swami Vivekananda",
+             "tags":[
+                "llave",
+                "puertas",
+                "apertura"
+             ],
+             "category":"espiritualidad",
+             "date":"1893-09-11",
+             "title":"Cita espiritual del día",
+             "id":"ES13SV11091893"
+          },
+          {
+             "quote":"El camino espiritual es simplemente el viaje de vivir nuestra vida. Todos ya estamos en un camino espiritual, lo sepamos o no.",
+             "length":"138",
+             "author":"Paulo Coelho",
+             "tags":[
+                "camino",
+                "vida",
+                "conciencia"
+             ],
+             "category":"espiritualidad",
+             "date":"2006-08-24",
+             "title":"Cita espiritual del día",
+             "id":"ES14PC24082006"
+          },
+          {
+             "quote":"La espiritualidad es la conciencia de que todo está conectado.",
+             "length":"63",
+             "author":"Eckhart Tolle",
+             "tags":[
+                "conciencia",
+                "conexión",
+                "unidad"
+             ],
+             "category":"espiritualidad",
+             "date":"2005-10-06",
+             "title":"Cita espiritual del día",
+             "id":"ES15ET06102005"
+          },
+          {
+             "quote":"La verdadera espiritualidad es la del guerrero. No es una huida del mundo, sino un compromiso valiente con la vida.",
+             "length":"118",
+             "author":"Chogyam Trungpa",
+             "tags":[
+                "guerrero",
+                "compromiso",
+                "vida"
+             ],
+             "category":"espiritualidad",
+             "date":"1976-07-20",
+             "title":"Cita espiritual del día",
+             "id":"ES16CT20071976"
+          },
+          {
+             "quote":"La espiritualidad es el arte de estar vivo.",
+             "length":"44",
+             "author":"Thich Nhat Hanh",
+             "tags":[
+                "arte",
+                "vida",
+                "presencia"
+             ],
+             "category":"espiritualidad",
+             "date":"1999-03-14",
+             "title":"Cita espiritual del día",
+             "id":"ES17TN14031999"
+          },
+          {
+             "quote":"La espiritualidad es la manera más elevada de conciencia política.",
+             "length":"66",
+             "author":"Vimala Thakar",
+             "tags":[
+                "conciencia",
+                "política",
+                "elevación"
+             ],
+             "category":"espiritualidad",
+             "date":"1984-11-30",
+             "title":"Cita espiritual del día",
+             "id":"ES18VT30111984"
+          },
+          {
+             "quote":"La espiritualidad no es adoptar más creencias y suposiciones, sino descubrir nuestra naturaleza esencial.",
+             "length":"106",
+             "author":"Eckhart Tolle",
+             "tags":[
+                "creencias",
+                "naturaleza",
+                "descubrimiento"
+             ],
+             "category":"espiritualidad",
+             "date":"2008-09-18",
+             "title":"Cita espiritual del día",
+             "id":"ES19ET18092008"
+          },
+          {
+             "quote":"La espiritualidad es la conciencia de que estamos aquí para servir.",
+             "length":"67",
+             "author":"Amit Ray",
+             "tags":[
+                "servicio",
+                "conciencia",
+                "propósito"
+             ],
+             "category":"espiritualidad",
+             "date":"2019-02-07",
+             "title":"Cita espiritual del día",
+             "id":"ES20AR07022019"
+          }
+       ]
+    }
+ }

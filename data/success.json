@@ -1,0 +1,306 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.",
+    "length":"111",
+    "author":"Albert Schweitzer",
+    "tags":[
+    "éxito",
+    "felicidad",
+    "amor",
+    "trabajo"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"1"
+    },
+    {
+    "quote":"El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
+    "length":"62",
+    "author":"Winston Churchill",
+    "tags":[
+    "éxito",
+    "fracaso",
+    "entusiasmo"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"2"
+    },
+    {
+    "quote":"El éxito no es casualidad. Es trabajo duro, perseverancia, aprendizaje, estudio, sacrificio y, sobre todo, amor por lo que estás haciendo o aprendiendo a hacer.",
+    "length":"144",
+    "author":"Pelé",
+    "tags":[
+    "éxito",
+    "trabajo duro",
+    "perseverancia",
+    "aprendizaje",
+    "sacrificio",
+    "amor"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"3"
+    },
+    {
+    "quote":"El secreto del éxito es la constancia del propósito.",
+    "length":"50",
+    "author":"Benjamin Disraeli",
+    "tags":[
+    "éxito",
+    "secreto",
+    "constancia",
+    "propósito"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"4"
+    },
+    {
+    "quote":"El éxito es la suma de pequeños esfuerzos, repetidos día tras día.",
+    "length":"64",
+    "author":"Robert Collier",
+    "tags":[
+    "éxito",
+    "esfuerzos pequeños",
+    "repetición",
+    "constancia"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"5"
+    },
+    {
+    "quote":"No temas al fracaso, pero sí teme no progresar.",
+    "length":"45",
+    "author":"Woody Allen",
+    "tags":[
+    "fracaso",
+    "progreso",
+    "éxito"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"6"
+    },
+    {
+    "quote":"El éxito es la habilidad de ir de fracaso en fracaso sin perder el entusiasmo.",
+    "length":"77",
+    "author":"Winston Churchill",
+    "tags":[
+    "éxito",
+    "habilidad",
+    "fracaso",
+    "entusiasmo"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"7"
+    },
+    {
+    "quote":"El éxito no es accidental. Es trabajo duro, perseverancia, aprendizaje, estudio, sacrificio y, sobre todo, amor por lo que estás haciendo o aprendiendo a hacer.",
+    "length":"145",
+    "author":"Pelé",
+    "tags":[
+    "éxito",
+    "trabajo duro",
+    "perseverancia",
+    "aprendizaje",
+    "estudio",
+    "sacrificio",
+    "amor"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"8"
+    },
+    {
+    "quote":"El secreto de tener éxito en la vida es hacer las cosas que gustan a la gente.",
+    "length":"76",
+    "author":"Anónimo",
+    "tags":[
+    "éxito",
+    "vida",
+    "complacer",
+    "gente"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"9"
+    },
+    {
+    "quote":"El éxito es la capacidad de ir de un fracaso a otro sin perder el entusiasmo.",
+    "length":"77",
+    "author":"Winston Churchill",
+    "tags":[
+    "éxito",
+    "capacidad",
+    "fracaso",
+    "entusiasmo"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"10"
+    },
+    {
+    "quote":"El éxito no es algo que se persigue; acude a aquellos que la merecen.",
+    "length":"67",
+    "author":"Anónimo",
+    "tags":[
+    "éxito",
+    "perseguir",
+    "merecimiento"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"11"
+    },
+    {
+    "quote":"El éxito es la paz mental de estar satisfecho con uno mismo.",
+    "length":"59",
+    "author":"Anónimo",
+    "tags":[
+    "éxito",
+    "paz mental",
+    "satisfacción"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"12"
+    },
+    {
+    "quote":"El éxito solo tiene un camino: el trabajo duro, la dedicación y la determinación.",
+    "length":"78",
+    "author":"Anónimo",
+    "tags":[
+    "éxito",
+    "trabajo duro",
+    "dedicación",
+    "determinación"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"13"
+    },
+    {
+    "quote":"El éxito es hacer de tu vida lo que deseas que sea.",
+    "length":"50",
+    "author":"Anónimo",
+    "tags":[
+    "éxito",
+    "vida",
+    "deseos"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"14"
+    },
+    {
+    "quote":"El verdadero éxito es ser realmente quien eres.",
+    "length":"44",
+    "author":"Bruce Lee",
+    "tags":[
+    "éxito",
+    "verdadero ser",
+    "autenticidad"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"15"
+    },
+    {
+    "quote":"El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+    "length":"71",
+    "author":"Albert Schweitzer",
+    "tags":[
+    "éxito",
+    "felicidad",
+    "clave"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"16"
+    },
+    {
+    "quote":"El éxito es un maestro pobre; es el fracaso el que más lecciones da.",
+    "length":"66",
+    "author":"Anónimo",
+    "tags":[
+    "éxito",
+    "fracaso",
+    "lecciones"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"17"
+    },
+    {
+    "quote":"El éxito es subir la misma escalera otra vez.",
+    "length":"44",
+    "author":"Stephen Karam",
+    "tags":[
+    "éxito",
+    "escalera",
+    "perseverancia"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"18"
+    },
+    {
+    "quote":"El éxito no es definitivo, el fracaso no es fatídico: lo esencial es el valor para continuar la lucha.",
+    "length":"100",
+    "author":"Winston Churchill",
+    "tags":[
+    "éxito",
+    "fracaso",
+    "valor",
+    "lucha",
+    "perseverancia"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"19"
+    },
+    {
+    "quote":"El éxito es la suma de pequeños esfuerzos, repetidos día tras día.",
+    "length":"64",
+    "author":"Robert Collier",
+    "tags":[
+    "éxito",
+    "pequeños esfuerzos",
+    "repetición",
+    "constancia"
+    ],
+    "category":"success",
+    "date":"2023-08-08",
+    "title":"Frase sobre el éxito del día",
+    "id":"20"
+    }
+    ]
+    }
+    }

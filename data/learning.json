@@ -1,0 +1,292 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"El aprendizaje es como remar contra la corriente: en cuanto se deja, se retrocede.",
+    "length":"81",
+    "author":"Proverbio chino",
+    "tags":[
+    "aprendizaje",
+    "esfuerzo",
+    "perseverancia"
+    ],
+    "category":"learning",
+    "date":"Popular",
+    "title":"Cita sobre el aprendizaje",
+    "id":"1"
+    },
+    {
+    "quote":"Nunca consideres el estudio como una obligación, sino como una oportunidad para penetrar en el maravilloso mundo del saber.",
+    "length":"123",
+    "author":"Albert Einstein",
+    "tags":[
+    "aprendizaje",
+    "estudio",
+    "saber",
+    "oportunidad"
+    ],
+    "category":"learning",
+    "date":"1879-1955",
+    "title":"Cita sobre el aprendizaje",
+    "id":"2"
+    },
+    {
+    "quote":"El secreto del aprendizaje es la pasión.",
+    "length":"39",
+    "author":"Aristóteles",
+    "tags":[
+    "aprendizaje",
+    "pasión",
+    "secreto"
+    ],
+    "category":"learning",
+    "date":"384 a.C.-322 a.C.",
+    "title":"Cita sobre el aprendizaje",
+    "id":"3"
+    },
+    {
+    "quote":"Aprender es un tesoro que seguirá con su dueño por todas partes.",
+    "length":"62",
+    "author":"Proverbio chino",
+    "tags":[
+    "aprendizaje",
+    "tesoro",
+    "permanencia"
+    ],
+    "category":"learning",
+    "date":"Popular",
+    "title":"Cita sobre el aprendizaje",
+    "id":"4"
+    },
+    {
+    "quote":"El aprendizaje nunca termina. Incluso a la edad más avanzada, siempre queda algo nuevo por descubrir.",
+    "length":"98",
+    "author":"Ralph Waldo Emerson",
+    "tags":[
+    "aprendizaje",
+    "descubrimiento",
+    "edad"
+    ],
+    "category":"learning",
+    "date":"1803-1882",
+    "title":"Cita sobre el aprendizaje",
+    "id":"5"
+    },
+    {
+    "quote":"No dejes que la educación formal te distraiga de tu aprendizaje real.",
+    "length":"66",
+    "author":"Albert Einstein",
+    "tags":[
+    "aprendizaje",
+    "educación formal",
+    "aprendizaje real"
+    ],
+    "category":"learning",
+    "date":"1879-1955",
+    "title":"Cita sobre el aprendizaje",
+    "id":"6"
+    },
+    {
+    "quote":"El aprendizaje es una experiencia de toda la vida, no limitada al aula.",
+    "length":"72",
+    "author":"Gloria Steinem",
+    "tags":[
+    "aprendizaje",
+    "vida",
+    "limitaciones"
+    ],
+    "category":"learning",
+    "date":"1934",
+    "title":"Cita sobre el aprendizaje",
+    "id":"7"
+    },
+    {
+    "quote":"El aprendizaje comienza con la duda: sin ella, poco se aprende.",
+    "length":"63",
+    "author":"Proverbio árabe",
+    "tags":[
+    "aprendizaje",
+    "duda",
+    "iniciar"
+    ],
+    "category":"learning",
+    "date":"Popular",
+    "title":"Cita sobre el aprendizaje",
+    "id":"8"
+    },
+    {
+    "quote":"Aprender sin pensar es esfuerzo perdido; pensar sin aprender es peligroso.",
+    "length":"73",
+    "author":"Confucio",
+    "tags":[
+    "aprendizaje",
+    "pensar",
+    "balance"
+    ],
+    "category":"learning",
+    "date":"551-479 a.C.",
+    "title":"Cita sobre el aprendizaje",
+    "id":"9"
+    },
+    {
+    "quote":"El aprendizaje es un viaje de exploración que debería perdurar toda la vida.",
+    "length":"75",
+    "author":"Nelson Henderson",
+    "tags":[
+    "aprendizaje",
+    "viaje",
+    "exploración",
+    "vida"
+    ],
+    "category":"learning",
+    "date":"1919-1994",
+    "title":"Cita sobre el aprendizaje",
+    "id":"10"
+    },
+    {
+    "quote":"El aprendizaje es un regalo que nadie te puede quitar.",
+    "length":"53",
+    "author":"Lewis Carroll",
+    "tags":[
+    "aprendizaje",
+    "regalo",
+    "valor"
+    ],
+    "category":"learning",
+    "date":"1832-1898",
+    "title":"Cita sobre el aprendizaje",
+    "id":"11"
+    },
+    {
+    "quote":"El futuro pertenece a los que siguen aprendiendo.",
+    "length":"49",
+    "author":"Anónimo",
+    "tags":[
+    "aprendizaje",
+    "futuro",
+    "continuidad"
+    ],
+    "category":"learning",
+    "date":"Desconocida",
+    "title":"Cita sobre el aprendizaje",
+    "id":"12"
+    },
+    {
+    "quote":"Aprender es la única cosa de la que la mente nunca se cansa, nunca tiene suficiente.",
+    "length":"82",
+    "author":"Leonardo da Vinci",
+    "tags":[
+    "aprendizaje",
+    "mente",
+    "suficiencia"
+    ],
+    "category":"learning",
+    "date":"1452-1519",
+    "title":"Cita sobre el aprendizaje",
+    "id":"13"
+    },
+    {
+    "quote":"Cuanto más grande es el conocimiento, mayor es el deseo de aprender.",
+    "length":"68",
+    "author":"Voltaire",
+    "tags":[
+    "aprendizaje",
+    "conocimiento",
+    "deseo"
+    ],
+    "category":"learning",
+    "date":"1694-1778",
+    "title":"Cita sobre el aprendizaje",
+    "id":"14"
+    },
+    {
+    "quote":"La inteligencia es la habilidad de adaptarse al cambio.",
+    "length":"54",
+    "author":"Stephen Hawking",
+    "tags":[
+    "aprendizaje",
+    "inteligencia",
+    "adaptación",
+    "cambio"
+    ],
+    "category":"learning",
+    "date":"1942-2018",
+    "title":"Cita sobre el aprendizaje",
+    "id":"15"
+    },
+    {
+    "quote":"No existe una semilla más preciosa que el conocimiento que se adquiere.",
+    "length":"68",
+    "author":"Demócrito",
+    "tags":[
+    "aprendizaje",
+    "conocimiento",
+    "valor"
+    ],
+    "category":"learning",
+    "date":"460 a.C.-370 a.C.",
+    "title":"Cita sobre el aprendizaje",
+    "id":"16"
+    },
+    {
+    "quote":"La curiosidad es la clave del conocimiento.",
+    "length":"41",
+    "author":"Proverbio chino",
+    "tags":[
+    "aprendizaje",
+    "curiosidad",
+    "conocimiento"
+    ],
+    "category":"learning",
+    "date":"Popular",
+    "title":"Cita sobre el aprendizaje",
+    "id":"17"
+    },
+    {
+    "quote":"Una lección para cada día, mantiene alejada la ignorancia.",
+    "length":"57",
+    "author":"Proverbio checo",
+    "tags":[
+    "aprendizaje",
+    "cotidiano",
+    "ignorancia"
+    ],
+    "category":"learning",
+    "date":"Popular",
+    "title":"Cita sobre el aprendizaje",
+    "id":"18"
+    },
+    {
+    "quote":"Aprendí mucho de mis maestros y más de mis colegas.",
+    "length":"51",
+    "author":"Ralph Waldo Emerson",
+    "tags":[
+    "aprendizaje",
+    "maestros",
+    "colegas"
+    ],
+    "category":"learning",
+    "date":"1803-1882",
+    "title":"Cita sobre el aprendizaje",
+    "id":"19"
+    },
+    {
+    "quote":"El aprendizaje es el único juego verdaderamente universal.",
+    "length":"56",
+    "author":"Michel Serres",
+    "tags":[
+    "aprendizaje",
+    "juego",
+    "universalidad"
+    ],
+    "category":"learning",
+    "date":"1930",
+    "title":"Cita sobre el aprendizaje",
+    "id":"20"
+    }
+    ]
+    }
+    }

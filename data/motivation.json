@@ -1,0 +1,300 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"La forma más segura de no tener éxito es simplemente no intentarlo.",
+    "length":"64",
+    "author":"Richard Whately",
+    "tags":[
+    "motivación",
+    "éxito",
+    "intento"
+    ],
+    "category":"motivation",
+    "date":"1787-1863",
+    "title":"Frase motivacional del día",
+    "id":"1"
+    },
+    {
+    "quote":"El único camino hacia el éxito es tomar la firme resolución de progresar.",
+    "length":"71",
+    "author":"John Quincy Adams",
+    "tags":[
+    "motivación",
+    "éxito",
+    "resolución",
+    "progreso"
+    ],
+    "category":"motivation",
+    "date":"1767-1848",
+    "title":"Frase motivacional del día",
+    "id":"2"
+    },
+    {
+    "quote":"El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
+    "length":"71",
+    "author":"Winston Churchill",
+    "tags":[
+    "motivación",
+    "éxito",
+    "fracaso",
+    "entusiasmo"
+    ],
+    "category":"motivation",
+    "date":"1874-1965",
+    "title":"Frase motivacional del día",
+    "id":"3"
+    },
+    {
+    "quote":"La motivación encuentra la brecha final en la realización de la inspiración.",
+    "length":"72",
+    "author":"Evan Esar",
+    "tags":[
+    "motivación",
+    "inspiración",
+    "realización"
+    ],
+    "category":"motivation",
+    "date":"1899-1995",
+    "title":"Frase motivacional del día",
+    "id":"4"
+    },
+    {
+    "quote":"Cada mañana nos levantamos es la primera mañana del resto de nuestras vidas.",
+    "length":"76",
+    "author":"Anónimo",
+    "tags":[
+    "motivación",
+    "nueva oportunidad",
+    "vida"
+    ],
+    "category":"motivation",
+    "date":"Desconocida",
+    "title":"Frase motivacional del día",
+    "id":"5"
+    },
+    {
+    "quote":"El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de manera más inteligente.",
+    "length":"96",
+    "author":"Henry Ford",
+    "tags":[
+    "motivación",
+    "fracaso",
+    "oportunidad",
+    "inteligencia"
+    ],
+    "category":"motivation",
+    "date":"1863-1947",
+    "title":"Frase motivacional del día",
+    "id":"6"
+    },
+    {
+    "quote":"La clave para el éxito es el trabajo arduo y no perder nunca la esperanza.",
+    "length":"73",
+    "author":"Anónimo",
+    "tags":[
+    "motivación",
+    "éxito",
+    "trabajo duro",
+    "esperanza"
+    ],
+    "category":"motivation",
+    "date":"Desconocida",
+    "title":"Frase motivacional del día",
+    "id":"7"
+    },
+    {
+    "quote":"Nunca te rindas. Hoy es duro, mañana será peor, pero pasado mañana será radiante.",
+    "length":"79",
+    "author":"Anónimo",
+    "tags":[
+    "motivación",
+    "perseverancia",
+    "esperanza",
+    "futuro"
+    ],
+    "category":"motivation",
+    "date":"Desconocida",
+    "title":"Frase motivacional del día",
+    "id":"8"
+    },
+    {
+    "quote":"Comienza donde estás. Usa lo que tienes. Haz lo que puedas.",
+    "length":"57",
+    "author":"Arthur Ashe",
+    "tags":[
+    "motivación",
+    "acción",
+    "recursos",
+    "capacidad"
+    ],
+    "category":"motivation",
+    "date":"1943-1993",
+    "title":"Frase motivacional del día",
+    "id":"9"
+    },
+    {
+    "quote":"Un pequeño paso positivo puede ser el principio de algo realmente grande.",
+    "length":"72",
+    "author":"Anónimo",
+    "tags":[
+    "motivación",
+    "pequeños pasos",
+    "grandes logros"
+    ],
+    "category":"motivation",
+    "date":"Desconocida",
+    "title":"Frase motivacional del día",
+    "id":"10"
+    },
+    {
+    "quote":"Lo que la mente puede concebir y creer, también puede lograrlo.",
+    "length":"63",
+    "author":"Napoleón Hill",
+    "tags":[
+    "motivación",
+    "mentalidad",
+    "logros"
+    ],
+    "category":"motivation",
+    "date":"1883-1970",
+    "title":"Frase motivacional del día",
+    "id":"11"
+    },
+    {
+    "quote":"Nunca es demasiado tarde para ser lo que podrías haber sido.",
+    "length":"58",
+    "author":"George Eliot",
+    "tags":[
+    "motivación",
+    "potencial",
+    "cambio"
+    ],
+    "category":"motivation",
+    "date":"1819-1880",
+    "title":"Frase motivacional del día",
+    "id":"12"
+    },
+    {
+    "quote":"La única manera de hacer un gran trabajo es amar lo que haces.",
+    "length":"60",
+    "author":"Steve Jobs",
+    "tags":[
+    "motivación",
+    "pasión",
+    "trabajo"
+    ],
+    "category":"motivation",
+    "date":"1955-2011",
+    "title":"Frase motivacional del día",
+    "id":"13"
+    },
+    {
+    "quote":"El coraje no es tener la fuerza para seguir adelante; es progresar sin ver el camino final.",
+    "length":"89",
+    "author":"Anónimo",
+    "tags":[
+    "motivación",
+    "coraje",
+    "progreso",
+    "fe"
+    ],
+    "category":"motivation",
+    "date":"Desconocida",
+    "title":"Frase motivacional del día",
+    "id":"14"
+    },
+    {
+    "quote":"La única forma de hacer un trabajo extraordinario es amar lo que haces.",
+    "length":"68",
+    "author":"Steve Jobs",
+    "tags":[
+    "motivación",
+    "pasión",
+    "trabajo",
+    "extraordinario"
+    ],
+    "category":"motivation",
+    "date":"1955-2011",
+    "title":"Frase motivacional del día",
+    "id":"15"
+    },
+    {
+    "quote":"No es el más fuerte el que sobrevive, ni el más inteligente, sino el que mejor se adapta al cambio.",
+    "length":"99",
+    "author":"Charles Darwin",
+    "tags":[
+    "motivación",
+    "adaptación",
+    "cambio",
+    "supervivencia"
+    ],
+    "category":"motivation",
+    "date":"1809-1882",
+    "title":"Frase motivacional del día",
+    "id":"16"
+    },
+    {
+    "quote":"La disciplina es la puente entre las metas y los logros.",
+    "length":"54",
+    "author":"Anónimo",
+    "tags":[
+    "motivación",
+    "disciplina",
+    "metas",
+    "logros"
+    ],
+    "category":"motivation",
+    "date":"Desconocida",
+    "title":"Frase motivacional del día",
+    "id":"17"
+    },
+    {
+    "quote":"Cree que puedes y estarás a mitad de camino.",
+    "length":"44",
+    "author":"Theodore Roosevelt",
+    "tags":[
+    "motivación",
+    "creencia",
+    "confianza"
+    ],
+    "category":"motivation",
+    "date":"1858-1919",
+    "title":"Frase motivacional del día",
+    "id":"18"
+    },
+    {
+    "quote":"La paciencia y la perseverancia tienen un poder mágico ante el que las dificultades desaparecen y los obstáculos se desvanecen.",
+    "length":"121",
+    "author":"John Quincy Adams",
+    "tags":[
+    "motivación",
+    "paciencia",
+    "perseverancia",
+    "obstáculos"
+    ],
+    "category":"motivation",
+    "date":"1767-1848",
+    "title":"Frase motivacional del día",
+    "id":"19"
+    },
+    {
+    "quote":"Nada es imposible, la palabra misma lo dice: Yo soy posible.",
+    "length":"58",
+    "author":"Audrey Hepburn",
+    "tags":[
+    "motivación",
+    "posibilidad",
+    "capacidad"
+    ],
+    "category":"motivation",
+    "date":"1929-1993",
+    "title":"Frase motivacional del día",
+    "id":"20"
+    }
+    ]
+    }
+    }

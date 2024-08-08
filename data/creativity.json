@@ -1,0 +1,294 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"La creatividad toma valor cuando se experimenta.",
+    "length":"46",
+    "author":"Rem Koolhaas",
+    "tags":[
+    "creatividad",
+    "experimentación",
+    "valor"
+    ],
+    "category":"creativity",
+    "date":"1944",
+    "title":"Frase sobre creatividad",
+    "id":"1"
+    },
+    {
+    "quote":"La lógica te llevará desde A hasta B. La imaginación te llevará a todas partes.",
+    "length":"76",
+    "author":"Albert Einstein",
+    "tags":[
+    "creatividad",
+    "imaginación",
+    "lógica"
+    ],
+    "category":"creativity",
+    "date":"1879-1955",
+    "title":"Frase sobre creatividad",
+    "id":"2"
+    },
+    {
+    "quote":"La creatividad es la inteligencia divirtiéndose.",
+    "length":"46",
+    "author":"Albert Einstein",
+    "tags":[
+    "creatividad",
+    "inteligencia",
+    "diversión"
+    ],
+    "category":"creativity",
+    "date":"1879-1955",
+    "title":"Frase sobre creatividad",
+    "id":"3"
+    },
+    {
+    "quote":"No hay genialidad donde falta la creatividad.",
+    "length":"44",
+    "author":"Robert Collier",
+    "tags":[
+    "creatividad",
+    "genio"
+    ],
+    "category":"creativity",
+    "date":"1885–1950",
+    "title":"Frase sobre creatividad",
+    "id":"4"
+    },
+    {
+    "quote":"La creatividad es la destreza para mantener frescos los pensamientos.",
+    "length":"65",
+    "author":"Paul Valery",
+    "tags":[
+    "creatividad",
+    "pensamiento",
+    "frescura"
+    ],
+    "category":"creativity",
+    "date":"1871-1945",
+    "title":"Frase sobre creatividad",
+    "id":"5"
+    },
+    {
+    "quote":"La creatividad es la mejor forma de inteligencia rebelde.",
+    "length":"54",
+    "author":"Graham Wallas",
+    "tags":[
+    "creatividad",
+    "inteligencia",
+    "rebeldía"
+    ],
+    "category":"creativity",
+    "date":"1858-1932",
+    "title":"Frase sobre creatividad",
+    "id":"6"
+    },
+    {
+    "quote":"La creatividad es el proceso de tener ideas originales que tienen valor.",
+    "length":"68",
+    "author":"Sir Ken Robinson",
+    "tags":[
+    "creatividad",
+    "ideas originales",
+    "valor"
+    ],
+    "category":"creativity",
+    "date":"1950",
+    "title":"Frase sobre creatividad",
+    "id":"7"
+    },
+    {
+    "quote":"La creatividad no es un talento, es una forma de operar.",
+    "length":"55",
+    "author":"John Cleese",
+    "tags":[
+    "creatividad",
+    "operación",
+    "talento"
+    ],
+    "category":"creativity",
+    "date":"1939",
+    "title":"Frase sobre creatividad",
+    "id":"8"
+    },
+    {
+    "quote":"La creatividad es la inteligencia divirtiéndose.",
+    "length":"46",
+    "author":"Albert Einstein",
+    "tags":[
+    "creatividad",
+    "inteligencia",
+    "diversión"
+    ],
+    "category":"creativity",
+    "date":"1879-1955",
+    "title":"Frase sobre creatividad",
+    "id":"9"
+    },
+    {
+    "quote":"La verdadera creatividad surge de la tensión entre la sobriedad y la locura.",
+    "length":"72",
+    "author":"Anónimo",
+    "tags":[
+    "creatividad",
+    "locura",
+    "sobriedad",
+    "tensión"
+    ],
+    "category":"creativity",
+    "date":"Desconocida",
+    "title":"Frase sobre creatividad",
+    "id":"10"
+    },
+    {
+    "quote":"La creatividad es permitir que uno mismo se sorprenda.",
+    "length":"54",
+    "author":"Ray Bradbury",
+    "tags":[
+    "creatividad",
+    "sorpresa",
+    "espontaneidad"
+    ],
+    "category":"creativity",
+    "date":"1920-2012",
+    "title":"Frase sobre creatividad",
+    "id":"11"
+    },
+    {
+    "quote":"La creatividad es la clave para el éxito en el futuro.",
+    "length":"51",
+    "author":"Matt Haig",
+    "tags":[
+    "creatividad",
+    "éxito",
+    "futuro"
+    ],
+    "category":"creativity",
+    "date":"1975",
+    "title":"Frase sobre creatividad",
+    "id":"12"
+    },
+    {
+    "quote":"La creatividad sin estrategia se llama arte. La creatividad con estrategia se llama publicidad.",
+    "length":"94",
+    "author":"Jef I. Richards",
+    "tags":[
+    "creatividad",
+    "estrategia",
+    "arte",
+    "publicidad"
+    ],
+    "category":"creativity",
+    "date":"Desconocida",
+    "title":"Frase sobre creatividad",
+    "id":"13"
+    },
+    {
+    "quote":"La creatividad es el comienzo de nuestras libertades.",
+    "length":"50",
+    "author":"David Instructog",
+    "tags":[
+    "creatividad",
+    "libertad",
+    "inicio"
+    ],
+    "category":"creativity",
+    "date":"Desconocida",
+    "title":"Frase sobre creatividad",
+    "id":"14"
+    },
+    {
+    "quote":"La creatividad es pensar nuevas cosas. La innovación es hacer nuevas cosas.",
+    "length":"73",
+    "author":"Theodore Levitt",
+    "tags":[
+    "creatividad",
+    "innovación",
+    "pensamiento",
+    "acción"
+    ],
+    "category":"creativity",
+    "date":"1925-2006",
+    "title":"Frase sobre creatividad",
+    "id":"15"
+    },
+    {
+    "quote":"La creatividad es simplemente conectar cosas.",
+    "length":"43",
+    "author":"Steve Jobs",
+    "tags":[
+    "creatividad",
+    "conexión",
+    "simplicidad"
+    ],
+    "category":"creativity",
+    "date":"1955-2011",
+    "title":"Frase sobre creatividad",
+    "id":"16"
+    },
+    {
+    "quote":"La creatividad requiere el valor de dejar de juzgar, valor para dudar de las respuestas certeras.",
+    "length":"95",
+    "author":"Erich Fromm",
+    "tags":[
+    "creatividad",
+    "valor",
+    "juicio",
+    "duda"
+    ],
+    "category":"creativity",
+    "date":"1900-1980",
+    "title":"Frase sobre creatividad",
+    "id":"17"
+    },
+    {
+    "quote":"La creatividad es ver lo que todos ven y pensar lo que nadie más ha pensado.",
+    "length":"76",
+    "author":"Albert Szent-Gyorgyi",
+    "tags":[
+    "creatividad",
+    "perspectiva",
+    "pensamiento único"
+    ],
+    "category":"creativity",
+    "date":"1893-1986",
+    "title":"Frase sobre creatividad",
+    "id":"18"
+    },
+    {
+    "quote":"La creatividad no espera la edad perfecta. Nace de la energía y la audacia.",
+    "length":"74",
+    "author":"Somerset Maugham",
+    "tags":[
+    "creatividad",
+    "energía",
+    "audacia",
+    "edad"
+    ],
+    "category":"creativity",
+    "date":"1874-1965",
+    "title":"Frase sobre creatividad",
+    "id":"19"
+    },
+    {
+    "quote":"La creatividad es la habilidad de ver las relaciones entre hechos, de manera novedosa.",
+    "length":"83",
+    "author":"Ted Levitt",
+    "tags":[
+    "creatividad",
+    "relaciones",
+    "hechos",
+    "novedad"
+    ],
+    "category":"creativity",
+    "date":"1925-2006",
+    "title":"Frase sobre creatividad",
+    "id":"20"
+    }
+    ]
+    }
+    }

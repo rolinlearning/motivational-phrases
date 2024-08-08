@@ -1,0 +1,288 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"El amor todo lo puede; es un privilegio inmenso, una aventura espléndida.",
+    "length":"72",
+    "author":"Pablo Neruda",
+    "tags":[
+    "amor",
+    "privilegio",
+    "aventura"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"1"
+    },
+    {
+    "quote":"El amor no hace que el mundo gire, pero sí que dé algunas vueltas increíbles.",
+    "length":"76",
+    "author":"Joe Moore",
+    "tags":[
+    "amor",
+    "mundo",
+    "vueltas"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"2"
+    },
+    {
+    "quote":"El amor es la fuerza más poderosa del universo.",
+    "length":"47",
+    "author":"Martin Luther King Jr.",
+    "tags":[
+    "amor",
+    "fuerza",
+    "universo"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"3"
+    },
+    {
+    "quote":"Donde hay amor hay vida.",
+    "length":"25",
+    "author":"Mahatma Gandhi",
+    "tags":[
+    "amor",
+    "vida"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"4"
+    },
+    {
+    "quote":"El amor es paciente, el amor es amable.",
+    "length":"38",
+    "author":"Biblia",
+    "tags":[
+    "amor",
+    "paciencia",
+    "amabilidad"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"5"
+    },
+    {
+    "quote":"El amor es la única fuerza capaz de transformar un alma.",
+    "length":"56",
+    "author":"Simone de Beauvoir",
+    "tags":[
+    "amor",
+    "fuerza",
+    "transformación"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"6"
+    },
+    {
+    "quote":"El amor es como una amistad en llamas.",
+    "length":"39",
+    "author":"Carolina Oltra Albiñana",
+    "tags":[
+    "amor",
+    "amistad",
+    "llamas"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"7"
+    },
+    {
+    "quote":"El amor es la única locura a la que vale la pena entregarse.",
+    "length":"59",
+    "author":"André Breton",
+    "tags":[
+    "amor",
+    "locura",
+    "entrega"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"8"
+    },
+    {
+    "quote":"El amor es el vínculo más fuerte del mundo.",
+    "length":"43",
+    "author":"Anónimo",
+    "tags":[
+    "amor",
+    "vínculo",
+    "mundo"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"9"
+    },
+    {
+    "quote":"El amor verdadero no tiene precio, pero sí un valor infinito.",
+    "length":"58",
+    "author":"Anónimo",
+    "tags":[
+    "amor",
+    "verdadero",
+    "valor"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"10"
+    },
+    {
+    "quote":"El amor es la respuesta a todas las preguntas.",
+    "length":"45",
+    "author":"Anónimo",
+    "tags":[
+    "amor",
+    "respuesta",
+    "preguntas"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"11"
+    },
+    {
+    "quote":"El amor debe ser recíproco para ser real.",
+    "length":"39",
+    "author":"Lao Tzu",
+    "tags":[
+    "amor",
+    "reciprocidad",
+    "realidad"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"12"
+    },
+    {
+    "quote":"El amor es el único rayo de luz que puede disipar las tinieblas.",
+    "length":"61",
+    "author":"León Tolstói",
+    "tags":[
+    "amor",
+    "luz",
+    "tinieblas"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"13"
+    },
+    {
+    "quote":"El amor abre los ojos del alma.",
+    "length":"30",
+    "author":"Anónimo",
+    "tags":[
+    "amor",
+    "alma",
+    "visión"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"14"
+    },
+    {
+    "quote":"El amor enciende miles de soles.",
+    "length":"31",
+    "author":"Rabindranath Tagore",
+    "tags":[
+    "amor",
+    "soles",
+    "luz"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"15"
+    },
+    {
+    "quote":"El amor es un arcoíris entre dos almas.",
+    "length":"38",
+    "author":"Khalil Gibran",
+    "tags":[
+    "amor",
+    "arcoíris",
+    "almas"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"16"
+    },
+    {
+    "quote":"El amor lo remedia todo, menos la falta de amor.",
+    "length":"48",
+    "author":"Gabriel García Márquez",
+    "tags":[
+    "amor",
+    "remedio",
+    "falta"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"17"
+    },
+    {
+    "quote":"Hay un solo amor, pero hay mil maneras diferentes de expresarlo.",
+    "length":"62",
+    "author":"Anónimo",
+    "tags":[
+    "amor",
+    "expresión",
+    "maneras"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"18"
+    },
+    {
+    "quote":"El amor es ciego, pero el matrimonio le devuelve la vista.",
+    "length":"56",
+    "author":"Milton Berle",
+    "tags":[
+    "amor",
+    "ceguera",
+    "matrimonio"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"19"
+    },
+    {
+    "quote":"El amor es la única respuesta a todas las preguntas.",
+    "length":"50",
+    "author":"Anónimo",
+    "tags":[
+    "amor",
+    "respuestas",
+    "preguntas"
+    ],
+    "category":"love",
+    "date":"2023-08-08",
+    "title":"Frase del día sobre el amor",
+    "id":"20"
+    }
+    ]
+    }
+    }

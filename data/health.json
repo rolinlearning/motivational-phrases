@@ -1,0 +1,293 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"La salud es la mayor posesión. La alegría es el mayor tesoro.",
+    "length":"62",
+    "author":"Anónimo",
+    "tags":[
+    "salud",
+    "alegría",
+    "posesión",
+    "tesoro"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"1"
+    },
+    {
+    "quote":"Una mente sana reside en un cuerpo sano.",
+    "length":"40",
+    "author":"Juvenal",
+    "tags":[
+    "mente sana",
+    "cuerpo sano",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"2"
+    },
+    {
+    "quote":"La salud es la riqueza más valiosa.",
+    "length":"35",
+    "author":"Ralph Waldo Emerson",
+    "tags":[
+    "salud",
+    "riqueza",
+    "valioso"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"3"
+    },
+    {
+    "quote":"La buena salud y la buena conciencia son dos grandes bendiciones.",
+    "length":"62",
+    "author":"Anónimo",
+    "tags":[
+    "salud",
+    "conciencia",
+    "bendiciones"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"4"
+    },
+    {
+    "quote":"La risa es la mejor medicina.",
+    "length":"29",
+    "author":"Proverbio antiguo",
+    "tags":[
+    "risa",
+    "medicina",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"5"
+    },
+    {
+    "quote":"El primer requisito de la felicidad es la salud.",
+    "length":"48",
+    "author":"Ralph Waldo Emerson",
+    "tags":[
+    "felicidad",
+    "salud",
+    "requisito"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"6"
+    },
+    {
+    "quote":"La salud es la verdadera riqueza y no la de las piezas de oro y plata.",
+    "length":"68",
+    "author":"Mahatma Gandhi",
+    "tags":[
+    "salud",
+    "riqueza",
+    "oro",
+    "plata"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"7"
+    },
+    {
+    "quote":"Una vida con buena salud es una vida feliz.",
+    "length":"44",
+    "author":"Anónimo",
+    "tags":[
+    "vida",
+    "salud",
+    "felicidad"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"8"
+    },
+    {
+    "quote":"La salud es la mayor riqueza que tenemos, por eso hay que cuidarla.",
+    "length":"66",
+    "author":"Anónimo",
+    "tags":[
+    "salud",
+    "riqueza",
+    "cuidado"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"9"
+    },
+    {
+    "quote":"Prevenir es mejor que curar.",
+    "length":"28",
+    "author":"Proverbio popular",
+    "tags":[
+    "prevención",
+    "curación",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"10"
+    },
+    {
+    "quote":"Un alma sana en un cuerpo sano.",
+    "length":"32",
+    "author":"Juvenal",
+    "tags":[
+    "alma",
+    "cuerpo",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"11"
+    },
+    {
+    "quote":"El sueño es el mejor de los remedios.",
+    "length":"36",
+    "author":"Anónimo",
+    "tags":[
+    "sueño",
+    "remedio",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"12"
+    },
+    {
+    "quote":"Una mente tranquila es la mejor ayuda para la salud.",
+    "length":"51",
+    "author":"Anónimo",
+    "tags":[
+    "mente",
+    "tranquilidad",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"13"
+    },
+    {
+    "quote":"La mayor riqueza es la salud.",
+    "length":"30",
+    "author":"Virgilio",
+    "tags":[
+    "riqueza",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"14"
+    },
+    {
+    "quote":"La comida sana es la mejor fuente de salud.",
+    "length":"43",
+    "author":"Anónimo",
+    "tags":[
+    "comida sana",
+    "salud",
+    "fuente"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"15"
+    },
+    {
+    "quote":"Mente sana en cuerpo sano.",
+    "length":"26",
+    "author":"Decio Junio Juvenal",
+    "tags":[
+    "mente",
+    "cuerpo",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"16"
+    },
+    {
+    "quote":"El ejercicio es rey, la nutrición es reina. Pon ambos en su lugar y tendrás un reino perfecto.",
+    "length":"93",
+    "author":"Jack LaLanne",
+    "tags":[
+    "ejercicio",
+    "nutrición",
+    "salud",
+    "bienestar"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"17"
+    },
+    {
+    "quote":"Camina con los pies en la tierra y la mente en el cielo y disfrutarás una salud perfecta.",
+    "length":"90",
+    "author":"Charles Caleb Colton",
+    "tags":[
+    "caminar",
+    "mente",
+    "salud perfecta"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"18"
+    },
+    {
+    "quote":"Mantenerse físicamente activo es la clave para una buena salud.",
+    "length":"62",
+    "author":"Anónimo",
+    "tags":[
+    "actividad física",
+    "buena salud",
+    "clave"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"19"
+    },
+    {
+    "quote":"El descanso y la paz mental son fundamentales para la salud del alma y del cuerpo.",
+    "length":"81",
+    "author":"Napoleón Bonaparte",
+    "tags":[
+    "descanso",
+    "paz mental",
+    "alma",
+    "cuerpo",
+    "salud"
+    ],
+    "category":"health",
+    "date":"2023-08-08",
+    "title":"Frase sobre salud del día",
+    "id":"20"
+    }
+    ]
+    }
+    }

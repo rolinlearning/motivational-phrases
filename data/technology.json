@@ -1,0 +1,199 @@
+{
+  "success": {
+    "total": 20
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La tecnología es solo una herramienta. En términos de motivar a los niños y hacerlos trabajar juntos, el maestro es lo más importante.",
+        "length": "143",
+        "author": "Bill Gates",
+        "tags": ["tecnología", "educación", "herramienta"],
+        "category": "technology",
+        "date": "2000-11-12",
+        "title": "Technology Quote of the day",
+        "id": "1"
+      },
+      {
+        "quote": "La ciencia de hoy es la tecnología del mañana.",
+        "length": "49",
+        "author": "Edward Teller",
+        "tags": ["ciencia", "tecnología", "futuro"],
+        "category": "technology",
+        "date": "1988-09-24",
+        "title": "Technology Quote of the day",
+        "id": "2"
+      },
+      {
+        "quote": "La tecnología es una palabra que describe algo que no funciona todavía.",
+        "length": "74",
+        "author": "Douglas Adams",
+        "tags": ["tecnología", "innovación", "funcionamiento"],
+        "category": "technology",
+        "date": "1999-03-11",
+        "title": "Technology Quote of the day",
+        "id": "3"
+      },
+      {
+        "quote": "La tecnología no es nada. Lo importante es que tengas fe en la gente, que sean básicamente buenas e inteligentes, y si les das herramientas, harán cosas maravillosas con ellas.",
+        "length": "191",
+        "author": "Steve Jobs",
+        "tags": ["tecnología", "fe", "herramientas"],
+        "category": "technology",
+        "date": "1994-10-25",
+        "title": "Technology Quote of the day",
+        "id": "4"
+      },
+      {
+        "quote": "Cualquier tecnología suficientemente avanzada es indistinguible de la magia.",
+        "length": "73",
+        "author": "Arthur C. Clarke",
+        "tags": ["tecnología", "magia", "avance"],
+        "category": "technology",
+        "date": "1962-01-01",
+        "title": "Technology Quote of the day",
+        "id": "5"
+      },
+      {
+        "quote": "Una vez que una tecnología es realmente buena, desaparece. Se convierte en parte de la vida cotidiana.",
+        "length": "98",
+        "author": "Kevin Kelly",
+        "tags": ["tecnología", "vida", "cotidiano"],
+        "category": "technology",
+        "date": "1998-06-30",
+        "title": "Technology Quote of the day",
+        "id": "6"
+      },
+      {
+        "quote": "La tecnología es el gran igualador.",
+        "length": "35",
+        "author": "Steve Jobs",
+        "tags": ["tecnología", "igualdad", "oportunidades"],
+        "category": "technology",
+        "date": "2004-01-06",
+        "title": "Technology Quote of the day",
+        "id": "7"
+      },
+      {
+        "quote": "La tecnología avanza y se multiplica cada día.",
+        "length": "46",
+        "author": "Ray Kurzweil",
+        "tags": ["tecnología", "avance", "multiplicación"],
+        "category": "technology",
+        "date": "2001-05-15",
+        "title": "Technology Quote of the day",
+        "id": "8"
+      },
+      {
+        "quote": "La tecnología se alimenta a sí misma. La tecnología hace posible más tecnología.",
+        "length": "76",
+        "author": "Alvin Toffler",
+        "tags": ["tecnología", "innovación", "progreso"],
+        "category": "technology",
+        "date": "1980-02-28",
+        "title": "Technology Quote of the day",
+        "id": "9"
+      },
+      {
+        "quote": "La tecnología es el arte de organizar el mundo para que no tengamos que experimentarlo.",
+        "length": "89",
+        "author": "Max Frisch",
+        "tags": ["tecnología", "arte", "organización"],
+        "category": "technology",
+        "date": "1974-04-12",
+        "title": "Technology Quote of the day",
+        "id": "10"
+      },
+      {
+        "quote": "La mejor forma de predecir el futuro es inventarlo.",
+        "length": "49",
+        "author": "Alan Kay",
+        "tags": ["tecnología", "futuro", "inventar"],
+        "category": "technology",
+        "date": "1971-03-10",
+        "title": "Technology Quote of the day",
+        "id": "11"
+      },
+      {
+        "quote": "La tecnología es un sirviente útil pero un amo peligroso.",
+        "length": "61",
+        "author": "Christian Lous Lange",
+        "tags": ["tecnología", "sirviente", "peligro"],
+        "category": "technology",
+        "date": "1930-12-10",
+        "title": "Technology Quote of the day",
+        "id": "12"
+      },
+      {
+        "quote": "La tecnología puede traer ventajas desmedidas a los individuos que la dominen.",
+        "length": "81",
+        "author": "Carly Fiorina",
+        "tags": ["tecnología", "ventajas", "dominar"],
+        "category": "technology",
+        "date": "1999-11-02",
+        "title": "Technology Quote of the day",
+        "id": "13"
+      },
+      {
+        "quote": "El gran mito de nuestra era es que la tecnología es comunicación.",
+        "length": "64",
+        "author": "Libby Larsen",
+        "tags": ["tecnología", "mito", "comunicación"],
+        "category": "technology",
+        "date": "2002-04-18",
+        "title": "Technology Quote of the day",
+        "id": "14"
+      },
+      {
+        "quote": "La tecnología es solo tan buena como la persona que la usa.",
+        "length": "57",
+        "author": "Bill Gates",
+        "tags": ["tecnología", "uso", "persona"],
+        "category": "technology",
+        "date": "2001-03-12",
+        "title": "Technology Quote of the day",
+        "id": "15"
+      },
+      {
+        "quote": "Vivimos en una sociedad exquisitamente dependiente de la ciencia y la tecnología, en la cual casi nadie sabe nada de ciencia y tecnología.",
+        "length": "148",
+        "author": "Carl Sagan",
+        "tags": ["tecnología", "ciencia", "sociedad"],
+        "category": "technology",
+        "date": "1994-09-21",
+        "title": "Technology Quote of the day",
+        "id": "16"
+      },
+      {
+        "quote": "La tecnología es el lápiz con el que el futuro está escribiendo nuestra vida presente.",
+        "length": "83",
+        "author": "Scott Cook",
+        "tags": ["tecnología", "futuro", "presente"],
+        "category": "technology",
+        "date": "2003-11-14",
+        "title": "Technology Quote of the day",
+        "id": "17"
+      },
+      {
+        "quote": "La tecnología es la campana que llama a la civilización a la mesa.",
+        "length": "68",
+        "author": "Richard Buckminster Fuller",
+        "tags": ["tecnología", "civilización", "llamada"],
+        "category": "technology",
+        "date": "1969-07-10",
+        "title": "Technology Quote of the day",
+        "id": "18"
+      },
+      {
+        "quote": "La tecnología es un arma de doble filo. Puede ser usada para construir o para destruir.",
+        "length": "85",
+        "author": "Michelle M. Pillow",
+        "tags": ["tecnología", "arma", "doble filo"],
+        "category": "technology",
+        "date": "2008-06-18",
+        "title": "Technology Quote of the day",
+        "id": "19"
+      }
+    ]
+  }
+}

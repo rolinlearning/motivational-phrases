@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Colores primarios */
+  --white: #fff;
+  --black: #000;
+
+  /* Seccion de colores Nickname */
+  --nickname-background-color: #5856d6;
+  --nickname-background-color-focus: #7b68ee;
+  --nickname-border-color-focus: #7b68ee;
+}
+
+body {
+  background-color: var(--black);
+  color: var(--white);
+  font-family: Arial, sans-serif;
+  height: 100vh;
+}

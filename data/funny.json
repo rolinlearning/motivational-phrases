@@ -1,0 +1,289 @@
+{
+    "success":{
+    "total":20
+    },
+    "contents":{
+    "quotes":[
+    {
+    "quote":"El dinero no compra la felicidad, pero al menos te deja ser infeliz en un yate.",
+    "length":"76",
+    "author":"Anónimo",
+    "tags":[
+    "dinero",
+    "felicidad",
+    "yate"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"1"
+    },
+    {
+    "quote":"Los vegetales son comida de lo que la comida come.",
+    "length":"49",
+    "author":"Anónimo",
+    "tags":[
+    "vegetales",
+    "comida",
+    "gracioso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"2"
+    },
+    {
+    "quote":"¿Por qué fueron los indios a acosar al mar? ¡Para molestar a la costa!",
+    "length":"67",
+    "author":"Anónimo",
+    "tags":[
+    "indios",
+    "mar",
+    "costa"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"3"
+    },
+    {
+    "quote":"¿Cuál es el último dinosaurio que quedó vivo? El pizza-rio.",
+    "length":"57",
+    "author":"Anónimo",
+    "tags":[
+    "dinosaurio",
+    "pizza",
+    "gracioso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"4"
+    },
+    {
+    "quote":"¿Por qué lloraba la endivía? Porque la dejaron plantada.",
+    "length":"54",
+    "author":"Anónimo",
+    "tags":[
+    "endivía",
+    "llorar",
+    "plantada"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"5"
+    },
+    {
+    "quote":"¿Cómo se llama el hijo de un espía? Agente secreto.",
+    "length":"50",
+    "author":"Anónimo",
+    "tags":[
+    "espía",
+    "hijo",
+    "agente secreto"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"6"
+    },
+    {
+    "quote":"Yo no creo en las brujas, pero que las hay, las hay.",
+    "length":"50",
+    "author":"Anónimo",
+    "tags":[
+    "brujas",
+    "creer",
+    "gracioso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"7"
+    },
+    {
+    "quote":"¿Qué le dice un techo a otro techo? ¡Techo de menos!",
+    "length":"50",
+    "author":"Anónimo",
+    "tags":[
+    "techos",
+    "echar de menos",
+    "juego de palabras"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"8"
+    },
+    {
+    "quote":"Yo no soy borracho, solo estoy redecorado por dentro.",
+    "length":"52",
+    "author":"Anónimo",
+    "tags":[
+    "borracho",
+    "redecorando",
+    "gracioso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"9"
+    },
+    {
+    "quote":"¿Por qué los fantasmas hacen tan buenos bailarines? Porque tienen un gran sentido del ritmo.",
+    "length":"92",
+    "author":"Anónimo",
+    "tags":[
+    "fantasmas",
+    "bailar",
+    "sentido del ritmo"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"10"
+    },
+    {
+    "quote":"¿Por qué los pájaros no usan walkies? ¡Porque ya tienen twitties!",
+    "length":"61",
+    "author":"Anónimo",
+    "tags":[
+    "pájaros",
+    "walkies",
+    "twitties"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"11"
+    },
+    {
+    "quote":"¿Por qué los pollitos cruzan la calle? ¡Para llegar al otro ladron!",
+    "length":"64",
+    "author":"Anónimo",
+    "tags":[
+    "pollitos",
+    "cruzar calle",
+    "ladron"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"12"
+    },
+    {
+    "quote":"¿Qué le dice una foca a su bebé cuando se va a dormir? ¡Arfo las buenas noches!",
+    "length":"77",
+    "author":"Anónimo",
+    "tags":[
+    "foca",
+    "bebé",
+    "buenas noches"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"13"
+    },
+    {
+    "quote":"¿Cuál es el pez más caro? El salmón con chorro.",
+    "length":"47",
+    "author":"Anónimo",
+    "tags":[
+    "pez",
+    "caro",
+    "salmón con chorro"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"14"
+    },
+    {
+    "quote":"Me quedé dormido como un tronco ayer... y me desperté como una tabla.",
+    "length":"68",
+    "author":"Anónimo",
+    "tags":[
+    "dormir",
+    "tronco",
+    "tabla"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"15"
+    },
+    {
+    "quote":"No es fácil ser un pez de colores... te llamas y te ignoran.",
+    "length":"59",
+    "author":"Anónimo",
+    "tags":[
+    "pez de colores",
+    "ignorar",
+    "gracioso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"16"
+    },
+    {
+    "quote":"Un libro acerca del polvo nunca vende mucho porque siempre queda en el estante.",
+    "length":"77",
+    "author":"Anónimo",
+    "tags":[
+    "libro",
+    "polvo",
+    "estante"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"17"
+    },
+    {
+    "quote":"¿Cómo se dice 'detente' en el idioma de las plantas? ¡Broooocooli!",
+    "length":"64",
+    "author":"Anónimo",
+    "tags":[
+    "detente",
+    "plantas",
+    "brócoli"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"18"
+    },
+    {
+    "quote":"¿Por qué los marineros nunca comen sándwiches de queso? ¡Les da mucha cuchillera!",
+    "length":"78",
+    "author":"Anónimo",
+    "tags":[
+    "marineros",
+    "sándwich",
+    "queso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"19"
+    },
+    {
+    "quote":"¿Qué le dice un espejo a otro espejo? ¡Qué guapura!",
+    "length":"49",
+    "author":"Anónimo",
+    "tags":[
+    "espejos",
+    "guapura",
+    "gracioso"
+    ],
+    "category":"funny",
+    "date":"2023-08-08",
+    "title":"Frase divertida del día",
+    "id":"20"
+    }
+    ]
+    }
+    }

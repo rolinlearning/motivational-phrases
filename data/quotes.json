@@ -1,0 +1,289 @@
+{
+    "success": {
+      "total": 20
+    },
+    "contents": {
+      "quotes": [
+        {
+          "quote": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+          "length": "67",
+          "author": "Robert Collier",
+          "tags": [
+            "éxito",
+            "esfuerzo",
+            "perseverancia"
+          ],
+          "category": "inspire",
+          "date": "2024-08-07",
+          "title": "Frase inspiradora del día",
+          "id": "mYpH8syTM8rf8KFORoAJmQeF"
+        },
+        {
+          "quote": "La mejor forma de predecir el futuro es creándolo.",
+          "length": "54",
+          "author": "Peter Drucker",
+          "tags": [
+            "futuro",
+            "acción",
+            "liderazgo"
+          ],
+          "category": "management",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre gestión",
+          "id": "nZqJ9ryCN7gh5LGPSoTKbReH"
+        },
+        {
+          "quote": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+          "length": "78",
+          "author": "Vidal Sassoon",
+          "tags": [
+            "éxito",
+            "trabajo",
+            "esfuerzo"
+          ],
+          "category": "inspire",
+          "date": "2024-08-07",
+          "title": "Frase inspiradora del día",
+          "id": "pXsL2wvFQ4jk7MHRUoYNcTeJ"
+        },
+        {
+          "quote": "No es la más fuerte de las especies la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio.",
+          "length": "122",
+          "author": "Charles Darwin",
+          "tags": [
+            "adaptación",
+            "cambio",
+            "supervivencia"
+          ],
+          "category": "life",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre la vida",
+          "id": "qWtM3uvHR5lm9KJSXpZBdYeN"
+        },
+        {
+          "quote": "La creatividad es la inteligencia divirtiéndose.",
+          "length": "52",
+          "author": "Albert Einstein",
+          "tags": [
+            "creatividad",
+            "inteligencia",
+            "diversión"
+          ],
+          "category": "art",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre arte",
+          "id": "rYvO4xwJS6np0LKTWqAEfZgP"
+        },
+        {
+          "quote": "El deporte tiene el poder de cambiar el mundo. Tiene el poder de inspirar, de unir a la gente como pocas otras cosas.",
+          "length": "121",
+          "author": "Nelson Mandela",
+          "tags": [
+            "deporte",
+            "inspiración",
+            "unidad"
+          ],
+          "category": "sports",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre deportes",
+          "id": "sAuP5yzKT7qr1MNVXrBFgWhQ"
+        },
+        {
+          "quote": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+          "length": "79",
+          "author": "Nelson Mandela",
+          "tags": [
+            "educación",
+            "cambio",
+            "poder"
+          ],
+          "category": "students",
+          "date": "2024-08-07",
+          "title": "Frase del día para estudiantes",
+          "id": "tBxQ6zaLU8st2OPWYsCGhViR"
+        },
+        {
+          "quote": "El amor es la fuerza más humilde, pero la más poderosa de que dispone el mundo.",
+          "length": "84",
+          "author": "Mahatma Gandhi",
+          "tags": [
+            "amor",
+            "fuerza",
+            "humildad"
+          ],
+          "category": "love",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre el amor",
+          "id": "uCyR7abMV9tu3PQXZtDHiWjS"
+        },
+        {
+          "quote": "La vida es 10% lo que nos sucede y 90% cómo reaccionamos ante ello.",
+          "length": "72",
+          "author": "Charles R. Swindoll",
+          "tags": [
+            "actitud",
+            "reacción",
+            "vida"
+          ],
+          "category": "life",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre la vida",
+          "id": "vDzS8bcNW0uv4QRYAuEIjXkT"
+        },
+        {
+          "quote": "La risa es el sol que ahuyenta el invierno del rostro humano.",
+          "length": "64",
+          "author": "Victor Hugo",
+          "tags": [
+            "risa",
+            "alegría",
+            "humor"
+          ],
+          "category": "funny",
+          "date": "2024-08-07",
+          "title": "Frase divertida del día",
+          "id": "wEaT9cdOX1vw5RSZBvFJkYlU"
+        },
+        {
+          "quote": "El arte desafía a la tecnología y la tecnología inspira al arte.",
+          "length": "66",
+          "author": "John Lasseter",
+          "tags": [
+            "arte",
+            "tecnología",
+            "inspiración"
+          ],
+          "category": "art",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre arte",
+          "id": "xFbU0deP2wxy6STACwGKlZmV"
+        },
+        {
+          "quote": "Un líder es alguien que conoce el camino, recorre el camino y muestra el camino.",
+          "length": "84",
+          "author": "John C. Maxwell",
+          "tags": [
+            "liderazgo",
+            "guía",
+            "ejemplo"
+          ],
+          "category": "management",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre gestión",
+          "id": "yGcV1efQ3xyz7TUBDxHLmAnW"
+        },
+        {
+          "quote": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de manera más inteligente.",
+          "length": "102",
+          "author": "Henry Ford",
+          "tags": [
+            "fracaso",
+            "oportunidad",
+            "aprendizaje"
+          ],
+          "category": "inspire",
+          "date": "2024-08-07",
+          "title": "Frase inspiradora del día",
+          "id": "zHdW2fgR4yza8UVCEyIMnBoX"
+        },
+        {
+          "quote": "La excelencia no es un acto, sino un hábito.",
+          "length": "50",
+          "author": "Aristóteles",
+          "tags": [
+            "excelencia",
+            "hábito",
+            "constancia"
+          ],
+          "category": "students",
+          "date": "2024-08-07",
+          "title": "Frase del día para estudiantes",
+          "id": "AJeX3ghS5zaB9VWDFzJNoCtY"
+        },
+        {
+          "quote": "El verdadero signo de la inteligencia no es el conocimiento, sino la imaginación.",
+          "length": "84",
+          "author": "Albert Einstein",
+          "tags": [
+            "inteligencia",
+            "imaginación",
+            "conocimiento"
+          ],
+          "category": "inspire",
+          "date": "2024-08-07",
+          "title": "Frase inspiradora del día",
+          "id": "BKfY4hiT6abC0WXEGaKPpDuZ"
+        },
+        {
+          "quote": "No cuentes los días, haz que los días cuenten.",
+          "length": "49",
+          "author": "Muhammad Ali",
+          "tags": [
+            "tiempo",
+            "acción",
+            "vida"
+          ],
+          "category": "sports",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre deportes",
+          "id": "CLgZ5ijU7bcD1XYFHbLQqEvA"
+        },
+        {
+          "quote": "La belleza perece en la vida, pero es inmortal en el arte.",
+          "length": "62",
+          "author": "Leonardo da Vinci",
+          "tags": [
+            "arte",
+            "belleza",
+            "inmortalidad"
+          ],
+          "category": "art",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre arte",
+          "id": "DMhA6jkV8cdE2YZGIcMRrFwB"
+        },
+        {
+          "quote": "El amor es como el viento, no puedes verlo pero puedes sentirlo.",
+          "length": "67",
+          "author": "Nicholas Sparks",
+          "tags": [
+            "amor",
+            "sentimientos",
+            "metáfora"
+          ],
+          "category": "love",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre el amor",
+          "id": "ENiB7klW9deF3ZAHJdNSsGxC"
+        },
+        {
+          "quote": "La vida es demasiado importante como para tomarla en serio.",
+          "length": "60",
+          "author": "Oscar Wilde",
+          "tags": [
+            "vida",
+            "humor",
+            "perspectiva"
+          ],
+          "category": "funny",
+          "date": "2024-08-07",
+          "title": "Frase divertida del día",
+          "id": "FOjC8lmX0efG4ABIKeOTtHyD"
+        },
+        {
+          "quote": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+          "length": "79",
+          "author": "Albert Schweitzer",
+          "tags": [
+            "éxito",
+            "felicidad",
+            "perspectiva"
+          ],
+          "category": "life",
+          "date": "2024-08-07",
+          "title": "Frase del día sobre la vida",
+          "id": "GPkD9mnY1fgH5BCJLfPUuIzE"
+        }
+      ]
+    }
+  }

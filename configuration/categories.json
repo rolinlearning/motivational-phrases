@@ -1,0 +1,33 @@
+{
+    "success": {
+      "total": 21
+    },
+    "contents": {
+      "categories": {
+        "inspire": "Inspiring Quote of the day",
+        "management": "Management Quote of the day",
+        "life": "Quote of the day about life",
+        "art": "Art quote of the day",
+        "sports": "Sports Quote of the day",
+        "students": "Quote of the day for students",
+        "love": "Quote of the day about Love",
+        "funny": "Funny Quote of the day",
+        "wisdom": "Wisdom Quote of the day",
+        "success": "Success Quote of the day",
+        "health": "Health Quote of the day",
+        "leadership": "Leadership Quote of the day",
+        "motivation": "Motivation Quote of the day",
+        "creativity": "Creativity Quote of the day",
+        "travel": "Travel Quote of the day",
+        "friendship": "Friendship Quote of the day",
+        "family": "Family Quote of the day",
+        "learning": "Learning Quote of the day",
+        "courage": "Courage Quote of the day",
+        "technology": "Technology Quote of the day",
+        "nature": "Nature Quote of the day",
+        "financial": "Financial Quote of the day",
+        "spirituality": "Spirituality Quote of the day"
+      }
+    }
+  }
+  
