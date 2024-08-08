@@ -62,7 +62,7 @@ A simple web application that displays random motivational quotes to inspire use
 
 1. Clone the repository:
 
-       git clone [https://github.com/yourusername/motivational-quotes.git](https://github.com/rolinlearning/motivational-quotes)
+       git clone https://github.com/rolinlearning/motivational-quotes
 
 2. Open `index.html` in your preferred web browser.
 
