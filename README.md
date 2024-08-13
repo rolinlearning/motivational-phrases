@@ -1,4 +1,4 @@
-# Motivational Quotes Frontend
+# Motivational Phrases Frontend
 
 A simple web application that displays random motivational quotes to inspire users.
 
