@@ -1,121 +1,273 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Motivation Nickname</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+
+    <title>Motivation</title>
     <link rel="stylesheet" href="./assets/styles/main.css" />
     <style>
-      body {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-      }
+                  /* STYLE GENERAL */
+                  body {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    /* font-size: 0.875rem; */
+                  }
 
-      /* STYLES NICKNAME SECTION */
-      .nickname label {
-        margin-bottom: 10px;
-      }
-      .nickname input {
-        width: 250px;
-        padding: 10px;
-        font-size: 16px;
-        border: 2px solid var(--white);
-        background-color: var(--nickname-background-color);
-        color: var(--white);
-        border-radius: 15px;
-        outline: none;
-        transition: all 0.3s ease;
-      }
-      .nickname input:focus {
-        border-color: var(--nickname-border-color-focus);
-        background-color: var(--nickname-background-color-focus);
-      }
+                  /* STYLES NICKNAME SECTION */
 
-      /* STYLES CATEGORIES SECTION  */
+                  .nicknameContainer {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    /* width: 1024px; */
+                  }
 
-      .hidden {
-        display: none;
-      }
+                  .nicknameForm {
+            /*        background-color: rgba(187, 105, 222, 0.1);*/
+                    background: rgba(24, 23, 58, 0.4);
+                    display: flex;
+                    flex-direction: column;
+                    padding: 30px 40px;
+                    border-radius: 15px;
+                    /* width: 100%; */
+                    /* width: 270px; */
+                  }
 
-      .container {
-        max-width: 1024px;
-        margin: 50px auto;
-        padding: 20px;
-        background: #18173a;
-        border-radius: 8px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      }
+                  .nicknameContainer label {
+                    margin: 10px auto;
+                    /* background-color: yellowgreen; */
+                    display: block;
+                    text-align: center;
+                  }
+                  .nicknameContainer input {
+                    padding: 10px;
+                    /* border: 1px solid var(--white); */
+                    border: none;
+                    /* border: 1px solid transparent; */
+                    background-color: var(--nickname-background-color);
+                    color: var(--white);
+                    border-radius: 15px;
+                    outline: none;
+                    transition: all 0.3s ease;
+                    display: block;
+                    margin: 10px auto;
+                    width: 270px;
+                  }
 
-      h5 {
-        text-align: center;
-      }
+                  ::placeholder {
+                    color: #e0e0e0;
+                    /* font-style: italic; */
+                  }
 
-      .cbox {
-        margin-top: 20px;
-      }
+                  .nicknameContainer button {
+                    margin: 10px auto;
+                    background-color: transparent;
+                    height: 35px;
+                    border-radius: 15px;
+                    padding: 10px;
+                    color: var(--white);
+                    cursor: pointer;
+                    border: 1px solid #fff;
+                  }
 
-      .cbox-genres {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-      }
+                  .nicknameContainer input:focus {
+                    /* border: none; */
+                    border: 2px solid var(--nickname-background-color-focus);
+                    /* border-color: var(--nickname-border-color-focus); */
+                    background-color: var(--nickname-background-color-focus);
+                  }
 
-      .cbox-genres ul {
-        display: flex;
-        flex-wrap: wrap;
-        padding: 0;
-        margin: 0;
-        list-style: none;
-        gap: 10px;
-      }
+                  .nicknameContainer button:hover {
+                    background-color: #7b68ee;
+                    border: none;
+                  }
 
-      .cbox-genres ul li {
-        flex: 1 1 calc(33.333% - 10px); /* Ajusta la base de la columna */
-        margin-bottom: 10px;
-      }
+                  /* STYLES CATEGORIES SECTION  */
 
-      .cbox-genres ul li a {
-        display: block;
-        padding: 9px 10px;
-        border-radius: 10px;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        max-width: 100%;
-        overflow: hidden;
-        font-size: 0.9em;
-        font-weight: 500;
-        background: transparent; /* Color de fondo transparente */
-        border: 1px solid #fff; /* Borde blanco */
-        color: #fff; /* Color del texto */
-        text-align: center;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-        transition: background 0.3s, border-color 0.3s;
-        text-decoration: none;
-      }
+                  .hidden {
+                    display: none;
+                  }
 
-      .cbox-genres ul li a:hover {
-        background: #7b68ee;
-        border-color: #7b68ee;
-        outline: none;
-      }
+                  .container {
+                    /* max-width: 1024px; */
+                    max-width: 800px;
+                    margin: 50px auto;
+                    padding: 20px;
+                    background: rgba(24, 23, 58, 0.4);
+                    border-radius: 20px;
+                  }
 
-      #selected-category {
-        margin-top: 20px;
-        text-align: center;
-        font-size: 1.2em;
-        color: #bb69de;
-      }
+                  h5 {
+                    text-align: center;
+                  }
+
+                  .cbox {
+                    margin-top: 20px;
+                  }
+
+                  .cbox-genres {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 10px;
+                    justify-content: center;
+                  }
+
+                  .cbox-genres ul {
+                    display: flex;
+                    flex-wrap: wrap;
+                    padding: 0;
+                    margin: 0;
+                    list-style: none;
+                    gap: 10px;
+                    /*      background-color: wheat; */
+                  }
+
+                  .cbox-genres ul li {
+                    /* Ajusta la base de la columna, de hecho esto es para ajustar la separacion de los elementos li entre cada uno de ellos */
+                    flex: 1 1 calc(13.333% - 10px);
+                    /*         flex: 1 1 0; */
+                    margin-bottom: 10px;
+                    /*         background-color: yellowgreen; */
+                  }
+
+                  .cbox-genres ul li a {
+                    display: inline-flex;
+                    padding: 9px 10px;
+                    border-radius: 15px;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    /* max-width: 100%; */
+                    overflow: hidden;
+                    font-size: 0.9em;
+                    font-weight: 500;
+                    /* Color de fondo transparente */
+                    background: transparent;
+                    /* background-color: tomato; */
+                    border: 1px solid #fff; /* Borde blanco */
+                    color: #fff; /* Color del texto */
+                    text-align: center;
+                    transition:
+                      background 0.3s,
+                      border-color 0.3s;
+                    text-decoration: none;
+                  }
+
+                  .cbox-genres ul li a:hover {
+                    background: #7b68ee;
+                    border-color: #7b68ee;
+                    outline: none;
+                  }
+
+                  /* STYLES QUOTED SECTION */
+                  .icon-header-message {
+                    height: 48px;
+                    margin-bottom: 10px;
+            /*        background-color: rgb(255, 215, 0, 1);*/
+                  }
+
+                  #messageSection {
+                    flex-direction: column; /* Apilar los elementos verticalmente */
+                    align-items: center; /* Centrar horizontalmente */
+                    justify-content: center; /* Centrar verticalmente */
+                    text-align: center; /* Alinear el texto al centro */
+                    padding: 40px; /* Espacio interno opcional */
+                    border-radius: 8px; /* Esquinas redondeadas opcional */
+            /*        background-color: green;*/
+                    background: rgba(24, 23, 58, 0.4);
+                    /*        This is necessary for absolute positioning of author-message*/
+                    position: relative;
+                    box-sizing: border-box;
+            /*        border: 1px solid white;*/
+                    max-width: 1024px;
+                  }
+
+                  /*Container message description*/
+                  #message {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 10px; /* Espacio entre el nombre y la descripción */
+                  }
+
+                  /*   Estilo para el nombre del mensaje */
+                  .name-message {
+                    font-size: 12px; /* Tamaño del texto del nombre */
+                    color: #F5F5F5; /* Color del texto del nombre */
+                    opacity: 0.8; /* Opacidad del texto del nombre */
+            /*        background-color: dodgerblue;*/
+                  }
+
+                  /* Estilo para la descripción del mensaje */
+                  .description-message {
+                    font-size: 19px; /* Tamaño del texto de la descripción */
+                    color: #ffffff; /* Color del texto de la descripción */
+                    font-weight: bold; /* Negrita opcional */
+            /*        background-color: cadetblue; /* Fondo opcional para resaltar */*/
+                    padding: 10px; /* Espacio interno para resaltar */
+                    border-radius: 4px; /* Esquinas redondeadas opcional */
+                  }
+                  .author-message {
+                    position: absolute;
+                    right: 70px;
+                    bottom: 20px;
+                    text-align: right;
+            /*        background-color: palevioletred;*/
+                  }
+
+                  .icon-like-message {
+                     height: 32px;
+                    margin-bottom: 10px;
+            /*        background-color: rgb(255, 215, 0, 1);*/
+                    position: absolute;
+                    right: 20px;
+                    transition: color 0.3s;
+                  }
+
+                  .icon-like-message:hover {
+                    cursor: pointer;
+                  }
+
+                  .clicked {
+                    fill: #EE204E;
+                    stroke: #EE204E;
+                  }
+
+                  .name-color {
+                    color: #F653A6;
+            /*        color: #7b68ee;*/
+                  }
+
+      /*          OPTIONS ADDITIONALS STYLE */
+              .new-message-icon {
+                height: 48px;
+                margin-top: 40px;
+                stroke: #5856d6;
+                stroke-width: 1.5;
+              }
+              .new-message-icon:hover {
+                cursor: pointer;
+              }
     </style>
   </head>
   <body>
     <!-- NICKNAME SECTION -->
-    <div id="nameSection" class="nickname">
-      <form id="nameForm">
+    <div id="nameSection" class="nicknameContainer">
+      <form id="nameForm" class="nicknameForm">
         <label for="name">Ingresa tu nombre o alias</label>
-        <input type="text" name="nickname" id="name" />
+        <input
+          type="text"
+          name="nickname"
+          id="name"
+          placeholder="Escribiendo.."
+          required
+          oninvalid="this.setCustomValidity('Por favor, ingresa un nombre..')"
+          oninput="this.setCustomValidity('')"
+          autofocus
+        />
         <button type="submit">Siguiente</button>
       </form>
     </div>
@@ -126,42 +278,95 @@
         <h5>Selecciona una Categoría</h5>
         <div class="cbox cbox-genres active">
           <ul class="ulclear color-list sb-genre-list sb-genre-less">
-            <li><a href="#" data-category="inspire">Inspiracion</a></li>
-            <li><a href="#" data-category="management">Gestion</a></li>
-            <li><a href="#" data-category="life">Vida</a></li>
             <li><a href="#" data-category="art">Arte</a></li>
-            <li><a href="#" data-category="sports">Deportes</a></li>
-            <li><a href="#" data-category="students">Estudiante</a></li>
+            <li><a href="#" data-category="creativity">Creatividad</a></li>
+            <li><a href="#" data-category="family">Familia</a></li>
+            <li><a href="#" data-category="friendship">Amistad</a></li>
+            <li><a href="#" data-category="funny">Humor</a></li>
+            <li><a href="#" data-category="health">Salud</a></li>
+            <li><a href="#" data-category="inspiration">Inspiration</a></li>
+            <li><a href="#" data-category="leadership">Liderazgo</a></li>
+            <li>
+              <a href="#" data-category="learning">Aprendizaje Continuo</a>
+            </li>
+            <li><a href="#" data-category="life">Vida</a></li>
+            <li><a href="#" data-category="literature">Literatura</a></li>
             <li><a href="#" data-category="love">Amor</a></li>
-            <li><a href="#" data-category="funny">Diversion</a></li>
-            <li><a href="#" data-category="game">Sabiduria todavia</a></li>
-            <li><a href="#" data-category="harem">Naturaleza</a></li>
-            <li><a href="#" data-category="historical">Literatura</a></li>
-            <li><a href="#" data-category="horror">Motivacion</a></li>
+            <li><a href="#" data-category="management">Gestión Eficaz</a></li>
+            <li><a href="#" data-category="motivation">Motivación</a></li>
+            <li><a href="#" data-category="nature">Naturaleza</a></li>
+            <li><a href="#" data-category="philosophy">Filosofía</a></li>
+            <li><a href="#" data-category="resilience">Resiliencia</a></li>
+            <li><a href="#" data-category="spirituality">Espiritualidad</a></li>
+            <li><a href="#" data-category="sport">Deporte</a></li>
+            <li><a href="#" data-category="success">Éxito</a></li>
+            <li><a href="#" data-category="technology">Tecnología</a></li>
+            <li><a href="#" data-category="travel">Viajes</a></li>
+            <li><a href="#" data-category="wisdom">Sabiduría</a></li>
           </ul>
           <div class="clearfix"></div>
-          <button class="btn btn-sm btn-block btn-showmore mt-2">
-            Mostrar Más
-          </button>
         </div>
-        <div id="selected-category">
+        <!-- <div id="selected-category">
           <p>Selecciona una categoría para ver el mensaje.</p>
-        </div>
+        </div> -->
       </div>
     </div>
 
     <!-- QUOTE SECTION  -->
     <div id="messageSection" class="hidden">
-      <h5>Mensaje Personalizado</h5>
+      <svg
+        class="icon-header-message"
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="size-6"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09ZM18.259 8.715 18 9.75l-.259-1.035a3.375 3.375 0 0 0-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 0 0 2.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 0 0 2.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 0 0-2.456 2.456ZM16.894 20.567 16.5 21.75l-.394-1.183a2.25 2.25 0 0 0-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 0 0 1.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 0 0 1.423 1.423l1.183.394-1.183.394a2.25 2.25 0 0 0-1.423 1.423Z"
+        />
+      </svg>
+
       <div id="message"></div>
+    </div>
+
+    <!-- ADITIONALS OPTION SECTION -->
+    <div class="container-options" id="unique-container-options">
+      <svg
+        class="new-message-icon"
+        id="unique-new-message-icon"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        class="size-6"
+      >
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 9a.75.75 0 0 0-1.5 0v2.25H9a.75.75 0 0 0 0 1.5h2.25V15a.75.75 0 0 0 1.5 0v-2.25H15a.75.75 0 0 0 0-1.5h-2.25V9Z"
+          clip-rule="evenodd"
+        />
+      </svg>
     </div>
 
     <script type="text/javascript">
       // Función para mostrar la sección correspondiente
       function showSection(sectionId) {
+        //Ocultar todas las secciones..
         document.getElementById("nameSection").classList.add("hidden");
         document.getElementById("categorySection").classList.add("hidden");
         document.getElementById("messageSection").classList.add("hidden");
+        document
+          .getElementById("unique-container-options")
+          .classList.add("hidden");
+        // Mostrar la seccion deseada..
+        document.getElementById(sectionId).classList.remove("hidden");
+      }
+
+      function removeHiddenAditional(sectionId) {
         document.getElementById(sectionId).classList.remove("hidden");
       }
 
@@ -189,7 +394,6 @@
 
       // Manejo del formulario de categoría
       const categoryLinks = document.querySelectorAll(".color-list a");
-      const selectedCategoryDiv = document.getElementById("selected-category");
 
       categoryLinks.forEach((link) => {
         link.addEventListener("click", async (event) => {
@@ -199,39 +403,51 @@
           categoryLinks.forEach((link) => link.classList.remove("selected"));
 
           // Agregar la clase 'selected' al elemento clicado
-          link.classList.add("selected");
+          // link.classList.add("selected");
 
           // Obtener la categoría seleccionada
           const category = link.getAttribute("data-category");
           localStorage.setItem("userCategory", category); // Guardar categoría en LocalStorage
 
           // Mostrar un mensaje basado en la categoría
-          selectedCategoryDiv.innerHTML = `<p>Has seleccionado la categoría: <strong>${category}</strong></p>`;
-          const name = localStorage.getItem("userName");
-          const randomMessage = "Hello, this random message is valid!";
+          // const name = localStorage.getItem("userName");
+          const randomMessageStatic = "Hello, this random message is valid!";
 
           //Llamar a la funcion para obtener mensaje random
           const messages = await fetchMessages();
-          const categoryMessages = messages.contents.quotes.filter(
-            (quote) => quote.category === category
+          const categoryMessagesJson = messages.contents.quotes.filter(
+            (quote) => quote.category === category,
           );
-          console.log(categoryMessages);
+          console.log(categoryMessagesJson);
 
           // Verificar si hay mensajes en la categoría
-          if (categoryMessages.length > 0) {
+          if (categoryMessagesJson.length > 0) {
             const randomMessage =
-              categoryMessages[
-                Math.floor(Math.random() * categoryMessages.length)
+              categoryMessagesJson[
+                Math.floor(Math.random() * categoryMessagesJson.length)
               ];
+            console.log("this is random message variable: " + randomMessage);
+            // Aqui vamos a selecctionar
             const selectedQuote = randomMessage
               ? randomMessage.quote
               : "No hay mensajes disponibles para esta categoría.";
+            console.log("This is quote selected: " + selectedQuote);
+            const selectedAuthor = randomMessage
+              ? randomMessage.author.name
+              : "Anonymous!";
+            const selectedYear = randomMessage ? randomMessage.date : "1945";
+            const selectedYearFormated = processDate(selectedYear);
             const name = localStorage.getItem("userName");
-            document.getElementById(
-              "message"
-            ).innerHTML = `Hola ${name}, tu mensaje es: "${selectedQuote}"`;
-            // Mostrar la sección de captura de nombre al cargar la página
+            document.getElementById("message").innerHTML =
+              `<h5 class="name-message" >Hola <span class="name-color">${name}</span>, tu mensaje del dia es:</h5>
+              <p class="description-message" >"${selectedQuote}"</p>
+              <p class="author-message" >${selectedAuthor}, ${selectedYearFormated}</p>
+              <p>${heartSvg}</p>
+              `;
+            // Mostrar la seccion del mensaje y el container
             showSection("messageSection");
+            removeHiddenAditional("unique-container-options");
+            document.getElementById("name").value = '';
           } else {
             console.log("No hay mensajes en esta categoriaa");
             document.getElementById("message").innerHTML =
@@ -240,7 +456,65 @@
         });
       });
 
+      // Almacenar el icono svg de heart en una constante.
+      const heartSvg = `<svg class="icon-like-message"
+        id="unique-icon-like-message"
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="size-6"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z"
+        />
+      </svg>`;
+
+      // Guardamos la referencia al elemento HTML con id 'message' en una constante
+      const containerMessageId = document.getElementById("message");
+
+      // CAMBIAR DE COLOR AL ICONO ME ENCANTA
+      // Agregar un evento 'click' al contenedor 'containerMessageId'
+      containerMessageId.addEventListener("click", (event) => {
+        // Guardamos la referencia al SVG con id 'unique-icon-like-message'
+        const heartIconSvg = document.getElementById(
+          "unique-icon-like-message",
+        );
+
+        // Verificar si el elemento clicado (event.target) está dentro del SVG (heartIconSvg)
+        if (heartIconSvg && heartIconSvg.contains(event.target)) {
+          console.log("This function is working2"); // Mensaje de confirmación para verificar que el código se ejecuta
+          console.log(event.target); // Muestra el elemento que se clicó en la consola
+          // Alternar la clase 'clicked' en el SVG, lo que probablemente cambia el color del corazón
+          heartIconSvg.classList.toggle("clicked");
+        }
+      });
+
+      // CAPTURAR YEAR DE UN DATE
+      // funcion para capturar solo el year de un date de un quote seleccionado
+      function processDate(dateString) {
+        if (dateString.includes("a.C.")) {
+          // Si la fecha incluye "a.C.", se retorna tal cual
+          return dateString;
+        } else {
+          // Si la fecha tiene formato "YYYY-MM-DD", se captura solo el año
+          const year = dateString.split("/")[2];
+          console.log(year);
+          return year;
+        }
+      }
+
+      // Funcion para recargar cuando el usuario de click en el boton
+      document
+        .getElementById("unique-new-message-icon")
+        .addEventListener("click", () => {
+          location.reload();
+        });
       // Mostrar la sección de captura de nombre al cargar la página
+      // showSection("unique-container-options");
       showSection("nameSection");
     </script>
   </body>

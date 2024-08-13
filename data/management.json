@@ -1,289 +1,311 @@
 {
-    "success": {
-      "total": 20
-    },
-    "contents": {
-      "quotes": [
-        {
-          "quote": "La gestión es hacer las cosas bien; el liderazgo es hacer las cosas correctas.",
-          "length": "84",
-          "author": "Peter Drucker",
-          "tags": [
-            "gestión",
-            "liderazgo",
-            "eficacia"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "aHrT1mnK2efL9BCJOpQUuIzE"
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La gestión efectiva es el arte de hacer que las cosas sucedan.",
+        "length": "57",
+        "author": {
+          "name": "Peter Drucker",
+          "nationality": "Austriaco",
+          "profession": "Gestor y Consultor",
+          "field": "Administración y Gestión"
         },
-        {
-          "quote": "Un buen líder lleva a las personas a donde quieren ir. Un gran líder las lleva a donde deben estar.",
-          "length": "107",
-          "author": "Rosalynn Carter",
-          "tags": [
-            "liderazgo",
-            "visión",
-            "dirección"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "bIsU2noL3fgM0CDKPqRVvJaF"
+        "tags": ["gestión", "efectividad", "liderazgo"],
+        "category": "management",
+        "date": "19/11/1909",
+        "title": "Cita sobre gestión",
+        "id": "1"
+      },
+      {
+        "quote": "La planificación es la clave para el éxito en cualquier proyecto.",
+        "length": "63",
+        "author": {
+          "name": "Winston Churchill",
+          "nationality": "Británico",
+          "profession": "Político y Militar",
+          "field": "Liderazgo y Estrategia"
         },
-        {
-          "quote": "La innovación distingue a los líderes de los seguidores.",
-          "length": "60",
-          "author": "Steve Jobs",
-          "tags": [
-            "innovación",
-            "liderazgo",
-            "diferenciación"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "cJtV3opM4ghN1DELQrSWwKbG"
+        "tags": ["planificación", "éxito", "proyecto"],
+        "category": "management",
+        "date": "30/11/1874",
+        "title": "Cita sobre planificación",
+        "id": "2"
+      },
+      {
+        "quote": "La supervisión es el proceso de guiar y dirigir a los demás hacia un objetivo común.",
+        "length": "73",
+        "author": {
+          "name": "Mary Parker Follett",
+          "nationality": "Estadounidense",
+          "profession": "Gestora y Teórica",
+          "field": "Administración y Gestión"
         },
-        {
-          "quote": "No hay secretos para el éxito. Es el resultado de la preparación, trabajo duro y aprender del fracaso.",
-          "length": "104",
-          "author": "Colin Powell",
-          "tags": [
-            "éxito",
-            "preparación",
-            "aprendizaje"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "dKuW4pqN5hiO2EFMRsTXxLcH"
+        "tags": ["supervisión", "liderazgo", "objetivo"],
+        "category": "management",
+        "date": "03/09/1868",
+        "title": "Cita sobre supervisión",
+        "id": "3"
+      },
+      {
+        "quote": "La administración es la capacidad de hacer que las cosas sucedan a través de los demás.",
+        "length": "65",
+        "author": {
+          "name": "Henry Mintzberg",
+          "nationality": "Canadiense",
+          "profession": "Gestor y Teórico",
+          "field": "Administración y Gestión"
         },
-        {
-          "quote": "El liderazgo es la capacidad de traducir la visión en realidad.",
-          "length": "67",
-          "author": "Warren Bennis",
-          "tags": [
-            "liderazgo",
-            "visión",
-            "acción"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "eLvX5qrO6ijP3FGNStUYyMdI"
+        "tags": ["administración", "liderazgo", "gestión"],
+        "category": "management",
+        "date": "02/09/1939",
+        "title": "Cita sobre administración",
+        "id": "4"
+      },
+      {
+        "quote": "La dirección es el proceso de influir en los demás para lograr un objetivo común.",
+        "length": "67",
+        "author": {
+          "name": "John Kotter",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Liderazgo y Cambio"
         },
-        {
-          "quote": "La calidad nunca es un accidente; siempre es el resultado de un esfuerzo inteligente.",
-          "length": "88",
-          "author": "John Ruskin",
-          "tags": [
-            "calidad",
-            "esfuerzo",
-            "inteligencia"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "fMwY6rsP7jkQ4GHOTuVZzNeJ"
+        "tags": ["dirección", "liderazgo", "influencia"],
+        "category": "management",
+        "date": "25/02/1947",
+        "title": "Cita sobre dirección",
+        "id": "5"
+      },
+      {
+        "quote": "La organización es la estructura que permite alcanzar los objetivos de una empresa.",
+        "length": "63",
+        "author": {
+          "name": "Max Weber",
+          "nationality": "Alemán",
+          "profession": "Sociólogo y Economista",
+          "field": "Teoría de la Organización"
         },
-        {
-          "quote": "El arte de la gestión consiste en organizar el talento.",
-          "length": "59",
-          "author": "Robert H. McNamara",
-          "tags": [
-            "gestión",
-            "talento",
-            "organización"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "gNxZ7stQ8klR5HIPUvWAaOfK"
+        "tags": ["organización", "estructura", "objetivos"],
+        "category": "management",
+        "date": "21/04/1864",
+        "title": "Cita sobre organización",
+        "id": "6"
+      },
+      {
+        "quote": "La estrategia es el plan para alcanzar los objetivos a largo plazo.",
+        "length": "59",
+        "author": {
+          "name": "Michael Porter",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Estrategia y Competitividad"
         },
-        {
-          "quote": "Un líder es aquel que conoce el camino, va por el camino y muestra el camino.",
-          "length": "83",
-          "author": "John C. Maxwell",
-          "tags": [
-            "liderazgo",
-            "guía",
-            "ejemplo"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "hOyA8tuR9lmS6IJQVwXBbPgL"
+        "tags": ["estrategia", "planificación", "objetivos"],
+        "category": "management",
+        "date": "30/05/1947",
+        "title": "Cita sobre estrategia",
+        "id": "7"
+      },
+      {
+        "quote": "La coordinación es el proceso de integrar y sincronizar las actividades de un equipo.",
+        "length": "65",
+        "author": {
+          "name": "Henri Fayol",
+          "nationality": "Francés",
+          "profession": "Ingeniero y Gestor",
+          "field": "Administración y Gestión"
         },
-        {
-          "quote": "La gestión es, sobre todo, una práctica donde el arte, la ciencia y el oficio se encuentran.",
-          "length": "93",
-          "author": "Henry Mintzberg",
-          "tags": [
-            "gestión",
-            "práctica",
-            "multidisciplina"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "iPzB9uvS0mnT7JKRWxYCcQhM"
+        "tags": ["coordinación", "integración", "sincronización"],
+        "category": "management",
+        "date": "29/07/1841",
+        "title": "Cita sobre coordinación",
+        "id": "8"
+      },
+      {
+        "quote": "La motivación es el proceso de inspirar y estimular a los demás para lograr un objetivo común.",
+        "length": "67",
+        "author": {
+          "name": "Abraham Maslow",
+          "nationality": "Estadounidense",
+          "profession": "Psicólogo y Teórico",
+          "field": "Motivación y Desarrollo Humano"
         },
-        {
-          "quote": "Los líderes piensan y hablan sobre las soluciones. Los seguidores piensan y hablan sobre los problemas.",
-          "length": "105",
-          "author": "Brian Tracy",
-          "tags": [
-            "liderazgo",
-            "soluciones",
-            "mentalidad"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "jQaC0vwT1noU8KLSXyZDdRiN"
+        "tags": ["motivación", "inspiración", "estimulación"],
+        "category": "management",
+        "date": "01/04/1908",
+        "title": "Cita sobre motivación",
+        "id": "9"
+      },
+      {
+        "quote": "La comunicación efectiva es la clave para el éxito en cualquier organización.",
+        "length": "63",
+        "author": {
+          "name": "Peter Senge",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Aprendizaje Organizacional y Liderazgo"
         },
-        {
-          "quote": "La productividad no es un accidente. Siempre es el resultado de un compromiso con la excelencia, la planificación inteligente y el esfuerzo concentrado.",
-          "length": "156",
-          "author": "Paul J. Meyer",
-          "tags": [
-            "productividad",
-            "excelencia",
-            "planificación"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "kRbD1wxU2opV9LMTYzAEeSjO"
+        "tags": ["comunicación", "efectividad", "éxito"],
+        "category": "management",
+        "date": "22/03/1947",
+        "title": "Cita sobre comunicación",
+        "id": "10"
+      },
+      {
+        "quote": "La delegación es el proceso de asignar responsabilidades y autoridad a otros.",
+        "length": "61",
+        "author": {
+          "name": "Stephen Covey",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Liderazgo y Desarrollo Personal"
         },
-        {
-          "quote": "El secreto del éxito en los negocios está en detectar hacia dónde va el mundo y llegar ahí primero.",
-          "length": "105",
-          "author": "Bill Gates",
-          "tags": [
-            "éxito",
-            "visión",
-            "anticipación"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "lScE2xyV3pqW0MNUZaBFfTkP"
+        "tags": ["delegación", "responsabilidad", "autoridad"],
+        "category": "management",
+        "date": "24/10/1932",
+        "title": "Cita sobre delegación",
+        "id": "11"
+      },
+      {
+        "quote": "La evaluación es el proceso de medir y evaluar el desempeño de un equipo o individuo.",
+        "length": "65",
+        "author": {
+          "name": "David McClelland",
+          "nationality": "Estadounidense",
+          "profession": "Psicólogo y Teórico",
+          "field": "Motivación y Desarrollo Humano"
         },
-        {
-          "quote": "La gestión es hacer las cosas bien; el liderazgo es hacer las cosas correctas.",
-          "length": "84",
-          "author": "Peter Drucker",
-          "tags": [
-            "gestión",
-            "liderazgo",
-            "eficacia"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "mTdF3yzW4qrX1OPVAcCGgUlQ"
+        "tags": ["evaluación", "medición", "desempeño"],
+        "category": "management",
+        "date": "20/05/1917",
+        "title": "Cita sobre evaluación",
+        "id": "12"
+      },
+      {
+        "quote": "La retroalimentación es el proceso de proporcionar información y comentarios constructivos.",
+        "length": "63",
+        "author": {
+          "name": "Douglas McGregor",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Teoría de la Organización y Liderazgo"
         },
-        {
-          "quote": "El liderazgo es la capacidad de conseguir que las personas hagan lo que no quieren hacer y que les guste.",
-          "length": "109",
-          "author": "Harry Truman",
-          "tags": [
-            "liderazgo",
-            "motivación",
-            "influencia"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "nUeG4zaX5rsY2PQWBdDHhVmR"
+        "tags": ["retroalimentación", "información", "comentarios"],
+        "category": "management",
+        "date": "1906",
+        "title": "Cita sobre retroalimentación",
+        "id": "13"
+      },
+      {
+        "quote": "La innovación es el proceso de crear y implementar nuevas ideas y soluciones.",
+        "length": "61",
+        "author": {
+          "name": "Clayton Christensen",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Innovación y Estrategia"
         },
-        {
-          "quote": "La primera responsabilidad de un líder es definir la realidad. La última es dar las gracias.",
-          "length": "94",
-          "author": "Max DePree",
-          "tags": [
-            "liderazgo",
-            "responsabilidad",
-            "gratitud"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "oVfH5abY6stZ3QRXCeEIiWnS"
+        "tags": ["innovación", "creación", "implementación"],
+        "category": "management",
+        "date": "06/04/1952",
+        "title": "Cita sobre innovación",
+        "id": "14"
+      },
+      {
+        "quote": "La gestión del cambio es el proceso de planificar y implementar cambios en una organización.",
+        "length": "65",
+        "author": {
+          "name": "Kurt Lewin",
+          "nationality": "Alemán",
+          "profession": "Psicólogo y Teórico",
+          "field": "Teoría del Cambio y Dinámica de Grupos"
         },
-        {
-          "quote": "La gestión es la eficiencia en escalar la escalera del éxito; el liderazgo determina si la escalera está apoyada en la pared correcta.",
-          "length": "145",
-          "author": "Stephen Covey",
-          "tags": [
-            "gestión",
-            "liderazgo",
-            "dirección"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "pWgI6bcZ7tuA4RSYDfFJjXoT"
+        "tags": ["gestión del cambio", "planificación", "implementación"],
+        "category": "management",
+        "date": "09/09/1890",
+        "title": "Cita sobre gestión del cambio",
+        "id": "15"
+      },
+      {
+        "quote": "La resolución de conflictos es el proceso de manejar y resolver disputas de manera efectiva.",
+        "length": "63",
+        "author": {
+          "name": "Mary Parker Follett",
+          "nationality": "Estadounidense",
+          "profession": "Gestora y Teórica",
+          "field": "Administración y Gestión"
         },
-        {
-          "quote": "Un buen plan violentamente ejecutado ahora es mejor que un plan perfecto ejecutado la semana que viene.",
-          "length": "105",
-          "author": "George S. Patton",
-          "tags": [
-            "planificación",
-            "acción",
-            "ejecución"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "qXhJ7cdA8uvB5STZEgGKkYpU"
+        "tags": ["resolución de conflictos", "manejo", "disputas"],
+        "category": "management",
+        "date": "03/09/1868",
+        "title": "Cita sobre resolución de conflictos",
+        "id": "16"
+      },
+      {
+        "quote": "La gestión del tiempo es el proceso de planificar y controlar el uso del tiempo.",
+        "length": "61",
+        "author": {
+          "name": "Stephen Covey",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Liderazgo y Desarrollo Personal"
         },
-        {
-          "quote": "La excelencia es una habilidad ganada a través del entrenamiento y la práctica. Nosotros somos lo que repetidamente hacemos.",
-          "length": "129",
-          "author": "Aristóteles",
-          "tags": [
-            "excelencia",
-            "práctica",
-            "hábito"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "rYiK8deB9vwC6TUAFhHLlZqV"
+        "tags": ["gestión del tiempo", "planificación", "control"],
+        "category": "management",
+        "date": "24/10/1932",
+        "title": "Cita sobre gestión del tiempo",
+        "id": "17"
+      },
+      {
+        "quote": "La toma de decisiones éticas es el proceso de elegir opciones que sean moralmente correctas.",
+        "length": "65",
+        "author": {
+          "name": "Peter Drucker",
+          "nationality": "Austriaco",
+          "profession": "Gestor y Consultor",
+          "field": "Administración y Gestión"
         },
-        {
-          "quote": "El liderazgo es un privilegio para servir mejor, no una licencia para dominar.",
-          "length": "79",
-          "author": "J. Oswald Sanders",
-          "tags": [
-            "liderazgo",
-            "servicio",
-            "humildad"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "sZjL9efC0wxD7UVBGiIMmArW"
+        "tags": ["toma de decisiones éticas", "moralidad", "opciones"],
+        "category": "management",
+        "date": "19/11/1909",
+        "title": "Cita sobre toma de decisiones éticas",
+        "id": "18"
+      },
+      {
+        "quote": "La gestión de la diversidad es el proceso de crear un ambiente inclusivo y respetuoso.",
+        "length": "63",
+        "author": {
+          "name": "R. Roosevelt Thomas",
+          "nationality": "Estadounidense",
+          "profession": "Gestor y Teórico",
+          "field": "Gestión de la Diversidad y Inclusión"
         },
-        {
-          "quote": "La capacidad de aprender es la habilidad más importante en los negocios.",
-          "length": "75",
-          "author": "Michael Dell",
-          "tags": [
-            "aprendizaje",
-            "negocios",
-            "habilidades"
-          ],
-          "category": "management",
-          "date": "2024-08-07",
-          "title": "Frase del día sobre gestión",
-          "id": "tAkM0fgD1xyE8VWCHjJNnBsX"
-        }
-      ]
-    }
+        "tags": ["gestión de la diversidad", "inclusión", "respeto"],
+        "category": "management",
+        "date": "24/05/1942",
+        "title": "Cita sobre gestión de la diversidad",
+        "id": "19"
+      },
+      {
+        "quote": "La gestión del conocimiento es el proceso de crear, compartir y utilizar conocimiento.",
+        "length": "61",
+        "author": {
+          "name": "Ikujiro Nonaka",
+          "nationality": "Japonés",
+          "profession": "Gestor y Teórico",
+          "field": "Gestión del Conocimiento y Innovación"
+        },
+        "tags": ["gestión del conocimiento", "creación", "compartir"],
+        "category": "management",
+        "date": "10/05/1935",
+        "title": "Cita sobre gestión del conocimiento",
+        "id": "20"
+      }
+    ]
   }
+}

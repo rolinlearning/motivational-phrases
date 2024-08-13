@@ -1,0 +1,411 @@
+{
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La inspiración existe, pero tiene que encontrarte trabajando.",
+        "length": "63",
+        "author": {
+          "name": "Pablo Picasso",
+          "nationality": "Española",
+          "profession": "Pintor",
+          "field": "Arte"
+        },
+        "tags": [
+          "inspiración",
+          "trabajo",
+          "creatividad",
+          "perseverancia"
+        ],
+        "category": "inspiration",
+        "date": "25/10/1881",
+        "title": "Quote about inspiration and work",
+        "id": "1"
+      },
+      {
+        "quote": "El genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración.",
+        "length": "92",
+        "author": {
+          "name": "Thomas Edison",
+          "nationality": "Estadounidense",
+          "profession": "Inventor",
+          "field": "Ciencia y Tecnología"
+        },
+        "tags": [
+          "genio",
+          "inspiración",
+          "esfuerzo",
+          "trabajo"
+        ],
+        "category": "inspiration",
+        "date": "11/02/1847",
+        "title": "Quote about genius and inspiration",
+        "id": "2"
+      },
+      {
+        "quote": "La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación circunda el mundo.",
+        "length": "113",
+        "author": {
+          "name": "Albert Einstein",
+          "nationality": "Alemana",
+          "profession": "Físico",
+          "field": "Ciencia"
+        },
+        "tags": [
+          "imaginación",
+          "conocimiento",
+          "creatividad",
+          "inspiración"
+        ],
+        "category": "inspiration",
+        "date": "14/03/1879",
+        "title": "Quote about imagination",
+        "id": "3"
+      },
+      {
+        "quote": "No esperes la inspiración. Sale a buscarla con un garrote.",
+        "length": "60",
+        "author": {
+          "name": "Jack London",
+          "nationality": "Estadounidense",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "inspiración",
+          "acción",
+          "proactividad",
+          "creatividad"
+        ],
+        "category": "inspiration",
+        "date": "12/01/1876",
+        "title": "Quote about seeking inspiration",
+        "id": "4"
+      },
+      {
+        "quote": "La inspiración no es exclusiva de los poetas o artistas. Hay, ha habido y habrá inspiración en cada actividad humana.",
+        "length": "121",
+        "author": {
+          "name": "José Ortega y Gasset",
+          "nationality": "Española",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "inspiración",
+          "universalidad",
+          "humanidad",
+          "creatividad"
+        ],
+        "category": "inspiration",
+        "date": "09/05/1883",
+        "title": "Quote about universal inspiration",
+        "id": "5"
+      },
+      {
+        "quote": "La motivación nos impulsa a comenzar y el hábito nos permite continuar.",
+        "length": "71",
+        "author": {
+          "name": "Jim Ryun",
+          "nationality": "Estadounidense",
+          "profession": "Atleta y Político",
+          "field": "Deportes y Política"
+        },
+        "tags": [
+          "motivación",
+          "hábito",
+          "perseverancia",
+          "éxito"
+        ],
+        "category": "inspiration",
+        "date": "29/04/1947",
+        "title": "Quote about motivation and habit",
+        "id": "6"
+      },
+      {
+        "quote": "El entusiasmo es la levadura que hace que tus esperanzas se eleven hasta las estrellas.",
+        "length": "86",
+        "author": {
+          "name": "Henry Ford",
+          "nationality": "Estadounidense",
+          "profession": "Empresario",
+          "field": "Industria Automotriz"
+        },
+        "tags": [
+          "entusiasmo",
+          "esperanza",
+          "motivación",
+          "éxito"
+        ],
+        "category": "inspiration",
+        "date": "30/07/1863",
+        "title": "Quote about enthusiasm",
+        "id": "7"
+      },
+      {
+        "quote": "La creatividad es la inteligencia divirtiéndose.",
+        "length": "50",
+        "author": {
+          "name": "Albert Einstein",
+          "nationality": "Alemana",
+          "profession": "Físico",
+          "field": "Ciencia"
+        },
+        "tags": [
+          "creatividad",
+          "inteligencia",
+          "diversión",
+          "inspiración"
+        ],
+        "category": "inspiration",
+        "date": "14/03/1879",
+        "title": "Quote about creativity",
+        "id": "8"
+      },
+      {
+        "quote": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+        "length": "68",
+        "author": {
+          "name": "Robert Collier",
+          "nationality": "Estadounidense",
+          "profession": "Escritor",
+          "field": "Literatura de Autoayuda"
+        },
+        "tags": [
+          "éxito",
+          "esfuerzo",
+          "perseverancia",
+          "motivación"
+        ],
+        "category": "inspiration",
+        "date": "19/04/1885",
+        "title": "Quote about success and effort",
+        "id": "9"
+      },
+      {
+        "quote": "La innovación distingue a los líderes de los seguidores.",
+        "length": "58",
+        "author": {
+          "name": "Steve Jobs",
+          "nationality": "Estadounidense",
+          "profession": "Empresario",
+          "field": "Tecnología"
+        },
+        "tags": [
+          "innovación",
+          "liderazgo",
+          "creatividad",
+          "inspiración"
+        ],
+        "category": "inspiration",
+        "date": "24/02/1955",
+        "title": "Quote about innovation and leadership",
+        "id": "10"
+      },
+      {
+        "quote": "La mejor forma de predecir el futuro es creándolo.",
+        "length": "53",
+        "author": {
+          "name": "Peter Drucker",
+          "nationality": "Austriaca",
+          "profession": "Consultor y Escritor",
+          "field": "Administración"
+        },
+        "tags": [
+          "futuro",
+          "creación",
+          "acción",
+          "visión"
+        ],
+        "category": "inspiration",
+        "date": "19/11/1909",
+        "title": "Quote about creating the future",
+        "id": "11"
+      },
+      {
+        "quote": "La perfección no es alcanzable, pero si perseguimos la perfección podemos conseguir la excelencia.",
+        "length": "103",
+        "author": {
+          "name": "Vince Lombardi",
+          "nationality": "Estadounidense",
+          "profession": "Entrenador de Fútbol Americano",
+          "field": "Deportes"
+        },
+        "tags": [
+          "perfección",
+          "excelencia",
+          "perseverancia",
+          "inspiración"
+        ],
+        "category": "inspiration",
+        "date": "11/06/1913",
+        "title": "Quote about pursuing excellence",
+        "id": "12"
+      },
+      {
+        "quote": "El único modo de hacer un gran trabajo es amar lo que haces.",
+        "length": "63",
+        "author": {
+          "name": "Steve Jobs",
+          "nationality": "Estadounidense",
+          "profession": "Empresario",
+          "field": "Tecnología"
+        },
+        "tags": [
+          "pasión",
+          "trabajo",
+          "éxito",
+          "motivación"
+        ],
+        "category": "inspiration",
+        "date": "24/02/1955",
+        "title": "Quote about loving your work",
+        "id": "13"
+      },
+      {
+        "quote": "La creatividad es contagiosa. Pásala.",
+        "length": "39",
+        "author": {
+          "name": "Albert Einstein",
+          "nationality": "Alemana",
+          "profession": "Físico",
+          "field": "Ciencia"
+        },
+        "tags": [
+          "creatividad",
+          "inspiración",
+          "compartir",
+          "influencia"
+        ],
+        "category": "inspiration",
+        "date": "14/03/1879",
+        "title": "Quote about spreading creativity",
+        "id": "14"
+      },
+      {
+        "quote": "El fracaso es la oportunidad de comenzar de nuevo, con más inteligencia.",
+        "length": "74",
+        "author": {
+          "name": "Henry Ford",
+          "nationality": "Estadounidense",
+          "profession": "Empresario",
+          "field": "Industria Automotriz"
+        },
+        "tags": [
+          "fracaso",
+          "oportunidad",
+          "aprendizaje",
+          "perseverancia"
+        ],
+        "category": "inspiration",
+        "date": "30/07/1863",
+        "title": "Quote about learning from failure",
+        "id": "15"
+      },
+      {
+        "quote": "La imaginación es el principio de la creación. Imaginas lo que deseas, persigues lo que imaginas y finalmente creas lo que persigues.",
+        "length": "139",
+        "author": {
+          "name": "George Bernard Shaw",
+          "nationality": "Irlandesa",
+          "profession": "Dramaturgo",
+          "field": "Literatura"
+        },
+        "tags": [
+          "imaginación",
+          "creación",
+          "perseverancia",
+          "inspiración"
+        ],
+        "category": "inspiration",
+        "date": "26/07/1856",
+        "title": "Quote about imagination and creation",
+        "id": "16"
+      },
+      {
+        "quote": "La música es el vino que llena la copa del silencio.",
+        "length": "55",
+        "author": {
+          "name": "Robert Fripp",
+          "nationality": "Británica",
+          "profession": "Músico",
+          "field": "Música"
+        },
+        "tags": [
+          "música",
+          "inspiración",
+          "creatividad",
+          "silencio"
+        ],
+        "category": "inspiration",
+        "date": "16/05/1946",
+        "title": "Quote about music as inspiration",
+        "id": "17"
+      },
+      {
+        "quote": "El arte desafía a la tecnología y la tecnología inspira al arte.",
+        "length": "66",
+        "author": {
+          "name": "John Lasseter",
+          "nationality": "Estadounidense",
+          "profession": "Animador y Cineasta",
+          "field": "Animación"
+        },
+        "tags": [
+          "arte",
+          "tecnología",
+          "inspiración",
+          "innovación"
+        ],
+        "category": "inspiration",
+        "date": "12/01/1957",
+        "title": "Quote about art and technology",
+        "id": "18"
+      },
+      {
+        "quote": "La inspiración existe, pero debe encontrarte trabajando.",
+        "length": "59",
+        "author": {
+          "name": "Pablo Picasso",
+          "nationality": "Española",
+          "profession": "Pintor",
+          "field": "Arte"
+        },
+        "tags": [
+          "inspiración",
+          "trabajo",
+          "creatividad",
+          "perseverancia"
+        ],
+        "category": "inspiration",
+        "date": "25/10/1881",
+        "title": "Quote about inspiration and work",
+        "id": "19"
+      },
+      {
+        "quote": "El verdadero signo de la inteligencia no es el conocimiento, sino la imaginación.",
+        "length": "82",
+        "author": {
+          "name": "Albert Einstein",
+          "nationality": "Alemana",
+          "profession": "Físico",
+          "field": "Ciencia"
+        },
+        "tags": [
+          "inteligencia",
+          "imaginación",
+          "creatividad",
+          "inspiración"
+        ],
+        "category": "inspiration",
+        "date": "14/03/1879",
+        "title": "Quote about intelligence and imagination",
+        "id": "20"
+      }
+    ]
+  }
+}

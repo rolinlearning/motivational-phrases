@@ -1,290 +1,411 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"Un líder es mejor cuando las personas apenas saben que existe, no tan bueno cuando las personas le aclaman, peor cuando las personas le desprecian.",
-    "length":"133",
-    "author":"Lao Tzu",
-    "tags":[
-    "liderazgo",
-    "humildad",
-    "sabiduría"
-    ],
-    "category":"leadership",
-    "date":"c. 500 a.C.",
-    "title":"Frase sobre liderazgo",
-    "id":"1"
-    },
-    {
-    "quote":"El verdadero liderazgo nace del servicio sincero a los demás, no del servicio a uno mismo.",
-    "length":"89",
-    "author":"Anónimo",
-    "tags":[
-    "liderazgo",
-    "servicio",
-    "humildad"
-    ],
-    "category":"leadership",
-    "date":"Desconocida",
-    "title":"Frase sobre liderazgo",
-    "id":"2"
-    },
-    {
-    "quote":"Un buen líder lleva a la gente de donde está a donde nunca ha estado.",
-    "length":"67",
-    "author":"Henry Kissinger",
-    "tags":[
-    "liderazgo",
-    "visión",
-    "progreso"
-    ],
-    "category":"leadership",
-    "date":"c. 1970",
-    "title":"Frase sobre liderazgo",
-    "id":"3"
-    },
-    {
-    "quote":"El liderazgo es la capacidad de traducir la visión en realidad.",
-    "length":"62",
-    "author":"Warren Bennis",
-    "tags":[
-    "liderazgo",
-    "visión",
-    "acción"
-    ],
-    "category":"leadership",
-    "date":"1985",
-    "title":"Frase sobre liderazgo",
-    "id":"4"
-    },
-    {
-    "quote":"Un líder es un comerciante de esperanza.",
-    "length":"37",
-    "author":"Napoleón Bonaparte",
-    "tags":[
-    "liderazgo",
-    "esperanza",
-    "inspiración"
-    ],
-    "category":"leadership",
-    "date":"c. 1800",
-    "title":"Frase sobre liderazgo",
-    "id":"5"
-    },
-    {
-    "quote":"El liderazgo no es un título en una tarjeta, es una acción y un ejemplo.",
-    "length":"73",
-    "author":"Anónimo",
-    "tags":[
-    "liderazgo",
-    "acción",
-    "ejemplo"
-    ],
-    "category":"leadership",
-    "date":"Desconocida",
-    "title":"Frase sobre liderazgo",
-    "id":"6"
-    },
-    {
-    "quote":"El arte de liderar consiste en consolidar la opinión pública mientras se marcha con ella.",
-    "length":"88",
-    "author":"Winston Churchill",
-    "tags":[
-    "liderazgo",
-    "opinión pública",
-    "estrategia"
-    ],
-    "category":"leadership",
-    "date":"1940",
-    "title":"Frase sobre liderazgo",
-    "id":"7"
-    },
-    {
-    "quote":"Un líder es un distribuidor de esperanza.",
-    "length":"38",
-    "author":"Napoleón Bonaparte",
-    "tags":[
-    "liderazgo",
-    "esperanza",
-    "inspiración"
-    ],
-    "category":"leadership",
-    "date":"c. 1800",
-    "title":"Frase sobre liderazgo",
-    "id":"8"
-    },
-    {
-    "quote":"El liderazgo es la clave que abre las puertas cerradas entre las palabras y los hechos.",
-    "length":"85",
-    "author":"Rosabeth Moss Kanter",
-    "tags":[
-    "liderazgo",
-    "acción",
-    "cambio"
-    ],
-    "category":"leadership",
-    "date":"1977",
-    "title":"Frase sobre liderazgo",
-    "id":"9"
-    },
-    {
-    "quote":"El liderazgo es capacidad de conducir hombres y mujeres en un camino de palabra y ejemplo, tomando la palabra y el ejemplo de los mejores líderes.",
-    "length":"134",
-    "author":"John Aylmer",
-    "tags":[
-    "liderazgo",
-    "conducción",
-    "ejemplo",
-    "aprendizaje"
-    ],
-    "category":"leadership",
-    "date":"1521",
-    "title":"Frase sobre liderazgo",
-    "id":"10"
-    },
-    {
-    "quote":"El liderazgo es influencia, nada más, nada menos.",
-    "length":"49",
-    "author":"John C. Maxwell",
-    "tags":[
-    "liderazgo",
-    "influencia"
-    ],
-    "category":"leadership",
-    "date":"1993",
-    "title":"Frase sobre liderazgo",
-    "id":"11"
-    },
-    {
-    "quote":"Un gran líder no es aquel que señala el camino, sino aquel que construye el camino y conduce al pueblo por él.",
-    "length":"109",
-    "author":"Anónimo",
-    "tags":[
-    "liderazgo",
-    "guía",
-    "acción"
-    ],
-    "category":"leadership",
-    "date":"Desconocida",
-    "title":"Frase sobre liderazgo",
-    "id":"12"
-    },
-    {
-    "quote":"El verdadero liderazgo sólo puede nacer del abandono de uno mismo, desde el abandono a la causa más grande.",
-    "length":"105",
-    "author":"Jim Kouzes",
-    "tags":[
-    "liderazgo",
-    "sacrificio",
-    "propósito"
-    ],
-    "category":"leadership",
-    "date":"1987",
-    "title":"Frase sobre liderazgo",
-    "id":"13"
-    },
-    {
-    "quote":"Un líder no es aquel que obtiene más votos, sino aquel que observa mejor el horizonte.",
-    "length":"86",
-    "author":"René Huyghe",
-    "tags":[
-    "liderazgo",
-    "visión",
-    "votación"
-    ],
-    "category":"leadership",
-    "date":"1956",
-    "title":"Frase sobre liderazgo",
-    "id":"14"
-    },
-    {
-    "quote":"El liderazgo consiste en obtener a otras personas para que hagan algo, porque ellas quieren hacerlo.",
-    "length":"95",
-    "author":"Dwight D. Eisenhower",
-    "tags":[
-    "liderazgo",
-    "motivación",
-    "acción"
-    ],
-    "category":"leadership",
-    "date":"1959",
-    "title":"Frase sobre liderazgo",
-    "id":"15"
-    },
-    {
-    "quote":"Un líder es un distribuidor de esperanza.",
-    "length":"38",
-    "author":"Napoleón Bonaparte",
-    "tags":[
-    "liderazgo",
-    "esperanza",
-    "inspiración"
-    ],
-    "category":"leadership",
-    "date":"c. 1800",
-    "title":"Frase sobre liderazgo",
-    "id":"16"
-    },
-    {
-    "quote":"La clave del liderazgo exitoso es influir en las actitudes y conductas de las personas.",
-    "length":"85",
-    "author":"Myles Munroe",
-    "tags":[
-    "liderazgo",
-    "influencia",
-    "actitudes",
-    "conductas"
-    ],
-    "category":"leadership",
-    "date":"2004",
-    "title":"Frase sobre liderazgo",
-    "id":"17"
-    },
-    {
-    "quote":"El liderazgo es la clave para lograr el éxito organizacional.",
-    "length":"60",
-    "author":"Peter Drucker",
-    "tags":[
-    "liderazgo",
-    "éxito",
-    "organizacional"
-    ],
-    "category":"leadership",
-    "date":"1985",
-    "title":"Frase sobre liderazgo",
-    "id":"18"
-    },
-    {
-    "quote":"El liderazgo es la capacidad de traducir una visión en realidad.",
-    "length":"63",
-    "author":"Warren Bennis",
-    "tags":[
-    "liderazgo",
-    "visión",
-    "realidad"
-    ],
-    "category":"leadership",
-    "date":"1985",
-    "title":"Frase sobre liderazgo",
-    "id":"19"
-    },
-    {
-    "quote":"El liderazgo verdadero debe ser por la razón, no por la fuerza.",
-    "length":"62",
-    "author":"David Miliband",
-    "tags":[
-    "liderazgo",
-    "razón",
-    "fuerza"
-    ],
-    "category":"leadership",
-    "date":"2010",
-    "title":"Frase sobre liderazgo",
-    "id":"20"
-    }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "El liderazgo es la capacidad de transformar la visión en realidad.",
+        "length": "65",
+        "author": {
+          "name": "Warren Bennis",
+          "nationality": "Estadounidense",
+          "profession": "Académico y Escritor",
+          "field": "Liderazgo Organizacional"
+        },
+        "tags": [
+          "liderazgo",
+          "visión",
+          "transformación",
+          "realidad"
+        ],
+        "category": "leadership",
+        "date": "08/03/1925",
+        "title": "Quote about leadership and vision",
+        "id": "1"
+      },
+      {
+        "quote": "Un líder es aquel que conoce el camino, va por el camino y muestra el camino.",
+        "length": "79",
+        "author": {
+          "name": "John C. Maxwell",
+          "nationality": "Estadounidense",
+          "profession": "Autor y Orador",
+          "field": "Liderazgo"
+        },
+        "tags": [
+          "líder",
+          "conocimiento",
+          "ejemplo",
+          "guía"
+        ],
+        "category": "leadership",
+        "date": "20/02/1947",
+        "title": "Quote about leader's role",
+        "id": "2"
+      },
+      {
+        "quote": "El liderazgo es acción, no posición.",
+        "length": "38",
+        "author": {
+          "name": "Donald H. McGannon",
+          "nationality": "Estadounidense",
+          "profession": "Ejecutivo de Medios",
+          "field": "Comunicación"
+        },
+        "tags": [
+          "liderazgo",
+          "acción",
+          "responsabilidad",
+          "iniciativa"
+        ],
+        "category": "leadership",
+        "date": "09/11/1920",
+        "title": "Quote about leadership as action",
+        "id": "3"
+      },
+      {
+        "quote": "La innovación distingue a un líder de un seguidor.",
+        "length": "53",
+        "author": {
+          "name": "Steve Jobs",
+          "nationality": "Estadounidense",
+          "profession": "Empresario",
+          "field": "Tecnología"
+        },
+        "tags": [
+          "innovación",
+          "liderazgo",
+          "diferenciación",
+          "visión"
+        ],
+        "category": "leadership",
+        "date": "24/02/1955",
+        "title": "Quote about innovation in leadership",
+        "id": "4"
+      },
+      {
+        "quote": "Un buen líder lleva a las personas a donde quieren ir. Un gran líder las lleva a donde deben estar.",
+        "length": "103",
+        "author": {
+          "name": "Rosalynn Carter",
+          "nationality": "Estadounidense",
+          "profession": "Primera Dama y Activista",
+          "field": "Política"
+        },
+        "tags": [
+          "liderazgo",
+          "visión",
+          "dirección",
+          "orientación"
+        ],
+        "category": "leadership",
+        "date": "18/08/1927",
+        "title": "Quote about great leadership",
+        "id": "5"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de elevar la visión de una persona a mayores alturas.",
+        "length": "83",
+        "author": {
+          "name": "Peter Drucker",
+          "nationality": "Austriaco",
+          "profession": "Consultor y Educador",
+          "field": "Administración"
+        },
+        "tags": [
+          "liderazgo",
+          "visión",
+          "inspiración",
+          "crecimiento"
+        ],
+        "category": "leadership",
+        "date": "19/11/1909",
+        "title": "Quote about leadership and vision",
+        "id": "6"
+      },
+      {
+        "quote": "El liderazgo es hacer lo correcto cuando nadie está mirando.",
+        "length": "62",
+        "author": {
+          "name": "George Van Valkenburg",
+          "nationality": "Estadounidense",
+          "profession": "Autor",
+          "field": "Liderazgo"
+        },
+        "tags": [
+          "liderazgo",
+          "integridad",
+          "ética",
+          "responsabilidad"
+        ],
+        "category": "leadership",
+        "date": "15/06/1921",
+        "title": "Quote about leadership and integrity",
+        "id": "7"
+      },
+      {
+        "quote": "El arte del liderazgo es decir no, no decir sí. Es muy fácil decir sí.",
+        "length": "73",
+        "author": {
+          "name": "Tony Blair",
+          "nationality": "Británico",
+          "profession": "Político",
+          "field": "Política"
+        },
+        "tags": [
+          "liderazgo",
+          "decisión",
+          "firmeza",
+          "priorización"
+        ],
+        "category": "leadership",
+        "date": "06/05/1953",
+        "title": "Quote about leadership decision-making",
+        "id": "8"
+      },
+      {
+        "quote": "Un líder es un comerciante de esperanza.",
+        "length": "41",
+        "author": {
+          "name": "Napoleón Bonaparte",
+          "nationality": "Francés",
+          "profession": "Militar y Gobernante",
+          "field": "Política y Milicia"
+        },
+        "tags": [
+          "liderazgo",
+          "esperanza",
+          "inspiración",
+          "motivación"
+        ],
+        "category": "leadership",
+        "date": "15/08/1769",
+        "title": "Quote about leadership and hope",
+        "id": "9"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de traducir la visión en realidad.",
+        "length": "64",
+        "author": {
+          "name": "Warren Bennis",
+          "nationality": "Estadounidense",
+          "profession": "Académico y Escritor",
+          "field": "Liderazgo Organizacional"
+        },
+        "tags": [
+          "liderazgo",
+          "visión",
+          "acción",
+          "realización"
+        ],
+        "category": "leadership",
+        "date": "08/03/1925",
+        "title": "Quote about leadership and vision realization",
+        "id": "10"
+      },
+      {
+        "quote": "El liderazgo consiste en hacer que las personas hagan lo que no quieren hacer para conseguir lo que quieren conseguir.",
+        "length": "119",
+        "author": {
+          "name": "Tom Landry",
+          "nationality": "Estadounidense",
+          "profession": "Entrenador de Fútbol Americano",
+          "field": "Deportes"
+        },
+        "tags": [
+          "liderazgo",
+          "motivación",
+          "logro",
+          "desafío"
+        ],
+        "category": "leadership",
+        "date": "11/09/1924",
+        "title": "Quote about leadership and motivation",
+        "id": "11"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de conseguir que hombres y mujeres hagan lo que no les gusta hacer y que les guste hacerlo.",
+        "length": "125",
+        "author": {
+          "name": "Harry Truman",
+          "nationality": "Estadounidense",
+          "profession": "Político",
+          "field": "Política"
+        },
+        "tags": [
+          "liderazgo",
+          "influencia",
+          "motivación",
+          "cambio"
+        ],
+        "category": "leadership",
+        "date": "08/05/1884",
+        "title": "Quote about leadership influence",
+        "id": "12"
+      },
+      {
+        "quote": "Un líder es mejor cuando la gente apenas sabe que existe, cuando su trabajo está hecho, su objetivo cumplido, ellos dirán: lo hicimos nosotros mismos.",
+        "length": "158",
+        "author": {
+          "name": "Lao Tse",
+          "nationality": "China",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "liderazgo",
+          "humildad",
+          "empoderamiento",
+          "trabajo en equipo"
+        ],
+        "category": "leadership",
+        "date": "01/01/600 a.C.",
+        "title": "Quote about humble leadership",
+        "id": "13"
+      },
+      {
+        "quote": "El liderazgo no se trata de ser el mejor. Se trata de hacer que los demás sean mejores.",
+        "length": "88",
+        "author": {
+          "name": "Sheryl Sandberg",
+          "nationality": "Estadounidense",
+          "profession": "Ejecutiva de Tecnología",
+          "field": "Negocios y Tecnología"
+        },
+        "tags": [
+          "liderazgo",
+          "desarrollo",
+          "empoderamiento",
+          "crecimiento"
+        ],
+        "category": "leadership",
+        "date": "28/08/1969",
+        "title": "Quote about empowering leadership",
+        "id": "14"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de establecer estándares y gestionar una disciplina creativa.",
+        "length": "91",
+        "author": {
+          "name": "Mike Krzyzewski",
+          "nationality": "Estadounidense",
+          "profession": "Entrenador de Baloncesto",
+          "field": "Deportes"
+        },
+        "tags": [
+          "liderazgo",
+          "estándares",
+          "disciplina",
+          "creatividad"
+        ],
+        "category": "leadership",
+        "date": "13/02/1947",
+        "title": "Quote about leadership standards",
+        "id": "15"
+      },
+      {
+        "quote": "El liderazgo es una serie de comportamientos más que una posición.",
+        "length": "66",
+        "author": {
+          "name": "Margaret Wheatley",
+          "nationality": "Estadounidense",
+          "profession": "Escritora y Consultora",
+          "field": "Gestión Organizacional"
+        },
+        "tags": [
+          "liderazgo",
+          "comportamiento",
+          "acción",
+          "influencia"
+        ],
+        "category": "leadership",
+        "date": "16/09/1944",
+        "title": "Quote about leadership behaviors",
+        "id": "16"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de ocultar el pánico a los demás.",
+        "length": "63",
+        "author": {
+          "name": "Lao Tse",
+          "nationality": "China",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "liderazgo",
+          "calma",
+          "confianza",
+          "fortaleza"
+        ],
+        "category": "leadership",
+        "date": "01/01/600 a.C.",
+        "title": "Quote about leadership composure",
+        "id": "17"
+      },
+      {
+        "quote": "El liderazgo es practicar los tres R: Respeto por uno mismo, Respeto por los demás, Responsabilidad por todas tus acciones.",
+        "length": "131",
+        "author": {
+          "name": "Dalai Lama",
+          "nationality": "Tibetana",
+          "profession": "Líder Espiritual",
+          "field": "Religión y Filosofía"
+        },
+        "tags": [
+          "liderazgo",
+          "respeto",
+          "responsabilidad",
+          "ética"
+        ],
+        "category": "leadership",
+        "date": "06/07/1935",
+        "title": "Quote about leadership and respect",
+        "id": "18"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de guiar a otros sin fuerza, pero con pasión y entusiasmo.",
+        "length": "90",
+        "author": {
+          "name": "Lisa Cash Hanson",
+          "nationality": "Estadounidense",
+          "profession": "Emprendedora y Autora",
+          "field": "Negocios"
+        },
+        "tags": [
+          "liderazgo",
+          "guía",
+          "pasión",
+          "entusiasmo"
+        ],
+        "category": "leadership",
+        "date": "15/05/1975",
+        "title": "Quote about passionate leadership",
+        "id": "19"
+      },
+      {
+        "quote": "El liderazgo es la capacidad de elevar el desempeño de una persona a un nivel superior; de construir una personalidad más allá de sus limitaciones normales.",
+        "length": "161",
+        "author": {
+          "name": "Peter Drucker",
+          "nationality": "Austriaco",
+          "profession": "Consultor y Educador",
+          "field": "Administración"
+        },
+        "tags": [
+          "liderazgo",
+          "desarrollo",
+          "potencial",
+          "crecimiento"
+        ],
+        "category": "leadership",
+        "date": "19/11/1909",
+        "title": "Quote about leadership and personal growth",
+        "id": "20"
+      }
     ]
-    }
-    }
+  }
+}

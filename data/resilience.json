@@ -1,0 +1,376 @@
+{
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "La adversidad es como un fuerte viento. Nos quita todo excepto aquello que no puede ser arrancado, para que así podamos vernos tal como realmente somos.",
+				"length": "152",
+				"author": {
+					"name": "Arthur Golden",
+					"nationality": "Estadounidense",
+					"profession": "Escritor",
+					"field": "Literatura"
+				},
+				"tags": [
+					"adversidad",
+					"fortaleza",
+					"autoconocimiento",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "06/12/1956",
+				"title": "Quote on adversity and self-discovery",
+				"id": "1"
+			},
+			{
+				"quote": "La fuerza no proviene de la capacidad física, sino de una voluntad indomable.",
+				"length": "79",
+				"author": {
+					"name": "Mahatma Gandhi",
+					"nationality": "India",
+					"profession": "Abogado y activista",
+					"field": "Política y derechos civiles"
+				},
+				"tags": ["fuerza", "voluntad", "determinación", "resiliencia"],
+				"category": "resilience",
+				"date": "02/10/1869",
+				"title": "Quote on indomitable will",
+				"id": "2"
+			},
+			{
+				"quote": "El bambú que se dobla es más fuerte que el roble que resiste.",
+				"length": "62",
+				"author": {
+					"name": "Proverbio japonés",
+					"nationality": "Japonesa",
+					"profession": "Sabiduría popular",
+					"field": "Cultura y filosofía"
+				},
+				"tags": [
+					"flexibilidad",
+					"adaptación",
+					"fortaleza",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "01/01/1600",
+				"title": "Quote on flexibility and strength",
+				"id": "3"
+			},
+			{
+				"quote": "La vida no se trata de esperar a que pase la tormenta, se trata de aprender a bailar bajo la lluvia.",
+				"length": "100",
+				"author": {
+					"name": "Vivian Greene",
+					"nationality": "Estadounidense",
+					"profession": "Escritora",
+					"field": "Desarrollo personal"
+				},
+				"tags": [
+					"adaptación",
+					"actitud positiva",
+					"superación",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "15/06/1904",
+				"title": "Quote on embracing life's challenges",
+				"id": "4"
+			},
+			{
+				"quote": "El éxito no es final, el fracaso no es fatal: es el coraje para continuar lo que cuenta.",
+				"length": "89",
+				"author": {
+					"name": "Winston Churchill",
+					"nationality": "Británica",
+					"profession": "Político y escritor",
+					"field": "Política y liderazgo"
+				},
+				"tags": [
+					"perseverancia",
+					"coraje",
+					"determinación",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "30/11/1874",
+				"title": "Quote on perseverance",
+				"id": "5"
+			},
+			{
+				"quote": "La resiliencia es conocer que eres el único que tiene el poder sobre tu reacción a las cosas.",
+				"length": "93",
+				"author": {
+					"name": "Robert H. Schuller",
+					"nationality": "Estadounidense",
+					"profession": "Pastor y autor",
+					"field": "Motivación y liderazgo"
+				},
+				"tags": [
+					"poder personal",
+					"reacción",
+					"control",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "16/09/1926",
+				"title": "Quote on personal power",
+				"id": "6"
+			},
+			{
+				"quote": "La capacidad humana para soportar cargas es como el bambú - mucho más flexible de lo que nunca imaginamos al principio.",
+				"length": "124",
+				"author": {
+					"name": "Jodi Picoult",
+					"nationality": "Estadounidense",
+					"profession": "Escritora",
+					"field": "Literatura"
+				},
+				"tags": [
+					"resistencia",
+					"flexibilidad",
+					"fortaleza",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "19/05/1966",
+				"title": "Quote on human endurance",
+				"id": "7"
+			},
+			{
+				"quote": "Las dificultades preparan a personas comunes para destinos extraordinarios.",
+				"length": "75",
+				"author": {
+					"name": "C.S. Lewis",
+					"nationality": "Británica",
+					"profession": "Escritor y académico",
+					"field": "Literatura y teología"
+				},
+				"tags": [
+					"dificultades",
+					"preparación",
+					"superación",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "29/11/1898",
+				"title": "Quote on overcoming difficulties",
+				"id": "8"
+			},
+			{
+				"quote": "No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio.",
+				"length": "109",
+				"author": {
+					"name": "Charles Darwin",
+					"nationality": "Británica",
+					"profession": "Naturalista y biólogo",
+					"field": "Biología evolutiva"
+				},
+				"tags": [
+					"adaptación",
+					"cambio",
+					"supervivencia",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "12/02/1809",
+				"title": "Quote on adaptation",
+				"id": "9"
+			},
+			{
+				"quote": "La felicidad se puede encontrar hasta en los momentos más oscuros, si uno recuerda encender la luz.",
+				"length": "102",
+				"author": {
+					"name": "Albus Dumbledore",
+					"nationality": "Británica",
+					"profession": "Personaje ficticio",
+					"field": "Literatura fantástica"
+				},
+				"tags": ["esperanza", "optimismo", "superación", "resiliencia"],
+				"category": "resilience",
+				"date": "01/01/1881",
+				"title": "Quote on finding light in darkness",
+				"id": "10"
+			},
+			{
+				"quote": "El pesimista se queja del viento; el optimista espera que cambie; el realista ajusta las velas.",
+				"length": "98",
+				"author": {
+					"name": "William Arthur Ward",
+					"nationality": "Estadounidense",
+					"profession": "Escritor",
+					"field": "Motivación y liderazgo"
+				},
+				"tags": ["adaptación", "actitud", "acción", "resiliencia"],
+				"category": "resilience",
+				"date": "17/12/1921",
+				"title": "Quote on adaptability",
+				"id": "11"
+			},
+			{
+				"quote": "La resiliencia es aceptar tu nueva realidad, incluso si es menos buena que la que tenías antes. No puedes pelear contra el cambio, pero puedes aprender a adaptarte.",
+				"length": "167",
+				"author": {
+					"name": "Elizabeth Edwards",
+					"nationality": "Estadounidense",
+					"profession": "Abogada y autora",
+					"field": "Derecho y política"
+				},
+				"tags": ["aceptación", "adaptación", "cambio", "resiliencia"],
+				"category": "resilience",
+				"date": "03/07/1949",
+				"title": "Quote on accepting change",
+				"id": "12"
+			},
+			{
+				"quote": "Caer está permitido. Levantarse es obligatorio.",
+				"length": "49",
+				"author": {
+					"name": "Proverbio ruso",
+					"nationality": "Rusa",
+					"profession": "Sabiduría popular",
+					"field": "Cultura y filosofía"
+				},
+				"tags": [
+					"perseverancia",
+					"superación",
+					"determinación",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "01/01/1700",
+				"title": "Quote on persistence",
+				"id": "13"
+			},
+			{
+				"quote": "La piedra más dura de una fundación no es la primera sino la última colocada.",
+				"length": "78",
+				"author": {
+					"name": "Proverbio árabe",
+					"nationality": "Árabe",
+					"profession": "Sabiduría popular",
+					"field": "Cultura y filosofía"
+				},
+				"tags": ["perseverancia", "esfuerzo", "logro", "resiliencia"],
+				"category": "resilience",
+				"date": "01/01/1500",
+				"title": "Quote on perseverance",
+				"id": "14"
+			},
+			{
+				"quote": "No importa cuán estrecho sea el portal, cuán cargada de castigos la sentencia, soy el amo de mi destino: soy el capitán de mi alma.",
+				"length": "137",
+				"author": {
+					"name": "William Ernest Henley",
+					"nationality": "Británica",
+					"profession": "Poeta y editor",
+					"field": "Literatura"
+				},
+				"tags": [
+					"determinación",
+					"control",
+					"fortaleza",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "23/08/1849",
+				"title": "Quote on self-determination",
+				"id": "15"
+			},
+			{
+				"quote": "La fuerza no viene de la capacidad física. Viene de una voluntad indomable.",
+				"length": "79",
+				"author": {
+					"name": "Mahatma Gandhi",
+					"nationality": "India",
+					"profession": "Abogado y activista",
+					"field": "Política y derechos civiles"
+				},
+				"tags": ["fuerza", "voluntad", "determinación", "resiliencia"],
+				"category": "resilience",
+				"date": "02/10/1869",
+				"title": "Quote on willpower",
+				"id": "16"
+			},
+			{
+				"quote": "El dolor es inevitable, el sufrimiento es opcional.",
+				"length": "49",
+				"author": {
+					"name": "Haruki Murakami",
+					"nationality": "Japonesa",
+					"profession": "Escritor",
+					"field": "Literatura"
+				},
+				"tags": ["dolor", "actitud", "elección", "resiliencia"],
+				"category": "resilience",
+				"date": "12/01/1949",
+				"title": "Quote on choosing attitude",
+				"id": "17"
+			},
+			{
+				"quote": "La vida no es esperar a que pase la tormenta. Es aprender a bailar bajo la lluvia.",
+				"length": "85",
+				"author": {
+					"name": "Vivian Greene",
+					"nationality": "Estadounidense",
+					"profession": "Escritora",
+					"field": "Desarrollo personal"
+				},
+				"tags": [
+					"adaptación",
+					"actitud positiva",
+					"superación",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "15/06/1904",
+				"title": "Quote on positive adaptation",
+				"id": "18"
+			},
+			{
+				"quote": "El roble más poderoso del bosque no es el que está protegido de la tormenta y escondido del sol. Es el que está expuesto a ambos y que, a pesar de ello, sobrevive.",
+				"length": "169",
+				"author": {
+					"name": "Napoleon Hill",
+					"nationality": "Estadounidense",
+					"profession": "Escritor de autoayuda",
+					"field": "Desarrollo personal"
+				},
+				"tags": [
+					"fortaleza",
+					"adversidad",
+					"supervivencia",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "26/10/1883",
+				"title": "Quote on strength through adversity",
+				"id": "19"
+			},
+			{
+				"quote": "Lo que no te mata, te hace más fuerte.",
+				"length": "39",
+				"author": {
+					"name": "Friedrich Nietzsche",
+					"nationality": "Alemana",
+					"profession": "Filósofo",
+					"field": "Filosofía"
+				},
+				"tags": [
+					"fortaleza",
+					"adversidad",
+					"crecimiento",
+					"resiliencia"
+				],
+				"category": "resilience",
+				"date": "15/10/1844",
+				"title": "Quote on strength through hardship",
+				"id": "20"
+			}
+		]
+	}
+}

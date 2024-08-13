@@ -1,294 +1,404 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"La creatividad toma valor cuando se experimenta.",
-    "length":"46",
-    "author":"Rem Koolhaas",
-    "tags":[
-    "creatividad",
-    "experimentación",
-    "valor"
-    ],
-    "category":"creativity",
-    "date":"1944",
-    "title":"Frase sobre creatividad",
-    "id":"1"
-    },
-    {
-    "quote":"La lógica te llevará desde A hasta B. La imaginación te llevará a todas partes.",
-    "length":"76",
-    "author":"Albert Einstein",
-    "tags":[
-    "creatividad",
-    "imaginación",
-    "lógica"
-    ],
-    "category":"creativity",
-    "date":"1879-1955",
-    "title":"Frase sobre creatividad",
-    "id":"2"
-    },
-    {
-    "quote":"La creatividad es la inteligencia divirtiéndose.",
-    "length":"46",
-    "author":"Albert Einstein",
-    "tags":[
-    "creatividad",
-    "inteligencia",
-    "diversión"
-    ],
-    "category":"creativity",
-    "date":"1879-1955",
-    "title":"Frase sobre creatividad",
-    "id":"3"
-    },
-    {
-    "quote":"No hay genialidad donde falta la creatividad.",
-    "length":"44",
-    "author":"Robert Collier",
-    "tags":[
-    "creatividad",
-    "genio"
-    ],
-    "category":"creativity",
-    "date":"1885–1950",
-    "title":"Frase sobre creatividad",
-    "id":"4"
-    },
-    {
-    "quote":"La creatividad es la destreza para mantener frescos los pensamientos.",
-    "length":"65",
-    "author":"Paul Valery",
-    "tags":[
-    "creatividad",
-    "pensamiento",
-    "frescura"
-    ],
-    "category":"creativity",
-    "date":"1871-1945",
-    "title":"Frase sobre creatividad",
-    "id":"5"
-    },
-    {
-    "quote":"La creatividad es la mejor forma de inteligencia rebelde.",
-    "length":"54",
-    "author":"Graham Wallas",
-    "tags":[
-    "creatividad",
-    "inteligencia",
-    "rebeldía"
-    ],
-    "category":"creativity",
-    "date":"1858-1932",
-    "title":"Frase sobre creatividad",
-    "id":"6"
-    },
-    {
-    "quote":"La creatividad es el proceso de tener ideas originales que tienen valor.",
-    "length":"68",
-    "author":"Sir Ken Robinson",
-    "tags":[
-    "creatividad",
-    "ideas originales",
-    "valor"
-    ],
-    "category":"creativity",
-    "date":"1950",
-    "title":"Frase sobre creatividad",
-    "id":"7"
-    },
-    {
-    "quote":"La creatividad no es un talento, es una forma de operar.",
-    "length":"55",
-    "author":"John Cleese",
-    "tags":[
-    "creatividad",
-    "operación",
-    "talento"
-    ],
-    "category":"creativity",
-    "date":"1939",
-    "title":"Frase sobre creatividad",
-    "id":"8"
-    },
-    {
-    "quote":"La creatividad es la inteligencia divirtiéndose.",
-    "length":"46",
-    "author":"Albert Einstein",
-    "tags":[
-    "creatividad",
-    "inteligencia",
-    "diversión"
-    ],
-    "category":"creativity",
-    "date":"1879-1955",
-    "title":"Frase sobre creatividad",
-    "id":"9"
-    },
-    {
-    "quote":"La verdadera creatividad surge de la tensión entre la sobriedad y la locura.",
-    "length":"72",
-    "author":"Anónimo",
-    "tags":[
-    "creatividad",
-    "locura",
-    "sobriedad",
-    "tensión"
-    ],
-    "category":"creativity",
-    "date":"Desconocida",
-    "title":"Frase sobre creatividad",
-    "id":"10"
-    },
-    {
-    "quote":"La creatividad es permitir que uno mismo se sorprenda.",
-    "length":"54",
-    "author":"Ray Bradbury",
-    "tags":[
-    "creatividad",
-    "sorpresa",
-    "espontaneidad"
-    ],
-    "category":"creativity",
-    "date":"1920-2012",
-    "title":"Frase sobre creatividad",
-    "id":"11"
-    },
-    {
-    "quote":"La creatividad es la clave para el éxito en el futuro.",
-    "length":"51",
-    "author":"Matt Haig",
-    "tags":[
-    "creatividad",
-    "éxito",
-    "futuro"
-    ],
-    "category":"creativity",
-    "date":"1975",
-    "title":"Frase sobre creatividad",
-    "id":"12"
-    },
-    {
-    "quote":"La creatividad sin estrategia se llama arte. La creatividad con estrategia se llama publicidad.",
-    "length":"94",
-    "author":"Jef I. Richards",
-    "tags":[
-    "creatividad",
-    "estrategia",
-    "arte",
-    "publicidad"
-    ],
-    "category":"creativity",
-    "date":"Desconocida",
-    "title":"Frase sobre creatividad",
-    "id":"13"
-    },
-    {
-    "quote":"La creatividad es el comienzo de nuestras libertades.",
-    "length":"50",
-    "author":"David Instructog",
-    "tags":[
-    "creatividad",
-    "libertad",
-    "inicio"
-    ],
-    "category":"creativity",
-    "date":"Desconocida",
-    "title":"Frase sobre creatividad",
-    "id":"14"
-    },
-    {
-    "quote":"La creatividad es pensar nuevas cosas. La innovación es hacer nuevas cosas.",
-    "length":"73",
-    "author":"Theodore Levitt",
-    "tags":[
-    "creatividad",
-    "innovación",
-    "pensamiento",
-    "acción"
-    ],
-    "category":"creativity",
-    "date":"1925-2006",
-    "title":"Frase sobre creatividad",
-    "id":"15"
-    },
-    {
-    "quote":"La creatividad es simplemente conectar cosas.",
-    "length":"43",
-    "author":"Steve Jobs",
-    "tags":[
-    "creatividad",
-    "conexión",
-    "simplicidad"
-    ],
-    "category":"creativity",
-    "date":"1955-2011",
-    "title":"Frase sobre creatividad",
-    "id":"16"
-    },
-    {
-    "quote":"La creatividad requiere el valor de dejar de juzgar, valor para dudar de las respuestas certeras.",
-    "length":"95",
-    "author":"Erich Fromm",
-    "tags":[
-    "creatividad",
-    "valor",
-    "juicio",
-    "duda"
-    ],
-    "category":"creativity",
-    "date":"1900-1980",
-    "title":"Frase sobre creatividad",
-    "id":"17"
-    },
-    {
-    "quote":"La creatividad es ver lo que todos ven y pensar lo que nadie más ha pensado.",
-    "length":"76",
-    "author":"Albert Szent-Gyorgyi",
-    "tags":[
-    "creatividad",
-    "perspectiva",
-    "pensamiento único"
-    ],
-    "category":"creativity",
-    "date":"1893-1986",
-    "title":"Frase sobre creatividad",
-    "id":"18"
-    },
-    {
-    "quote":"La creatividad no espera la edad perfecta. Nace de la energía y la audacia.",
-    "length":"74",
-    "author":"Somerset Maugham",
-    "tags":[
-    "creatividad",
-    "energía",
-    "audacia",
-    "edad"
-    ],
-    "category":"creativity",
-    "date":"1874-1965",
-    "title":"Frase sobre creatividad",
-    "id":"19"
-    },
-    {
-    "quote":"La creatividad es la habilidad de ver las relaciones entre hechos, de manera novedosa.",
-    "length":"83",
-    "author":"Ted Levitt",
-    "tags":[
-    "creatividad",
-    "relaciones",
-    "hechos",
-    "novedad"
-    ],
-    "category":"creativity",
-    "date":"1925-2006",
-    "title":"Frase sobre creatividad",
-    "id":"20"
-    }
-    ]
-    }
-    }
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "La creatividad es la chispa que enciende la innovación, transformando ideas en realidad y abriendo nuevos horizontes de posibilidades.",
+				"length": "119",
+				"author": {
+					"name": "Pablo Neruda",
+					"nationality": "Chileno",
+					"profession": "Poeta",
+					"field": "Literatura y Poesía"
+				},
+				"tags": ["creatividad", "innovación", "ideas", "posibilidades"],
+				"category": "creativity",
+				"date": "12/07/1904",
+				"title": "Cita sobre la creatividad",
+				"id": "1"
+			},
+			{
+				"quote": "En la era de la automación, la creatividad se convierte en el activo más valioso, pues es la capacidad humana de imaginar, diseñar y dar vida a lo que aún no existe.",
+				"length": "160",
+				"author": {
+					"name": "Frida Kahlo",
+					"nationality": "Mexicana",
+					"profession": "Pintora",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": ["creatividad", "imaginación", "diseño", "innovación"],
+				"category": "creativity",
+				"date": "06/07/1907",
+				"title": "Cita sobre la creatividad",
+				"id": "2"
+			},
+			{
+				"quote": "La imaginación es el motor que impulsa la creación, transformando el lienzo en blanco en una obra maestra que refleja la visión del artista.",
+				"length": "135",
+				"author": {
+					"name": "Remedios Varo",
+					"nationality": "Española",
+					"profession": "Pintora Surrealista",
+					"field": "Arte Surrealista y Pintura"
+				},
+				"tags": ["imaginación", "creación", "visión", "artista"],
+				"category": "creativity",
+				"date": "16/12/1908",
+				"title": "Cita sobre la creatividad",
+				"id": "3"
+			},
+			{
+				"quote": "La originalidad nace de la valentía de desafiar lo convencional, explorando nuevos senderos que abren puertas a innovaciones y formas de expresión artística.",
+				"length": "151",
+				"author": {
+					"name": "Leonora Carrington",
+					"nationality": "Británico-Mexicana",
+					"profession": "Pintora Surrealista",
+					"field": "Arte Surrealista y Pintura"
+				},
+				"tags": [
+					"originalidad",
+					"innovación",
+					"expresión artística",
+					"exploración"
+				],
+				"category": "creativity",
+				"date": "06/04/1917",
+				"title": "Cita sobre la creatividad",
+				"id": "4"
+			},
+			{
+				"quote": "La creatividad es el acto de darle vida a ideas originales, transformándolas en obras que inspiran, emocionan y abren nuevos horizontes artísticos.",
+				"length": "145",
+				"author": {
+					"name": "Joaquín Torres-García",
+					"nationality": "Uruguayo",
+					"profession": "Pintor y Escultor",
+					"field": "Arte Constructivista y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"originalidad",
+					"inspiración",
+					"horizonte artístico"
+				],
+				"category": "creativity",
+				"date": "28/07/1874",
+				"title": "Cita sobre la creatividad",
+				"id": "5"
+			},
+			{
+				"quote": "El desafío de la innovación radica en la capacidad de un artista para concebir y materializar ideas que transforman nuestra percepción del mundo.",
+				"length": "139",
+				"author": {
+					"name": "Tamayo",
+					"nationality": "Mexicano",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": ["innovación", "creatividad", "ideas", "percepción"],
+				"category": "creativity",
+				"date": "25/08/1899",
+				"title": "Cita sobre la creatividad",
+				"id": "6"
+			},
+			{
+				"quote": "La creatividad es el lenguaje universal que permite a los artistas expresar sus visiones únicas, conectando con la humanidad a través de la emoción y el intelecto.",
+				"length": "156",
+				"author": {
+					"name": "Wifredo Lam",
+					"nationality": "Cubano",
+					"profession": "Pintor",
+					"field": "Arte Surrealista y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"expresión",
+					"visión",
+					"emoción",
+					"intelecto"
+				],
+				"category": "creativity",
+				"date": "08/12/1902",
+				"title": "Cita sobre la creatividad",
+				"id": "7"
+			},
+			{
+				"quote": "La innovación artística es la manifestación de una mente creativa que se atreve a explorar lo desconocido, transformando la realidad en una visión única y cautivadora.",
+				"length": "160",
+				"author": {
+					"name": "Armando Reverón",
+					"nationality": "Venezolano",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": [
+					"innovación",
+					"creatividad",
+					"exploración",
+					"transformación",
+					"visión"
+				],
+				"category": "creativity",
+				"date": "02/09/1889",
+				"title": "Cita sobre la creatividad",
+				"id": "8"
+			},
+			{
+				"quote": "La creatividad es la capacidad de generar ideas originales que desafían lo convencional y abren nuevos caminos para la expresión artística, enriqueciendo nuestra percepción del mundo.",
+				"length": "173",
+				"author": {
+					"name": "Carlos Cruz-Diez",
+					"nationality": "Venezolano",
+					"profession": "Artista Cinético",
+					"field": "Arte Cinético y Escultura"
+				},
+				"tags": [
+					"creatividad",
+					"originalidad",
+					"innovación",
+					"expresión artística",
+					"percepción"
+				],
+				"category": "creativity",
+				"date": "17/08/1923",
+				"title": "Cita sobre la creatividad",
+				"id": "9"
+			},
+			{
+				"quote": "La creatividad artística es el puente que conecta la imaginación con la realidad, dando vida a obras que transforman la manera en que experimentamos el mundo.",
+				"length": "158",
+				"author": {
+					"name": "Wilfredo Lam",
+					"nationality": "Cubano",
+					"profession": "Pintor",
+					"field": "Arte Surrealista y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"imaginación",
+					"materialización",
+					"transformación",
+					"experiencia"
+				],
+				"category": "creativity",
+				"date": "08/12/1902",
+				"title": "Cita sobre la creatividad",
+				"id": "10"
+			},
+			{
+				"quote": "La creación artística es un acto de valentía y libertad, donde el artista plasma su visión única del mundo en formas que inspiran y emocionan a la audiencia.",
+				"length": "153",
+				"author": {
+					"name": "Cándido Portinari",
+					"nationality": "Brasileño",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": [
+					"creación artística",
+					"valentía",
+					"libertad",
+					"visión",
+					"inspiración",
+					"emoción"
+				],
+				"category": "creativity",
+				"date": "29/12/1903",
+				"title": "Cita sobre la creatividad",
+				"id": "11"
+			},
+			{
+				"quote": "La creatividad es la habilidad de ver lo ordinario de manera extraordinaria, transformando lo mundano en una obra de arte que revela nuevas perspectivas sobre la realidad.",
+				"length": "168",
+				"author": {
+					"name": "Rufino Tamayo",
+					"nationality": "Mexicano",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"transformación",
+					"arte",
+					"perspectiva",
+					"realidad"
+				],
+				"category": "creativity",
+				"date": "26/08/1899",
+				"title": "Cita sobre la creatividad",
+				"id": "12"
+			},
+			{
+				"quote": "La creatividad es la chispa que enciende la imaginación, permitiendo a los artistas concebir y materializar ideas que desafían los límites de lo convencional.",
+				"length": "156",
+				"author": {
+					"name": "Jesús Soto",
+					"nationality": "Venezolano",
+					"profession": "Artista Cinético",
+					"field": "Arte Cinético y Escultura"
+				},
+				"tags": [
+					"creatividad",
+					"imaginación",
+					"ideas",
+					"innovación",
+					"materialización"
+				],
+				"category": "creativity",
+				"date": "05/06/1923",
+				"title": "Cita sobre la creatividad",
+				"id": "13"
+			},
+			{
+				"quote": "La creatividad es la llave que abre puertas a la experimentación y la reinvención, liberando al artista para explorar nuevas formas de expresión y comunicación.",
+				"length": "155",
+				"author": {
+					"name": "Joaquín Torres-García",
+					"nationality": "Uruguayo",
+					"profession": "Pintor y Escultor",
+					"field": "Arte Constructivista y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"experimentación",
+					"reinvención",
+					"expresión",
+					"comunicación"
+				],
+				"category": "creativity",
+				"date": "28/07/1874",
+				"title": "Cita sobre la creatividad",
+				"id": "14"
+			},
+			{
+				"quote": "La imaginación creativa es la semilla que germina en la mente del artista, dando vida a obras que desafían los límites de lo posible y nos hacen ver el mundo con nuevos ojos.",
+				"length": "169",
+				"author": {
+					"name": "Raquel Forner",
+					"nationality": "Argentina",
+					"profession": "Pintora",
+					"field": "Arte Surrealista y Pintura"
+				},
+				"tags": [
+					"imaginación",
+					"creatividad",
+					"innovación",
+					"percepción",
+					"posibilidades"
+				],
+				"category": "creativity",
+				"date": "03/05/1902",
+				"title": "Cita sobre la creatividad",
+				"id": "15"
+			},
+			{
+				"quote": "La creatividad es la capacidad de redefinir la realidad, transformando lo ordinario en extraordinario y brindando nuevas perspectivas que enriquecen nuestra comprensión del mundo.",
+				"length": "166",
+				"author": {
+					"name": "Alejandro Obregón",
+					"nationality": "Colombiano",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"redefinición",
+					"transformación",
+					"perspectiva",
+					"comprensión"
+				],
+				"category": "creativity",
+				"date": "24/03/1920",
+				"title": "Cita sobre la creatividad",
+				"id": "16"
+			},
+			{
+				"quote": "La creatividad es la manifestación de una mente ávida por explorar lo desconocido, transformando la realidad en una visión única y cautivadora.",
+				"length": "140",
+				"author": {
+					"name": "Armando Reverón",
+					"nationality": "Venezolano",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"exploración",
+					"transformación",
+					"visión"
+				],
+				"category": "creativity",
+				"date": "02/09/1889",
+				"title": "Cita sobre la creatividad",
+				"id": "17"
+			},
+			{
+				"quote": "La creatividad es la chispa que inspira a los artistas a generar ideas originales, desafiando los límites de lo convencional y abriendo nuevos caminos de expresión.",
+				"length": "158",
+				"author": {
+					"name": "Carlos Cruz-Diez",
+					"nationality": "Venezolano",
+					"profession": "Artista Cinético",
+					"field": "Arte Cinético y Escultura"
+				},
+				"tags": [
+					"creatividad",
+					"originalidad",
+					"innovación",
+					"expresión"
+				],
+				"category": "creativity",
+				"date": "17/08/1923",
+				"title": "Cita sobre la creatividad",
+				"id": "18"
+			},
+			{
+				"quote": "La creatividad es la capacidad de ver lo ordinario de manera extraordinaria, transformando lo mundano en una obra de arte que amplía nuestra perspectiva sobre la realidad.",
+				"length": "168",
+				"author": {
+					"name": "Rufino Tamayo",
+					"nationality": "Mexicano",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"transformación",
+					"arte",
+					"perspectiva",
+					"realidad"
+				],
+				"category": "creativity",
+				"date": "26/08/1899",
+				"title": "Cita sobre la creatividad",
+				"id": "19"
+			},
+			{
+				"quote": "La creatividad artística es el puente que conecta la imaginación con la realidad, dando vida a obras que desafían los límites de lo posible y expanden nuestra comprensión del mundo.",
+				"length": "169",
+				"author": {
+					"name": "Wilfredo Lam",
+					"nationality": "Cubano",
+					"profession": "Pintor",
+					"field": "Arte Surrealista y Pintura"
+				},
+				"tags": [
+					"creatividad",
+					"imaginación",
+					"materialización",
+					"innovación",
+					"comprensión"
+				],
+				"category": "creativity",
+				"date": "08/12/1902",
+				"title": "Cita sobre la creatividad",
+				"id": "20"
+			}
+		]
+	}
+}

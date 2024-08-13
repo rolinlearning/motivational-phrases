@@ -1,300 +1,420 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"Viajar no es solo un placer para los ricos, es una introducción a la vida misma.",
-    "length":"81",
-    "author":"Anónimo",
-    "tags":[
-    "viajes",
-    "vida",
-    "riqueza"
-    ],
-    "category":"travel",
-    "date":"Desconocida",
-    "title":"Cita sobre viajar",
-    "id":"1"
-    },
-    {
-    "quote":"Un viajero sin observación es un pájaro sin alas.",
-    "length":"49",
-    "author":"Moslih Eddin Saadi",
-    "tags":[
-    "viajes",
-    "observación",
-    "perspectiva"
-    ],
-    "category":"travel",
-    "date":"1184-1283",
-    "title":"Cita sobre viajar",
-    "id":"2"
-    },
-    {
-    "quote":"Viajar es a la aventura lo que el aprendizaje es a la sabiduría.",
-    "length":"61",
-    "author":"Amelia Barr",
-    "tags":[
-    "viajes",
-    "aventura",
-    "aprendizaje",
-    "sabiduría"
-    ],
-    "category":"travel",
-    "date":"1831-1919",
-    "title":"Cita sobre viajar",
-    "id":"3"
-    },
-    {
-    "quote":"Estar viajando es vivir la vida siempre por primera vez.",
-    "length":"56",
-    "author":"Gary Arndt",
-    "tags":[
-    "viajes",
-    "vida",
-    "novedades"
-    ],
-    "category":"travel",
-    "date":"Siglo XXI",
-    "title":"Cita sobre viajar",
-    "id":"4"
-    },
-    {
-    "quote":"Los viajes nos dejan memorias inolvidables, momentos para atesorar por el resto de nuestras vidas.",
-    "length":"96",
-    "author":"Anónimo",
-    "tags":[
-    "viajes",
-    "memorias",
-    "momentos",
-    "atesorar"
-    ],
-    "category":"travel",
-    "date":"Desconocida",
-    "title":"Cita sobre viajar",
-    "id":"5"
-    },
-    {
-    "quote":"Un viaje de mil millas comienza con un solo paso.",
-    "length":"48",
-    "author":"Lao Tzu",
-    "tags":[
-    "viajes",
-    "comienzos",
-    "esfuerzo"
-    ],
-    "category":"travel",
-    "date":"c.604-531 a.C.",
-    "title":"Cita sobre viajar",
-    "id":"6"
-    },
-    {
-    "quote":"Viajar deja joven el espíritu, una de las cosas más maravillosas que el dinero no puede comprar.",
-    "length":"94",
-    "author":"Anónimo",
-    "tags":[
-    "viajes",
-    "espíritu joven",
-    "riqueza",
-    "felicidad"
-    ],
-    "category":"travel",
-    "date":"Desconocida",
-    "title":"Cita sobre viajar",
-    "id":"7"
-    },
-    {
-    "quote":"La vida es un viaje para equilibrar el alma con el universo.",
-    "length":"59",
-    "author":"Gary Zukav",
-    "tags":[
-    "viajes",
-    "vida",
-    "alma",
-    "universo"
-    ],
-    "category":"travel",
-    "date":"1942",
-    "title":"Cita sobre viajar",
-    "id":"8"
-    },
-    {
-    "quote":"Estoy listo para viajar para ver escenas paisajísticas maravillosas que semejan sueños permanentes.",
-    "length":"94",
-    "author":"John Muir",
-    "tags":[
-    "viajes",
-    "paisajes",
-    "sueños",
-    "naturaleza"
-    ],
-    "category":"travel",
-    "date":"1838-1914",
-    "title":"Cita sobre viajar",
-    "id":"9"
-    },
-    {
-    "quote":"El mundo es un libro, y aquellos que no viajan leen solo una página.",
-    "length":"65",
-    "author":"San Agustín",
-    "tags":[
-    "viajes",
-    "mundo",
-    "libro",
-    "conocimiento"
-    ],
-    "category":"travel",
-    "date":"354-430",
-    "title":"Cita sobre viajar",
-    "id":"10"
-    },
-    {
-    "quote":"Los viajes forjan el carácter, calmando la mente con extraordinarios placeres externos.",
-    "length":"84",
-    "author":"Anónimo",
-    "tags":[
-    "viajes",
-    "carácter",
-    "mente",
-    "placeres"
-    ],
-    "category":"travel",
-    "date":"Desconocida",
-    "title":"Cita sobre viajar",
-    "id":"11"
-    },
-    {
-    "quote":"No importa cómo viajas, lo importante es ir.",
-    "length":"44",
-    "author":"Anónimo",
-    "tags":[
-    "viajes",
-    "ir",
-    "camino"
-    ],
-    "category":"travel",
-    "date":"Desconocida",
-    "title":"Cita sobre viajar",
-    "id":"12"
-    },
-    {
-    "quote":"La verdadera felicidad proviene de viajar de un lugar a otro persiguiendo todavía otro lugar.",
-    "length":"92",
-    "author":"Robert Kaplan",
-    "tags":[
-    "viajes",
-    "felicidad",
-    "aventura",
-    "búsqueda"
-    ],
-    "category":"travel",
-    "date":"1952",
-    "title":"Cita sobre viajar",
-    "id":"13"
-    },
-    {
-    "quote":"Para viajar con alegría hay que viajar ligero.",
-    "length":"46",
-    "author":"Antoine de Saint-Exupéry",
-    "tags":[
-    "viajes",
-    "alegría",
-    "ligereza"
-    ],
-    "category":"travel",
-    "date":"1900-1944",
-    "title":"Cita sobre viajar",
-    "id":"14"
-    },
-    {
-    "quote":"Los viajes son el sello de la educación realizada con los ojos y el alma de un ser humano sensato.",
-    "length":"96",
-    "author":"Ella Maillart",
-    "tags":[
-    "viajes",
-    "educación",
-    "alma",
-    "sensatez"
-    ],
-    "category":"travel",
-    "date":"1903-1997",
-    "title":"Cita sobre viajar",
-    "id":"15"
-    },
-    {
-    "quote":"No hayáis de comer ni dormir, sino leer y viajar.",
-    "length":"49",
-    "author":"Fray Luis de León",
-    "tags":[
-    "viajes",
-    "lectura",
-    "exploración"
-    ],
-    "category":"travel",
-    "date":"1527-1591",
-    "title":"Cita sobre viajar",
-    "id":"16"
-    },
-    {
-    "quote":"Un viaje de mil millas debe comenzar con un simple paso.",
-    "length":"55",
-    "author":"Lao Tzu",
-    "tags":[
-    "viajes",
-    "comienzo",
-    "pasos"
-    ],
-    "category":"travel",
-    "date":"c.604-531 a.C.",
-    "title":"Cita sobre viajar",
-    "id":"17"
-    },
-    {
-    "quote":"Si pensamos aventura es demasiado peligrosa, viviremos toda nuestra vida como los últimos.",
-    "length":"89",
-    "author":"Wilfred Thesiger",
-    "tags":[
-    "viajes",
-    "aventura",
-    "peligro",
-    "vida"
-    ],
-    "category":"travel",
-    "date":"1910-2003",
-    "title":"Cita sobre viajar",
-    "id":"18"
-    },
-    {
-    "quote":"Como todos los grandes viajeros, he visto más que países. He cruzado las líneas de prejuicios.",
-    "length":"92",
-    "author":"Mary Antin",
-    "tags":[
-    "viajes",
-    "crecimiento",
-    "prejuicios",
-    "mentalidad"
-    ],
-    "category":"travel",
-    "date":"1881-1949",
-    "title":"Cita sobre viajar",
-    "id":"19"
-    },
-    {
-    "quote":"El viaje en sí mismo es hogar.",
-    "length":"30",
-    "author":"Ellison Onizuka",
-    "tags":[
-    "viajes",
-    "hogar",
-    "camino"
-    ],
-    "category":"travel",
-    "date":"1946-1986",
-    "title":"Cita sobre viajar",
-    "id":"20"
-    }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "Los viajes de Marco Polo a través de la Ruta de la Seda abrieron nuevos horizontes y enriquecieron el intercambio cultural entre Oriente y Occidente.",
+        "length": "137",
+        "author": {
+          "name": "Marco Polo",
+          "nationality": "Italiano",
+          "profession": "Explorador y Mercader",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "Ruta de la Seda",
+          "intercambio cultural",
+          "Oriente",
+          "Occidente"
+        ],
+        "category": "travel",
+        "date": "1254",
+        "title": "Cita sobre los viajes",
+        "id": "1"
+      },
+      {
+        "quote": "Las exploraciones de Cristóbal Colón marcaron un antes y un después en la historia de la navegación, abriendo nuevas rutas hacia Américas y cambiando la visión del mundo.",
+        "length": "157",
+        "author": {
+          "name": "Cristóbal Colón",
+          "nationality": "Italiano",
+          "profession": "Navegante y Explorador",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "exploración",
+          "navegación",
+          "Américas",
+          "visión del mundo"
+        ],
+        "category": "travel",
+        "date": "1492",
+        "title": "Cita sobre los viajes",
+        "id": "2"
+      },
+      {
+        "quote": "El viaje de Magallanes y Elcano, la primera circunnavegación del globo, demostró la esfericidad de la Tierra y abrió nuevas rutas comerciales a través de los océanos.",
+        "length": "155",
+        "author": {
+          "name": "Fernando de Magallanes",
+          "nationality": "Portugués",
+          "profession": "Navegante y Explorador",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "circunnavegación",
+          "esfericidad de la Tierra",
+          "rutas comerciales",
+          "océanos"
+        ],
+        "category": "travel",
+        "date": "1519",
+        "title": "Cita sobre los viajes",
+        "id": "3"
+      },
+      {
+        "quote": "Los viajes de Darwin a bordo del Beagle fueron fundamentales para el desarrollo de su teoría de la evolución, transformando nuestra comprensión del mundo natural.",
+        "length": "152",
+        "author": {
+          "name": "Charles Darwin",
+          "nationality": "Británico",
+          "profession": "Naturalista y Científico",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "viajes",
+          "teoría de la evolución",
+          "mundo natural"
+        ],
+        "category": "travel",
+        "date": "1831",
+        "title": "Cita sobre los viajes",
+        "id": "4"
+      },
+      {
+        "quote": "Los viajes de exploración polar de Shackleton y Scott nos han legado un legado de coraje, perseverancia y superación en entornos inhóspitos.",
+        "length": "132",
+        "author": {
+          "name": "Ernest Shackleton",
+          "nationality": "Irlandés",
+          "profession": "Explorador Antártico",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "exploración polar",
+          "coraje",
+          "perseverancia",
+          "entornos inhóspitos"
+        ],
+        "category": "travel",
+        "date": "1914",
+        "title": "Cita sobre los viajes",
+        "id": "5"
+      },
+      {
+        "quote": "Los viajes de exploración de los hermanos Humboldt a través de América Latina y Eurasia ampliaron los horizontes de la ciencia y la geografía moderna.",
+        "length": "141",
+        "author": {
+          "name": "Alexander von Humboldt",
+          "nationality": "Alemán",
+          "profession": "Explorador y Naturalista",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "exploración",
+          "América Latina",
+          "Eurasia",
+          "ciencia",
+          "geografía"
+        ],
+        "category": "travel",
+        "date": "1799",
+        "title": "Cita sobre los viajes",
+        "id": "6"
+      },
+      {
+        "quote": "El Grand Tour, un viaje de aventura y aprendizaje por Europa, se convirtió en una tradición para la élite educada durante los siglos XVII y XVIII.",
+        "length": "143",
+        "author": {
+          "name": "Richard Lassels",
+          "nationality": "Británico",
+          "profession": "Escritor y Viajero",
+          "field": "Viajes y Educación"
+        },
+        "tags": [
+          "Grand Tour",
+          "aventura",
+          "aprendizaje",
+          "Europa",
+          "élite educada"
+        ],
+        "category": "travel",
+        "date": "1670",
+        "title": "Cita sobre los viajes",
+        "id": "7"
+      },
+      {
+        "quote": "Los viajes de Zheng He, el gran almirante chino, establecieron relaciones comerciales y diplomáticas entre China y otros reinos a lo largo del Océano Índico.",
+        "length": "144",
+        "author": {
+          "name": "Zheng He",
+          "nationality": "Chino",
+          "profession": "Marino y Explorador",
+          "field": "Viajes y Relaciones Internacionales"
+        },
+        "tags": [
+          "Zheng He",
+          "relaciones comerciales",
+          "relaciones diplomáticas",
+          "China",
+          "Océano Índico"
+        ],
+        "category": "travel",
+        "date": "1405",
+        "title": "Cita sobre los viajes",
+        "id": "8"
+      },
+      {
+        "quote": "Los viajes de Jules Verne a través de la imaginación han inspirado a generaciones de exploradores y aventureros a ir más allá de lo conocido.",
+        "length": "131",
+        "author": {
+          "name": "Jules Verne",
+          "nationality": "Francés",
+          "profession": "Escritor y Novelista",
+          "field": "Viajes y Literatura"
+        },
+        "tags": [
+          "viajes imaginarios",
+          "exploración",
+          "aventura",
+          "más allá de lo conocido"
+        ],
+        "category": "travel",
+        "date": "1828",
+        "title": "Cita sobre los viajes",
+        "id": "9"
+      },
+      {
+        "quote": "Los viajes de los primeros astronautas a la Luna marcaron un hito en la historia de la exploración espacial, ampliando nuestra comprensión del cosmos y nuestra propia existencia.",
+        "length": "157",
+        "author": {
+          "name": "Neil Armstrong",
+          "nationality": "Estadounidense",
+          "profession": "Astronauta",
+          "field": "Viajes y Exploración Espacial"
+        },
+        "tags": [
+          "viajes espaciales",
+          "Luna",
+          "exploración espacial",
+          "cosmos",
+          "existencia humana"
+        ],
+        "category": "travel",
+        "date": "1969",
+        "title": "Cita sobre los viajes",
+        "id": "10"
+      },
+      {
+        "quote": "Los viajes de exploración de Hernán Cortés a México y de Francisco Pizarro a Perú marcaron el inicio de una nueva era de contacto entre Europa y las Américas.",
+        "length": "157",
+        "author": {
+          "name": "Hernán Cortés",
+          "nationality": "Español",
+          "profession": "Conquistador y Explorador",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "exploración",
+          "México",
+          "Perú",
+          "Europa",
+          "Américas"
+        ],
+        "category": "travel",
+        "date": "1519",
+        "title": "Cita sobre los viajes",
+        "id": "11"
+      },
+      {
+        "quote": "Los viajes de Ibn Battuta, el explorador marroquí, lo llevaron a través de Asia, África y Europa, ampliando el conocimiento del mundo medieval.",
+        "length": "136",
+        "author": {
+          "name": "Ibn Battuta",
+          "nationality": "Marroquí",
+          "profession": "Explorador y Viajero",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "exploración",
+          "Asia",
+          "África",
+          "Europa",
+          "mundo medieval"
+        ],
+        "category": "travel",
+        "date": "1304",
+        "title": "Cita sobre los viajes",
+        "id": "12"
+      },
+      {
+        "quote": "Los viajes de Amelia Earhart, la primera mujer en cruzar el Atlántico en solitario, inspiraron a generaciones de mujeres a explorar y desafiar los límites.",
+        "length": "148",
+        "author": {
+          "name": "Amelia Earhart",
+          "nationality": "Estadounidense",
+          "profession": "Aviadora y Exploradora",
+          "field": "Viajes y Aviación"
+        },
+        "tags": [
+          "Amelia Earhart",
+          "cruce del Atlántico",
+          "mujeres exploradoras",
+          "desafío de límites"
+        ],
+        "category": "travel",
+        "date": "1928",
+        "title": "Cita sobre los viajes",
+        "id": "13"
+      },
+      {
+        "quote": "Los viajes de los primeros viajeros a través del desierto del Sáhara y la Ruta de la Seda fueron hazañas de coraje y perseverancia en entornos extremos.",
+        "length": "141",
+        "author": {
+          "name": "Ibn Jubayr",
+          "nationality": "Andalusí",
+          "profession": "Peregrino y Escritor de Viajes",
+          "field": "Viajes y Exploración"
+        },
+        "tags": [
+          "desierto del Sáhara",
+          "Ruta de la Seda",
+          "coraje",
+          "perseverancia",
+          "entornos extremos"
+        ],
+        "category": "travel",
+        "date": "1145",
+        "title": "Cita sobre los viajes",
+        "id": "14"
+      },
+      {
+        "quote": "Los viajes de Marco Polo inspiraron la expansión de los horizontes geográficos y culturales de Europa, abriendo nuevas rutas comerciales y de intercambio.",
+        "length": "145",
+        "author": {
+          "name": "Marco Polo",
+          "nationality": "Italiano",
+          "profession": "Explorador y Mercader",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "Marco Polo",
+          "expansión de horizontes",
+          "rutas comerciales",
+          "intercambio cultural"
+        ],
+        "category": "travel",
+        "date": "1271",
+        "title": "Cita sobre los viajes",
+        "id": "15"
+      },
+      {
+        "quote": "Los viajes de Freya Stark, la primera mujer en explorar algunas de las regiones más remotas de Oriente Medio, aportaron un nuevo enfoque a la literatura de viajes.",
+        "length": "155",
+        "author": {
+          "name": "Freya Stark",
+          "nationality": "Británica",
+          "profession": "Exploradora y Escritora",
+          "field": "Viajes y Literatura"
+        },
+        "tags": [
+          "Freya Stark",
+          "exploración",
+          "Oriente Medio",
+          "literatura de viajes"
+        ],
+        "category": "travel",
+        "date": "1893",
+        "title": "Cita sobre los viajes",
+        "id": "16"
+      },
+      {
+        "quote": "Los viajes de Alexander von Humboldt a través de América Latina dejaron una huella imborrable en la comprensión del mundo natural y las relaciones humanas.",
+        "length": "147",
+        "author": {
+          "name": "Alexander von Humboldt",
+          "nationality": "Alemán",
+          "profession": "Explorador y Naturalista",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "Alexander von Humboldt",
+          "América Latina",
+          "mundo natural",
+          "relaciones humanas"
+        ],
+        "category": "travel",
+        "date": "1799",
+        "title": "Cita sobre los viajes",
+        "id": "17"
+      },
+      {
+        "quote": "Los viajes de exploración de Ernest Shackleton a la Antártida, a pesar del fracaso de sus expediciones, se convirtieron en un símbolo de liderazgo y superación personal.",
+        "length": "151",
+        "author": {
+          "name": "Ernest Shackleton",
+          "nationality": "Irlandés",
+          "profession": "Explorador Antártico",
+          "field": "Viajes y Exploración Polar"
+        },
+        "tags": [
+          "Ernest Shackleton",
+          "Antártida",
+          "liderazgo",
+          "superación personal"
+        ],
+        "category": "travel",
+        "date": "1914",
+        "title": "Cita sobre los viajes",
+        "id": "18"
+      },
+      {
+        "quote": "Los viajes de Lewis y Clark a través del oeste de Norteamérica expandieron el conocimiento geográfico y cultural de los Estados Unidos, abriendo nuevas fronteras.",
+        "length": "145",
+        "author": {
+          "name": "Meriwether Lewis",
+          "nationality": "Estadounidense",
+          "profession": "Explorador y Militar",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "Lewis y Clark",
+          "América del Norte",
+          "conocimiento geográfico",
+          "conocimiento cultural",
+          "nuevas fronteras"
+        ],
+        "category": "travel",
+        "date": "1804",
+        "title": "Cita sobre los viajes",
+        "id": "19"
+      },
+      {
+        "quote": "Los viajes de Marco Polo a Oriente y de Cristóbal Colón a Occidente marcaron el inicio de una nueva era de intercambio cultural y globalización.",
+        "length": "134",
+        "author": {
+          "name": "Marco Polo",
+          "nationality": "Italiano",
+          "profession": "Explorador y Mercader",
+          "field": "Viajes y Descubrimientos"
+        },
+        "tags": [
+          "Marco Polo",
+          "Cristóbal Colón",
+          "Oriente",
+          "Occidente",
+          "intercambio cultural",
+          "globalización"
+        ],
+        "category": "travel",
+        "date": "1271",
+        "title": "Cita sobre los viajes",
+        "id": "20"
+      }
     ]
-    }
-    }
+  }
+}

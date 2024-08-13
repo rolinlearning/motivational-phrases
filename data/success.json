@@ -1,306 +1,376 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.",
-    "length":"111",
-    "author":"Albert Schweitzer",
-    "tags":[
-    "éxito",
-    "felicidad",
-    "amor",
-    "trabajo"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"1"
-    },
-    {
-    "quote":"El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
-    "length":"62",
-    "author":"Winston Churchill",
-    "tags":[
-    "éxito",
-    "fracaso",
-    "entusiasmo"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"2"
-    },
-    {
-    "quote":"El éxito no es casualidad. Es trabajo duro, perseverancia, aprendizaje, estudio, sacrificio y, sobre todo, amor por lo que estás haciendo o aprendiendo a hacer.",
-    "length":"144",
-    "author":"Pelé",
-    "tags":[
-    "éxito",
-    "trabajo duro",
-    "perseverancia",
-    "aprendizaje",
-    "sacrificio",
-    "amor"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"3"
-    },
-    {
-    "quote":"El secreto del éxito es la constancia del propósito.",
-    "length":"50",
-    "author":"Benjamin Disraeli",
-    "tags":[
-    "éxito",
-    "secreto",
-    "constancia",
-    "propósito"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"4"
-    },
-    {
-    "quote":"El éxito es la suma de pequeños esfuerzos, repetidos día tras día.",
-    "length":"64",
-    "author":"Robert Collier",
-    "tags":[
-    "éxito",
-    "esfuerzos pequeños",
-    "repetición",
-    "constancia"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"5"
-    },
-    {
-    "quote":"No temas al fracaso, pero sí teme no progresar.",
-    "length":"45",
-    "author":"Woody Allen",
-    "tags":[
-    "fracaso",
-    "progreso",
-    "éxito"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"6"
-    },
-    {
-    "quote":"El éxito es la habilidad de ir de fracaso en fracaso sin perder el entusiasmo.",
-    "length":"77",
-    "author":"Winston Churchill",
-    "tags":[
-    "éxito",
-    "habilidad",
-    "fracaso",
-    "entusiasmo"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"7"
-    },
-    {
-    "quote":"El éxito no es accidental. Es trabajo duro, perseverancia, aprendizaje, estudio, sacrificio y, sobre todo, amor por lo que estás haciendo o aprendiendo a hacer.",
-    "length":"145",
-    "author":"Pelé",
-    "tags":[
-    "éxito",
-    "trabajo duro",
-    "perseverancia",
-    "aprendizaje",
-    "estudio",
-    "sacrificio",
-    "amor"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"8"
-    },
-    {
-    "quote":"El secreto de tener éxito en la vida es hacer las cosas que gustan a la gente.",
-    "length":"76",
-    "author":"Anónimo",
-    "tags":[
-    "éxito",
-    "vida",
-    "complacer",
-    "gente"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"9"
-    },
-    {
-    "quote":"El éxito es la capacidad de ir de un fracaso a otro sin perder el entusiasmo.",
-    "length":"77",
-    "author":"Winston Churchill",
-    "tags":[
-    "éxito",
-    "capacidad",
-    "fracaso",
-    "entusiasmo"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"10"
-    },
-    {
-    "quote":"El éxito no es algo que se persigue; acude a aquellos que la merecen.",
-    "length":"67",
-    "author":"Anónimo",
-    "tags":[
-    "éxito",
-    "perseguir",
-    "merecimiento"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"11"
-    },
-    {
-    "quote":"El éxito es la paz mental de estar satisfecho con uno mismo.",
-    "length":"59",
-    "author":"Anónimo",
-    "tags":[
-    "éxito",
-    "paz mental",
-    "satisfacción"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"12"
-    },
-    {
-    "quote":"El éxito solo tiene un camino: el trabajo duro, la dedicación y la determinación.",
-    "length":"78",
-    "author":"Anónimo",
-    "tags":[
-    "éxito",
-    "trabajo duro",
-    "dedicación",
-    "determinación"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"13"
-    },
-    {
-    "quote":"El éxito es hacer de tu vida lo que deseas que sea.",
-    "length":"50",
-    "author":"Anónimo",
-    "tags":[
-    "éxito",
-    "vida",
-    "deseos"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"14"
-    },
-    {
-    "quote":"El verdadero éxito es ser realmente quien eres.",
-    "length":"44",
-    "author":"Bruce Lee",
-    "tags":[
-    "éxito",
-    "verdadero ser",
-    "autenticidad"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"15"
-    },
-    {
-    "quote":"El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
-    "length":"71",
-    "author":"Albert Schweitzer",
-    "tags":[
-    "éxito",
-    "felicidad",
-    "clave"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"16"
-    },
-    {
-    "quote":"El éxito es un maestro pobre; es el fracaso el que más lecciones da.",
-    "length":"66",
-    "author":"Anónimo",
-    "tags":[
-    "éxito",
-    "fracaso",
-    "lecciones"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"17"
-    },
-    {
-    "quote":"El éxito es subir la misma escalera otra vez.",
-    "length":"44",
-    "author":"Stephen Karam",
-    "tags":[
-    "éxito",
-    "escalera",
-    "perseverancia"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"18"
-    },
-    {
-    "quote":"El éxito no es definitivo, el fracaso no es fatídico: lo esencial es el valor para continuar la lucha.",
-    "length":"100",
-    "author":"Winston Churchill",
-    "tags":[
-    "éxito",
-    "fracaso",
-    "valor",
-    "lucha",
-    "perseverancia"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"19"
-    },
-    {
-    "quote":"El éxito es la suma de pequeños esfuerzos, repetidos día tras día.",
-    "length":"64",
-    "author":"Robert Collier",
-    "tags":[
-    "éxito",
-    "pequeños esfuerzos",
-    "repetición",
-    "constancia"
-    ],
-    "category":"success",
-    "date":"2023-08-08",
-    "title":"Frase sobre el éxito del día",
-    "id":"20"
-    }
-    ]
-    }
-    }
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.",
+				"length": "115",
+				"author": {
+					"name": "Albert Schweitzer",
+					"nationality": "Alemán",
+					"profession": "Teólogo y Filósofo",
+					"field": "Filosofía y Teología"
+				},
+				"tags": ["éxito", "felicidad", "pasión", "amor"],
+				"category": "success",
+				"date": "14/01/1875",
+				"title": "Quote about success",
+				"id": "1"
+			},
+			{
+				"quote": "El fracaso es la oportunidad de comenzar de nuevo, pero esta vez de forma más inteligente.",
+				"length": "90",
+				"author": {
+					"name": "Henry Ford",
+					"nationality": "Estadounidense",
+					"profession": "Empresario e Ingeniero",
+					"field": "Industria Automotriz"
+				},
+				"tags": [
+					"fracaso",
+					"oportunidad",
+					"perseverancia",
+					"aprendizaje"
+				],
+				"category": "success",
+				"date": "30/07/1863",
+				"title": "Quote about success",
+				"id": "2"
+			},
+			{
+				"quote": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar.",
+				"length": "94",
+				"author": {
+					"name": "Winston Churchill",
+					"nationality": "Británico",
+					"profession": "Político y Estadista",
+					"field": "Política"
+				},
+				"tags": [
+					"perseverancia",
+					"coraje",
+					"determinación",
+					"resiliencia"
+				],
+				"category": "success",
+				"date": "30/11/1874",
+				"title": "Quote about success",
+				"id": "3"
+			},
+			{
+				"quote": "El secreto del éxito es la constancia en el propósito.",
+				"length": "55",
+				"author": {
+					"name": "Benjamin Disraeli",
+					"nationality": "Británico",
+					"profession": "Político y Escritor",
+					"field": "Política y Literatura"
+				},
+				"tags": [
+					"constancia",
+					"propósito",
+					"persistencia",
+					"dedicación"
+				],
+				"category": "success",
+				"date": "21/12/1804",
+				"title": "Quote about success",
+				"id": "4"
+			},
+			{
+				"quote": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+				"length": "69",
+				"author": {
+					"name": "Robert Collier",
+					"nationality": "Estadounidense",
+					"profession": "Escritor y Orador Motivacional",
+					"field": "Desarrollo Personal"
+				},
+				"tags": [
+					"esfuerzo",
+					"consistencia",
+					"perseverancia",
+					"disciplina"
+				],
+				"category": "success",
+				"date": "19/04/1885",
+				"title": "Quote about success",
+				"id": "5"
+			},
+			{
+				"quote": "El éxito no se mide por lo que logras, sino por los obstáculos que superas.",
+				"length": "76",
+				"author": {
+					"name": "Booker T. Washington",
+					"nationality": "Estadounidense",
+					"profession": "Educador y Líder",
+					"field": "Educación y Derechos Civiles"
+				},
+				"tags": ["superación", "obstáculos", "resiliencia", "logros"],
+				"category": "success",
+				"date": "05/04/1856",
+				"title": "Quote about success",
+				"id": "6"
+			},
+			{
+				"quote": "La clave del éxito es concentrar nuestra mente consciente en las cosas que deseamos, no en las que tememos.",
+				"length": "112",
+				"author": {
+					"name": "Brian Tracy",
+					"nationality": "Canadiense",
+					"profession": "Empresario y Orador Motivacional",
+					"field": "Desarrollo Personal y Negocios"
+				},
+				"tags": ["mentalidad", "enfoque", "deseos", "metas"],
+				"category": "success",
+				"date": "05/01/1944",
+				"title": "Quote about success",
+				"id": "7"
+			},
+			{
+				"quote": "El éxito es aprender a ir de fracaso en fracaso sin perder el entusiasmo.",
+				"length": "76",
+				"author": {
+					"name": "Winston Churchill",
+					"nationality": "Británico",
+					"profession": "Político y Estadista",
+					"field": "Política"
+				},
+				"tags": [
+					"aprendizaje",
+					"entusiasmo",
+					"perseverancia",
+					"actitud"
+				],
+				"category": "success",
+				"date": "30/11/1874",
+				"title": "Quote about success",
+				"id": "8"
+			},
+			{
+				"quote": "El éxito no es para los que creen que lo pueden hacer, sino para los que lo hacen.",
+				"length": "83",
+				"author": {
+					"name": "Mark Twain",
+					"nationality": "Estadounidense",
+					"profession": "Escritor y Humorista",
+					"field": "Literatura"
+				},
+				"tags": ["acción", "determinación", "creencia", "realización"],
+				"category": "success",
+				"date": "30/11/1835",
+				"title": "Quote about success",
+				"id": "9"
+			},
+			{
+				"quote": "El camino hacia el éxito y el camino hacia el fracaso son casi exactamente el mismo.",
+				"length": "85",
+				"author": {
+					"name": "Colin R. Davis",
+					"nationality": "Británico",
+					"profession": "Director de Orquesta",
+					"field": "Música"
+				},
+				"tags": [
+					"perspectiva",
+					"actitud",
+					"perseverancia",
+					"determinación"
+				],
+				"category": "success",
+				"date": "25/09/1927",
+				"title": "Quote about success",
+				"id": "10"
+			},
+			{
+				"quote": "El éxito es la capacidad de ir de un fracaso a otro sin perder el entusiasmo.",
+				"length": "81",
+				"author": {
+					"name": "Winston Churchill",
+					"nationality": "Británico",
+					"profession": "Político y Estadista",
+					"field": "Política"
+				},
+				"tags": [
+					"resiliencia",
+					"entusiasmo",
+					"perseverancia",
+					"actitud"
+				],
+				"category": "success",
+				"date": "30/11/1874",
+				"title": "Quote about success",
+				"id": "11"
+			},
+			{
+				"quote": "El éxito no es accidental, es el resultado de esfuerzo constante y trabajo duro.",
+				"length": "81",
+				"author": {
+					"name": "Vince Lombardi",
+					"nationality": "Estadounidense",
+					"profession": "Entrenador de Fútbol Americano",
+					"field": "Deportes"
+				},
+				"tags": [
+					"esfuerzo",
+					"trabajo duro",
+					"constancia",
+					"dedicación"
+				],
+				"category": "success",
+				"date": "11/06/1913",
+				"title": "Quote about success",
+				"id": "12"
+			},
+			{
+				"quote": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+				"length": "69",
+				"author": {
+					"name": "Robert Collier",
+					"nationality": "Estadounidense",
+					"profession": "Escritor y Orador Motivacional",
+					"field": "Desarrollo Personal"
+				},
+				"tags": [
+					"esfuerzo",
+					"constancia",
+					"persistencia",
+					"disciplina"
+				],
+				"category": "success",
+				"date": "19/04/1885",
+				"title": "Quote about success",
+				"id": "13"
+			},
+			{
+				"quote": "El éxito no consiste en no cometer errores, sino en no cometer el mismo error dos veces.",
+				"length": "91",
+				"author": {
+					"name": "George Bernard Shaw",
+					"nationality": "Irlandés",
+					"profession": "Dramaturgo y Crítico",
+					"field": "Literatura"
+				},
+				"tags": [
+					"aprendizaje",
+					"errores",
+					"crecimiento",
+					"mejora continua"
+				],
+				"category": "success",
+				"date": "26/07/1856",
+				"title": "Quote about success",
+				"id": "14"
+			},
+			{
+				"quote": "El éxito es la realización progresiva de un ideal digno.",
+				"length": "61",
+				"author": {
+					"name": "Earl Nightingale",
+					"nationality": "Estadounidense",
+					"profession": "Orador Motivacional y Escritor",
+					"field": "Desarrollo Personal"
+				},
+				"tags": ["progreso", "ideales", "metas", "realización"],
+				"category": "success",
+				"date": "12/03/1921",
+				"title": "Quote about success",
+				"id": "15"
+			},
+			{
+				"quote": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+				"length": "80",
+				"author": {
+					"name": "Albert Schweitzer",
+					"nationality": "Alemán",
+					"profession": "Teólogo y Filósofo",
+					"field": "Filosofía y Teología"
+				},
+				"tags": ["felicidad", "éxito", "perspectiva", "satisfacción"],
+				"category": "success",
+				"date": "14/01/1875",
+				"title": "Quote about success",
+				"id": "16"
+			},
+			{
+				"quote": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
+				"length": "67",
+				"author": {
+					"name": "Winston Churchill",
+					"nationality": "Británico",
+					"profession": "Político y Estadista",
+					"field": "Política"
+				},
+				"tags": [
+					"perseverancia",
+					"entusiasmo",
+					"resiliencia",
+					"actitud positiva"
+				],
+				"category": "success",
+				"date": "30/11/1874",
+				"title": "Quote about success",
+				"id": "17"
+			},
+			{
+				"quote": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+				"length": "69",
+				"author": {
+					"name": "Robert Collier",
+					"nationality": "Estadounidense",
+					"profession": "Escritor y Orador Motivacional",
+					"field": "Desarrollo Personal"
+				},
+				"tags": [
+					"esfuerzo",
+					"constancia",
+					"persistencia",
+					"disciplina"
+				],
+				"category": "success",
+				"date": "19/04/1885",
+				"title": "Quote about success",
+				"id": "18"
+			},
+			{
+				"quote": "El éxito es la capacidad de pasar de un fracaso a otro sin perder el entusiasmo.",
+				"length": "85",
+				"author": {
+					"name": "Winston Churchill",
+					"nationality": "Británico",
+					"profession": "Político y Estadista",
+					"field": "Política"
+				},
+				"tags": [
+					"resiliencia",
+					"entusiasmo",
+					"perseverancia",
+					"actitud"
+				],
+				"category": "success",
+				"date": "30/11/1874",
+				"title": "Quote about success",
+				"id": "19"
+			},
+			{
+				"quote": "El éxito no se mide por lo que una persona logra, sino por los obstáculos que ha superado.",
+				"length": "90",
+				"author": {
+					"name": "Booker T. Washington",
+					"nationality": "Estadounidense",
+					"profession": "Educador y Líder",
+					"field": "Educación y Derechos Civiles"
+				},
+				"tags": ["superación", "obstáculos", "logros", "perseverancia"],
+				"category": "success",
+				"date": "05/04/1856",
+				"title": "Quote about success",
+				"id": "20"
+			}
+		]
+	}
+}

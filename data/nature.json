@@ -1,289 +1,421 @@
 {
-   "success": {
-      "total": 20
-   },
-   "contents": {
-      "quotes": [
-         {
-            "quote": "La naturaleza no hace nada incompleto ni nada en vano.",
-            "length": "48",
-            "author": "Aristóteles",
-            "tags": [
-               "naturaleza",
-               "completo",
-               "vano"
-            ],
-            "category": "nature",
-            "date": "384-01-01",
-            "title": "Nature Quote of the day",
-            "id": "1"
-         },
-         {
-            "quote": "Adopt the pace of nature: her secret is patience.",
-            "length": "53",
-            "author": "Ralph Waldo Emerson",
-            "tags": [
-               "naturaleza",
-               "paciencia",
-               "ritmo"
-            ],
-            "category": "nature",
-            "date": "1837-05-25",
-            "title": "Nature Quote of the day",
-            "id": "2"
-         },
-         {
-            "quote": "El que planta un árbol, planta una esperanza.",
-            "length": "41",
-            "author": "Lucy Larcom",
-            "tags": [
-               "naturaleza",
-               "árbol",
-               "esperanza"
-            ],
-            "category": "nature",
-            "date": "1869-08-15",
-            "title": "Nature Quote of the day",
-            "id": "3"
-         },
-         {
-            "quote": "En la naturaleza está la preservación del mundo.",
-            "length": "49",
-            "author": "Henry David Thoreau",
-            "tags": [
-               "naturaleza",
-               "preservación",
-               "mundo"
-            ],
-            "category": "nature",
-            "date": "1851-10-12",
-            "title": "Nature Quote of the day",
-            "id": "4"
-         },
-         {
-            "quote": "Mira profundamente en la naturaleza y entonces entenderás todo mejor.",
-            "length": "67",
-            "author": "Albert Einstein",
-            "tags": [
-               "naturaleza",
-               "entendimiento",
-               "profundidad"
-            ],
-            "category": "nature",
-            "date": "1941-09-23",
-            "title": "Nature Quote of the day",
-            "id": "5"
-         },
-         {
-            "quote": "La tierra tiene música para aquellos que escuchan.",
-            "length": "45",
-            "author": "William Shakespeare",
-            "tags": [
-               "naturaleza",
-               "música",
-               "tierra"
-            ],
-            "category": "nature",
-            "date": "1601-06-20",
-            "title": "Nature Quote of the day",
-            "id": "6"
-         },
-         {
-            "quote": "La naturaleza siempre lleva los colores del espíritu.",
-            "length": "54",
-            "author": "Ralph Waldo Emerson",
-            "tags": [
-               "naturaleza",
-               "colores",
-               "espíritu"
-            ],
-            "category": "nature",
-            "date": "1836-11-13",
-            "title": "Nature Quote of the day",
-            "id": "7"
-         },
-         {
-            "quote": "Cada flor es un alma que florece en la naturaleza.",
-            "length": "51",
-            "author": "Gerard De Nerval",
-            "tags": [
-               "naturaleza",
-               "flores",
-               "alma"
-            ],
-            "category": "nature",
-            "date": "1845-07-18",
-            "title": "Nature Quote of the day",
-            "id": "8"
-         },
-         {
-            "quote": "El susurro de la naturaleza habla la verdad.",
-            "length": "44",
-            "author": "Michael Bassey Johnson",
-            "tags": [
-               "naturaleza",
-               "verdad",
-               "susurro"
-            ],
-            "category": "nature",
-            "date": "2010-10-01",
-            "title": "Nature Quote of the day",
-            "id": "9"
-         },
-         {
-            "quote": "En todas las cosas de la naturaleza hay algo de lo maravilloso.",
-            "length": "61",
-            "author": "Aristóteles",
-            "tags": [
-               "naturaleza",
-               "maravilloso",
-               "cosas"
-            ],
-            "category": "nature",
-            "date": "384-01-01",
-            "title": "Nature Quote of the day",
-            "id": "10"
-         },
-         {
-            "quote": "La naturaleza sostiene el alma, eleva el espíritu y genera vida.",
-            "length": "63",
-            "author": "Johann Wolfgang von Goethe",
-            "tags": [
-               "naturaleza",
-               "alma",
-               "espíritu"
-            ],
-            "category": "nature",
-            "date": "1782-08-12",
-            "title": "Nature Quote of the day",
-            "id": "11"
-         },
-         {
-            "quote": "La naturaleza no es un lugar para visitar. Es el hogar.",
-            "length": "51",
-            "author": "Gary Snyder",
-            "tags": [
-               "naturaleza",
-               "hogar",
-               "visitar"
-            ],
-            "category": "nature",
-            "date": "1974-04-05",
-            "title": "Nature Quote of the day",
-            "id": "12"
-         },
-         {
-            "quote": "La naturaleza no se apura, pero todo se logra.",
-            "length": "45",
-            "author": "Lao Tzu",
-            "tags": [
-               "naturaleza",
-               "apuro",
-               "logro"
-            ],
-            "category": "nature",
-            "date": "500-01-01",
-            "title": "Nature Quote of the day",
-            "id": "13"
-         },
-         {
-            "quote": "Hay un libro abierto siempre para todos los ojos: la naturaleza.",
-            "length": "60",
-            "author": "Jean-Jacques Rousseau",
-            "tags": [
-               "naturaleza",
-               "libro",
-               "ojos"
-            ],
-            "category": "nature",
-            "date": "1762-05-15",
-            "title": "Nature Quote of the day",
-            "id": "14"
-         },
-         {
-            "quote": "La naturaleza es el arte de Dios.",
-            "length": "31",
-            "author": "Dante Alighieri",
-            "tags": [
-               "naturaleza",
-               "arte",
-               "Dios"
-            ],
-            "category": "nature",
-            "date": "1308-01-01",
-            "title": "Nature Quote of the day",
-            "id": "15"
-         },
-         {
-            "quote": "La naturaleza nunca traiciona el corazón que la ama.",
-            "length": "50",
-            "author": "William Wordsworth",
-            "tags": [
-               "naturaleza",
-               "traición",
-               "amor"
-            ],
-            "category": "nature",
-            "date": "1802-09-20",
-            "title": "Nature Quote of the day",
-            "id": "16"
-         },
-         {
-            "quote": "Para mí, un césped no podado es una obra de arte.",
-            "length": "46",
-            "author": "Janine Benyus",
-            "tags": [
-               "naturaleza",
-               "arte",
-               "césped"
-            ],
-            "category": "nature",
-            "date": "1997-11-14",
-            "title": "Nature Quote of the day",
-            "id": "17"
-         },
-         {
-            "quote": "El cielo está bajo nuestros pies tanto como sobre nuestras cabezas.",
-            "length": "63",
-            "author": "Henry David Thoreau",
-            "tags": [
-               "naturaleza",
-               "cielo",
-               "pies"
-            ],
-            "category": "nature",
-            "date": "1854-08-09",
-            "title": "Nature Quote of the day",
-            "id": "18"
-         },
-         {
-            "quote": "La naturaleza es la maestra más sabia y perfecta.",
-            "length": "49",
-            "author": "Gottfried Wilhelm Leibniz",
-            "tags": [
-               "naturaleza",
-               "sabiduría",
-               "perfección"
-            ],
-            "category": "nature",
-            "date": "1697-02-05",
-            "title": "Nature Quote of the day",
-            "id": "19"
-         },
-         {
-            "quote": "La naturaleza nunca se apresura. Átomo por átomo, poco a poco logra su trabajo.",
-            "length": "69",
-            "author": "Ralph Waldo Emerson",
-            "tags": [
-               "naturaleza",
-               "trabajo",
-               "paciencia"
-            ],
-            "category": "nature",
-            "date": "1841-12-03",
-            "title": "Nature Quote of the day",
-            "id": "20"
-         }
-      ]
-   }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La belleza de la naturaleza es la expresión más pura de Dios, una sinfonía de colores, texturas y aromas que inspiran al alma.",
+        "length": "126",
+        "author": {
+          "name": "Claude Monet",
+          "nationality": "Francés",
+          "profession": "Pintor",
+          "field": "Impresionismo"
+        },
+        "tags": [
+          "naturaleza",
+          "belleza",
+          "Dios",
+          "inspiración"
+        ],
+        "category": "nature",
+        "date": "14/11/1840",
+        "title": "Cita sobre la naturaleza",
+        "id": "1"
+      },
+      {
+        "quote": "El bosque es un santuario, donde la vida fluye en armonía, brindando refugio y sustento a innumerables especies.",
+        "length": "111",
+        "author": {
+          "name": "Rachel Carson",
+          "nationality": "Estadounidense",
+          "profession": "Bióloga y Escritora",
+          "field": "Ecología"
+        },
+        "tags": [
+          "bosque",
+          "armonía",
+          "vida",
+          "refugio"
+        ],
+        "category": "nature",
+        "date": "27/05/1907",
+        "title": "Cita sobre la naturaleza",
+        "id": "2"
+      },
+      {
+        "quote": "Los océanos, con su ritmo eterno y majestuoso, son el latido del planeta, la fuente de vida y el equilibrio de la Tierra.",
+        "length": "115",
+        "author": {
+          "name": "Jacques-Yves Cousteau",
+          "nationality": "Francés",
+          "profession": "Explorador y Conservacionista",
+          "field": "Oceanografía"
+        },
+        "tags": [
+          "océanos",
+          "ritmo",
+          "vida",
+          "equilibrio"
+        ],
+        "category": "nature",
+        "date": "11/06/1910",
+        "title": "Cita sobre la naturaleza",
+        "id": "3"
+      },
+      {
+        "quote": "Los ríos son las venas de la Tierra, irrigando sus paisajes y sosteniendo la diversidad de ecosistemas a lo largo de su curso.",
+        "length": "119",
+        "author": {
+          "name": "Leonardo da Vinci",
+          "nationality": "Italiano",
+          "profession": "Artista, Inventor y Científico",
+          "field": "Renacimiento"
+        },
+        "tags": [
+          "ríos",
+          "paisajes",
+          "ecosistemas",
+          "biodiversidad"
+        ],
+        "category": "nature",
+        "date": "15/04/1452",
+        "title": "Cita sobre la naturaleza",
+        "id": "4"
+      },
+      {
+        "quote": "Las montañas son los pilares que sostienen el mundo, desafiando los límites de lo posible y proyectando la majestuosidad de la creación.",
+        "length": "123",
+        "author": {
+          "name": "Rabindranath Tagore",
+          "nationality": "Indio",
+          "profession": "Poeta, Novelista y Músico",
+          "field": "Literatura"
+        },
+        "tags": [
+          "montañas",
+          "majestuosidad",
+          "creación",
+          "desafío"
+        ],
+        "category": "nature",
+        "date": "07/05/1861",
+        "title": "Cita sobre la naturaleza",
+        "id": "5"
+      },
+      {
+        "quote": "El aire que respiramos es la esencia de la vida, un regalo de la naturaleza que debemos cuidar y preservar para las generaciones futuras.",
+        "length": "129",
+        "author": {
+          "name": "Jane Goodall",
+          "nationality": "Británica",
+          "profession": "Primatóloga y Activista Ambiental",
+          "field": "Conservación de la Naturaleza"
+        },
+        "tags": [
+          "aire",
+          "vida",
+          "naturaleza",
+          "conservación"
+        ],
+        "category": "nature",
+        "date": "03/04/1934",
+        "title": "Cita sobre la naturaleza",
+        "id": "6"
+      },
+      {
+        "quote": "Las flores son la sonrisa de la Tierra, expresando la generosidad y el encanto de la naturaleza en todos sus matices y formas.",
+        "length": "119",
+        "author": {
+          "name": "Ralph Waldo Emerson",
+          "nationality": "Estadounidense",
+          "profession": "Filósofo y Ensayista",
+          "field": "Trascendentalismo"
+        },
+        "tags": [
+          "flores",
+          "Tierra",
+          "generosidad",
+          "encanto"
+        ],
+        "category": "nature",
+        "date": "25/05/1803",
+        "title": "Cita sobre la naturaleza",
+        "id": "7"
+      },
+      {
+        "quote": "Los árboles son los pulmones de la Tierra, absorbiendo el dióxido de carbono y liberando el oxígeno que nos permite respirar y vivir.",
+        "length": "120",
+        "author": {
+          "name": "Maya Angelou",
+          "nationality": "Estadounidense",
+          "profession": "Poeta y Activista",
+          "field": "Literatura y Derechos Civiles"
+        },
+        "tags": [
+          "árboles",
+          "Tierra",
+          "dióxido de carbono",
+          "oxígeno"
+        ],
+        "category": "nature",
+        "date": "04/04/1928",
+        "title": "Cita sobre la naturaleza",
+        "id": "8"
+      },
+      {
+        "quote": "Los glaciares, con su belleza serena y su silenciosa persistencia, son testigos de la evolución del planeta y nos recuerdan la fragilidad del equilibrio natural.",
+        "length": "148",
+        "author": {
+          "name": "Sylvia Earle",
+          "nationality": "Estadounidense",
+          "profession": "Oceanógrafa y Exploradora",
+          "field": "Conservación Marina"
+        },
+        "tags": [
+          "glaciares",
+          "belleza",
+          "evolución",
+          "equilibrio natural"
+        ],
+        "category": "nature",
+        "date": "30/08/1935",
+        "title": "Cita sobre la naturaleza",
+        "id": "9"
+      },
+      {
+        "quote": "Las aves, con su gracia y su canto, son los mensajeros del cielo, recordándonos la magia y la libertad que anidan en la naturaleza.",
+        "length": "122",
+        "author": {
+          "name": "Pablo Neruda",
+          "nationality": "Chileno",
+          "profession": "Poeta",
+          "field": "Literatura"
+        },
+        "tags": [
+          "aves",
+          "gracia",
+          "canto",
+          "libertad"
+        ],
+        "category": "nature",
+        "date": "12/07/1904",
+        "title": "Cita sobre la naturaleza",
+        "id": "10"
+      },
+      {
+        "quote": "La biodiversidad, con su infinita riqueza de especies, es el cimiento de la vida en la Tierra, sustentando los ecosistemas y manteniendo el equilibrio del planeta.",
+        "length": "145",
+        "author": {
+          "name": "E. O. Wilson",
+          "nationality": "Estadounidense",
+          "profession": "Biólogo y Entomólogo",
+          "field": "Ecología"
+        },
+        "tags": [
+          "biodiversidad",
+          "especies",
+          "vida",
+          "ecosistemas",
+          "equilibrio"
+        ],
+        "category": "nature",
+        "date": "10/06/1929",
+        "title": "Cita sobre la naturaleza",
+        "id": "11"
+      },
+      {
+        "quote": "Las cascadas, con su fuerza impetuosa y su caída de agua cristalina, son la música viva de la naturaleza, un recordatorio de la belleza y el poder del mundo natural.",
+        "length": "150",
+        "author": {
+          "name": "John Muir",
+          "nationality": "Escocés-Estadounidense",
+          "profession": "Naturalista y Explorador",
+          "field": "Conservación de la Naturaleza"
+        },
+        "tags": [
+          "cascadas",
+          "fuerza",
+          "agua",
+          "belleza",
+          "naturaleza"
+        ],
+        "category": "nature",
+        "date": "21/04/1838",
+        "title": "Cita sobre la naturaleza",
+        "id": "12"
+      },
+      {
+        "quote": "Los campos de lavanda, con su aroma delicado y su manto de púrpura, son un lienzo viviente de la naturaleza, un oasis de paz y tranquilidad.",
+        "length": "132",
+        "author": {
+          "name": "Vincent van Gogh",
+          "nationality": "Holandés",
+          "profession": "Pintor",
+          "field": "Post-Impresionismo"
+        },
+        "tags": [
+          "lavanda",
+          "aroma",
+          "color",
+          "paz",
+          "tranquilidad"
+        ],
+        "category": "nature",
+        "date": "30/03/1853",
+        "title": "Cita sobre la naturaleza",
+        "id": "13"
+      },
+      {
+        "quote": "Los osos, con su fuerza imponente y su gracia instintiva, son los guardianes de los bosques, emblemas de la vitalidad y el equilibrio de la naturaleza.",
+        "length": "138",
+        "author": {
+          "name": "Aldo Leopold",
+          "nationality": "Estadounidense",
+          "profession": "Ecólogo y Ambientalista",
+          "field": "Conservación de la Vida Silvestre"
+        },
+        "tags": [
+          "osos",
+          "bosques",
+          "vitalidad",
+          "equilibrio",
+          "naturaleza"
+        ],
+        "category": "nature",
+        "date": "11/01/1887",
+        "title": "Cita sobre la naturaleza",
+        "id": "14"
+      },
+      {
+        "quote": "Las ballenas, con su majestuosa presencia y su canto ancestral, son los músicos del océano, recordándonos la grandeza y la fragilidad de la vida marina.",
+        "length": "141",
+        "author": {
+          "name": "Jacques Cousteau",
+          "nationality": "Francés",
+          "profession": "Explorador y Conservacionista",
+          "field": "Oceanografía"
+        },
+        "tags": [
+          "ballenas",
+          "océano",
+          "música",
+          "vida marina",
+          "grandeza"
+        ],
+        "category": "nature",
+        "date": "11/06/1910",
+        "title": "Cita sobre la naturaleza",
+        "id": "15"
+      },
+      {
+        "quote": "Los desiertos, con su belleza austera y su silencio solemne, son los templos de la naturaleza, donde el espíritu se purifica y se conecta con lo esencial.",
+        "length": "141",
+        "author": {
+          "name": "Antoine de Saint-Exupéry",
+          "nationality": "Francés",
+          "profession": "Escritor y Aviador",
+          "field": "Literatura"
+        },
+        "tags": [
+          "desiertos",
+          "belleza",
+          "silencio",
+          "espíritu",
+          "esencia"
+        ],
+        "category": "nature",
+        "date": "29/06/1900",
+        "title": "Cita sobre la naturaleza",
+        "id": "16"
+      },
+      {
+        "quote": "Los ríos de montaña, con sus aguas turbulentas y sus cursos cambiantes, son los espejos de la vida, reflejando la fuerza y la fluidez de la naturaleza.",
+        "length": "140",
+        "author": {
+          "name": "Gary Snyder",
+          "nationality": "Estadounidense",
+          "profession": "Poeta y Ensayista",
+          "field": "Literatura y Ecologismo"
+        },
+        "tags": [
+          "ríos de montaña",
+          "agua",
+          "fuerza",
+          "fluidez",
+          "naturaleza"
+        ],
+        "category": "nature",
+        "date": "08/05/1930",
+        "title": "Cita sobre la naturaleza",
+        "id": "17"
+      },
+      {
+        "quote": "Los campos de amapolas, con su explosión de colores y su efímera belleza, son un recordatorio de la fragilidad y la resiliencia de la naturaleza.",
+        "length": "136",
+        "author": {
+          "name": "Georgia O'Keeffe",
+          "nationality": "Estadounidense",
+          "profession": "Pintora",
+          "field": "Arte Moderno y Paisajismo"
+        },
+        "tags": [
+          "amapolas",
+          "color",
+          "belleza",
+          "fragilidad",
+          "resiliencia"
+        ],
+        "category": "nature",
+        "date": "15/11/1887",
+        "title": "Cita sobre la naturaleza",
+        "id": "18"
+      },
+      {
+        "quote": "Las nubes, con su constante cambio y su etérea gracia, son la danza de la naturaleza en el cielo, un espectáculo cambiante que nos recuerda la belleza efímera del mundo.",
+        "length": "151",
+        "author": {
+          "name": "John Constable",
+          "nationality": "Británico",
+          "profession": "Pintor",
+          "field": "Romanticismo y Paisajismo"
+        },
+        "tags": [
+          "nubes",
+          "cambio",
+          "gracia",
+          "danza",
+          "belleza efímera"
+        ],
+        "category": "nature",
+        "date": "11/06/1776",
+        "title": "Cita sobre la naturaleza",
+        "id": "19"
+      },
+      {
+        "quote": "Los manglares, con sus raíces intrincadas y su verdor persistente, son los guardianes de las costas, protegiendo el equilibrio delicado entre la tierra y el mar.",
+        "length": "143",
+        "author": {
+          "name": "Wangari Maathai",
+          "nationality": "Keniana",
+          "profession": "Activista Ambiental y Política",
+          "field": "Ecología y Medio Ambiente"
+        },
+        "tags": [
+          "manglares",
+          "raíces",
+          "verdor",
+          "costas",
+          "equilibrio"
+        ],
+        "category": "nature",
+        "date": "01/04/1940",
+        "title": "Cita sobre la naturaleza",
+        "id": "20"
+      }
+    ]
+  }
 }

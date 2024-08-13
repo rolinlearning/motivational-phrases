@@ -1,298 +1,411 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"La familia es el lugar donde el corazón se siente más en casa.",
-    "length":"61",
-    "author":"Anónimo",
-    "tags":[
-    "familia",
-    "hogar",
-    "corazón"
-    ],
-    "category":"family",
-    "date":"Desconocida",
-    "title":"Cita sobre la familia",
-    "id":"1"
-    },
-    {
-    "quote":"Lo que cuenta verdaderamente en la familia debe ser algo sencillo y austero, y sano y bueno.",
-    "length":"92",
-    "author":"Jessamyn West",
-    "tags":[
-    "familia",
-    "sencillez",
-    "bondad",
-    "salud"
-    ],
-    "category":"family",
-    "date":"1902-1984",
-    "title":"Cita sobre la familia",
-    "id":"2"
-    },
-    {
-    "quote":"Una familia feliz es un paraíso anticipado.",
-    "length":"43",
-    "author":"John Bowring",
-    "tags":[
-    "familia",
-    "felicidad",
-    "paraíso"
-    ],
-    "category":"family",
-    "date":"1792-1872",
-    "title":"Cita sobre la familia",
-    "id":"3"
-    },
-    {
-    "quote":"Familia, el ancla que te mantiene firme en las tormentas de la vida.",
-    "length":"65",
-    "author":"Anónimo",
-    "tags":[
-    "familia",
-    "ancla",
-    "firmeza",
-    "tormentas"
-    ],
-    "category":"family",
-    "date":"Desconocida",
-    "title":"Cita sobre la familia",
-    "id":"4"
-    },
-    {
-    "quote":"En la familia la unión hace la fuerza.",
-    "length":"38",
-    "author":"Proverbio francés",
-    "tags":[
-    "familia",
-    "unión",
-    "fuerza"
-    ],
-    "category":"family",
-    "date":"Popular",
-    "title":"Cita sobre la familia",
-    "id":"5"
-    },
-    {
-    "quote":"El vínculo familiar es la unión más poderosa y hermosa del mundo.",
-    "length":"63",
-    "author":"Trumbo",
-    "tags":[
-    "familia",
-    "vínculo",
-    "poderoso",
-    "hermoso"
-    ],
-    "category":"family",
-    "date":"1905-1976",
-    "title":"Cita sobre la familia",
-    "id":"6"
-    },
-    {
-    "quote":"No se es una familia porque se comparte la misma sangre, sino porque se abraza el corazón.",
-    "length":"90",
-    "author":"Anónimo",
-    "tags":[
-    "familia",
-    "sangre",
-    "corazón",
-    "amor"
-    ],
-    "category":"family",
-    "date":"Desconocida",
-    "title":"Cita sobre la familia",
-    "id":"7"
-    },
-    {
-    "quote":"La familia es el primer círculo de afecto y solidaridad del ser humano.",
-    "length":"69",
-    "author":"Miguel de Unamuno",
-    "tags":[
-    "familia",
-    "afecto",
-    "solidaridad",
-    "humanidad"
-    ],
-    "category":"family",
-    "date":"1864-1936",
-    "title":"Cita sobre la familia",
-    "id":"8"
-    },
-    {
-    "quote":"Otros pueden amarte, pero sólo tu familia lo hará pase lo que pase.",
-    "length":"66",
-    "author":"Anónimo",
-    "tags":[
-    "familia",
-    "amor",
-    "incondicional"
-    ],
-    "category":"family",
-    "date":"Desconocida",
-    "title":"Cita sobre la familia",
-    "id":"9"
-    },
-    {
-    "quote":"Una familia es un tesoro valiosísimo, rico con risas y buen humor.",
-    "length":"65",
-    "author":"Anónimo",
-    "tags":[
-    "familia",
-    "tesoro",
-    "risas",
-    "humor"
-    ],
-    "category":"family",
-    "date":"Desconocida",
-    "title":"Cita sobre la familia",
-    "id":"10"
-    },
-    {
-    "quote":"La familia es el santuario de la vida.",
-    "length":"37",
-    "author":"Jeremy Taylor",
-    "tags":[
-    "familia",
-    "santuario",
-    "vida"
-    ],
-    "category":"family",
-    "date":"1613-1667",
-    "title":"Cita sobre la familia",
-    "id":"11"
-    },
-    {
-    "quote":"Llamar 'hogar' al lugar donde se encuentra la familia, es llamarlo 'paraíso'.",
-    "length":"74",
-    "author":"Charles Dickens",
-    "tags":[
-    "familia",
-    "hogar",
-    "paraíso"
-    ],
-    "category":"family",
-    "date":"1812-1870",
-    "title":"Cita sobre la familia",
-    "id":"12"
-    },
-    {
-    "quote":"La familia es la primera escuela para las virtudes humanas fundamentales.",
-    "length":"70",
-    "author":"Juan Pablo II",
-    "tags":[
-    "familia",
-    "escuela",
-    "virtudes",
-    "humanidad"
-    ],
-    "category":"family",
-    "date":"1920-2005",
-    "title":"Cita sobre la familia",
-    "id":"13"
-    },
-    {
-    "quote":"La paz doméstica es la recompensa de la armonía familiar.",
-    "length":"54",
-    "author":"Maria Edgeworth",
-    "tags":[
-    "familia",
-    "paz",
-    "armonía",
-    "recompensa"
-    ],
-    "category":"family",
-    "date":"1767-1849",
-    "title":"Cita sobre la familia",
-    "id":"14"
-    },
-    {
-    "quote":"Mi familia es mi fortaleza y mi gran debilidad.",
-    "length":"47",
-    "author":"Aung San Suu Kyi",
-    "tags":[
-    "familia",
-    "fortaleza",
-    "debilidad"
-    ],
-    "category":"family",
-    "date":"1945",
-    "title":"Cita sobre la familia",
-    "id":"15"
-    },
-    {
-    "quote":"Nada es más importante que la unión de una familia amorosa.",
-    "length":"59",
-    "author":"Francisco de Asís",
-    "tags":[
-    "familia",
-    "unión",
-    "amor"
-    ],
-    "category":"family",
-    "date":"1181-1226",
-    "title":"Cita sobre la familia",
-    "id":"16"
-    },
-    {
-    "quote":"Una familia unida puede sobrevivir a las mayores adversidades.",
-    "length":"62",
-    "author":"Anónimo",
-    "tags":[
-    "familia",
-    "unión",
-    "adversidad",
-    "supervivencia"
-    ],
-    "category":"family",
-    "date":"Desconocida",
-    "title":"Cita sobre la familia",
-    "id":"17"
-    },
-    {
-    "quote":"La familia es el núcleo preciado de la sociedad.",
-    "length":"46",
-    "author":"Billy Graham",
-    "tags":[
-    "familia",
-    "núcleo",
-    "sociedad"
-    ],
-    "category":"family",
-    "date":"1918-2018",
-    "title":"Cita sobre la familia",
-    "id":"18"
-    },
-    {
-    "quote":"La felicidad es tener una familia numerosa y buena.",
-    "length":"50",
-    "author":"Confucio",
-    "tags":[
-    "familia",
-    "felicidad",
-    "bondad"
-    ],
-    "category":"family",
-    "date":"551-479 a.C.",
-    "title":"Cita sobre la familia",
-    "id":"19"
-    },
-    {
-    "quote":"La familia es el corazón de cualquier sociedad sana.",
-    "length":"51",
-    "author":"Karmapa Tenzin Gyatso",
-    "tags":[
-    "familia",
-    "corazón",
-    "sociedad sana"
-    ],
-    "category":"family",
-    "date":"1924-Presente",
-    "title":"Cita sobre la familia",
-    "id":"20"
-    }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La familia es el espejo en el que se refleja la sociedad; si queremos entender una civilización, debemos mirar primero a sus hogares.",
+        "length": "137",
+        "author": {
+          "name": "Confucio",
+          "nationality": "China",
+          "profession": "Filósofo",
+          "field": "Filosofía y Ética"
+        },
+        "tags": [
+          "sociedad",
+          "civilización",
+          "hogar",
+          "reflexión"
+        ],
+        "category": "family",
+        "date": "28/09/551 a.C.",
+        "title": "Quote about family",
+        "id": "1"
+      },
+      {
+        "quote": "El vínculo familiar es el más fuerte de todos, capaz de resistir las tempestades más violentas de la historia y el tiempo.",
+        "length": "121",
+        "author": {
+          "name": "Cicerón",
+          "nationality": "Romana",
+          "profession": "Orador y Filósofo",
+          "field": "Política y Filosofía"
+        },
+        "tags": [
+          "vínculo",
+          "fortaleza",
+          "resistencia",
+          "tiempo"
+        ],
+        "category": "family",
+        "date": "03/01/106 a.C.",
+        "title": "Quote about family",
+        "id": "2"
+      },
+      {
+        "quote": "La familia es la primera escuela de virtudes humanas, el crisol donde se forjan los ciudadanos del mañana.",
+        "length": "108",
+        "author": {
+          "name": "Juan Luis Vives",
+          "nationality": "Española",
+          "profession": "Humanista y Filósofo",
+          "field": "Educación y Filosofía"
+        },
+        "tags": [
+          "virtudes",
+          "educación",
+          "ciudadanía",
+          "futuro"
+        ],
+        "category": "family",
+        "date": "06/03/1492",
+        "title": "Quote about family",
+        "id": "3"
+      },
+      {
+        "quote": "En el seno familiar se cultivan los valores que sostendrán a la sociedad; es allí donde se planta la semilla del cambio.",
+        "length": "126",
+        "author": {
+          "name": "Harriet Beecher Stowe",
+          "nationality": "Estadounidense",
+          "profession": "Escritora y Abolicionista",
+          "field": "Literatura y Activismo Social"
+        },
+        "tags": [
+          "valores",
+          "sociedad",
+          "cambio",
+          "influencia"
+        ],
+        "category": "family",
+        "date": "14/06/1811",
+        "title": "Quote about family",
+        "id": "4"
+      },
+      {
+        "quote": "La historia de cada nación está escrita en los corazones de sus familias, en las tradiciones que pasan de generación en generación.",
+        "length": "135",
+        "author": {
+          "name": "Alexis de Tocqueville",
+          "nationality": "Francesa",
+          "profession": "Historiador y Político",
+          "field": "Ciencias Políticas e Historia"
+        },
+        "tags": [
+          "nación",
+          "tradiciones",
+          "generaciones",
+          "herencia"
+        ],
+        "category": "family",
+        "date": "29/07/1805",
+        "title": "Quote about family",
+        "id": "5"
+      },
+      {
+        "quote": "El hogar es el refugio contra las tormentas de la vida, donde se forjan los lazos más inquebrantables de la existencia humana.",
+        "length": "131",
+        "author": {
+          "name": "Víctor Hugo",
+          "nationality": "Francesa",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "refugio",
+          "lazos",
+          "existencia",
+          "protección"
+        ],
+        "category": "family",
+        "date": "26/02/1802",
+        "title": "Quote about family",
+        "id": "6"
+      },
+      {
+        "quote": "La fuerza de una nación deriva de la integridad del hogar; el fundamento de la civilización son las familias unidas.",
+        "length": "124",
+        "author": {
+          "name": "Confucio",
+          "nationality": "China",
+          "profession": "Filósofo",
+          "field": "Filosofía y Ética"
+        },
+        "tags": [
+          "nación",
+          "integridad",
+          "civilización",
+          "unidad"
+        ],
+        "category": "family",
+        "date": "28/09/551 a.C.",
+        "title": "Quote about family",
+        "id": "7"
+      },
+      {
+        "quote": "En la familia encontramos nuestras raíces y nuestras alas; es el cimiento de nuestra identidad y el impulso de nuestros sueños.",
+        "length": "134",
+        "author": {
+          "name": "Isabel Allende",
+          "nationality": "Chilena",
+          "profession": "Escritora",
+          "field": "Literatura"
+        },
+        "tags": [
+          "identidad",
+          "raíces",
+          "sueños",
+          "impulso"
+        ],
+        "category": "family",
+        "date": "02/08/1942",
+        "title": "Quote about family",
+        "id": "8"
+      },
+      {
+        "quote": "El amor familiar es el combustible que permite a un ser humano común lograr lo imposible.",
+        "length": "91",
+        "author": {
+          "name": "Marion C. Garretty",
+          "nationality": "Estadounidense",
+          "profession": "Escritora",
+          "field": "Literatura"
+        },
+        "tags": [
+          "amor",
+          "logro",
+          "motivación",
+          "superación"
+        ],
+        "category": "family",
+        "date": "15/05/1920",
+        "title": "Quote about family",
+        "id": "9"
+      },
+      {
+        "quote": "La familia es la brújula que nos guía. Es la inspiración para alcanzar grandes alturas, y nuestro consuelo cuando ocasionalmente fallamos.",
+        "length": "145",
+        "author": {
+          "name": "Brad Henry",
+          "nationality": "Estadounidense",
+          "profession": "Político",
+          "field": "Política"
+        },
+        "tags": [
+          "guía",
+          "inspiración",
+          "consuelo",
+          "apoyo"
+        ],
+        "category": "family",
+        "date": "10/06/1963",
+        "title": "Quote about family",
+        "id": "10"
+      },
+      {
+        "quote": "En el tejido de la historia, la familia es el hilo dorado que une pasado, presente y futuro en una continuidad irrompible.",
+        "length": "126",
+        "author": {
+          "name": "Octavio Paz",
+          "nationality": "Mexicana",
+          "profession": "Poeta y Ensayista",
+          "field": "Literatura"
+        },
+        "tags": [
+          "historia",
+          "continuidad",
+          "tiempo",
+          "unión"
+        ],
+        "category": "family",
+        "date": "31/03/1914",
+        "title": "Quote about family",
+        "id": "11"
+      },
+      {
+        "quote": "La crianza de los hijos es el arte de tejer el futuro con hilos de amor, paciencia y sabiduría heredada de generaciones pasadas.",
+        "length": "134",
+        "author": {
+          "name": "Gabriela Mistral",
+          "nationality": "Chilena",
+          "profession": "Poetisa y Diplomática",
+          "field": "Literatura y Educación"
+        },
+        "tags": [
+          "crianza",
+          "futuro",
+          "amor",
+          "sabiduría"
+        ],
+        "category": "family",
+        "date": "07/04/1889",
+        "title": "Quote about family",
+        "id": "12"
+      },
+      {
+        "quote": "El hogar es donde se forman los recuerdos, donde se comparten las risas y donde se secan las lágrimas; es el corazón de la vida misma.",
+        "length": "141",
+        "author": {
+          "name": "Laura Ingalls Wilder",
+          "nationality": "Estadounidense",
+          "profession": "Escritora",
+          "field": "Literatura"
+        },
+        "tags": [
+          "recuerdos",
+          "emociones",
+          "vida",
+          "hogar"
+        ],
+        "category": "family",
+        "date": "07/02/1867",
+        "title": "Quote about family",
+        "id": "13"
+      },
+      {
+        "quote": "La familia es el espejo en el que nos miramos para saber quiénes somos, antes de salir a enfrentar al mundo exterior.",
+        "length": "124",
+        "author": {
+          "name": "Carlos Fuentes",
+          "nationality": "Mexicana",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "identidad",
+          "reflexión",
+          "mundo",
+          "introspección"
+        ],
+        "category": "family",
+        "date": "11/11/1928",
+        "title": "Quote about family",
+        "id": "14"
+      },
+      {
+        "quote": "En la trama de la vida, los lazos familiares son los hilos más fuertes, capaces de resistir las tensiones del tiempo y la distancia.",
+        "length": "134",
+        "author": {
+          "name": "Pablo Neruda",
+          "nationality": "Chilena",
+          "profession": "Poeta",
+          "field": "Literatura"
+        },
+        "tags": [
+          "lazos",
+          "fortaleza",
+          "tiempo",
+          "distancia"
+        ],
+        "category": "family",
+        "date": "12/07/1904",
+        "title": "Quote about family",
+        "id": "15"
+      },
+      {
+        "quote": "La familia es el primer y más importante maestro en la escuela de la humanidad, donde aprendemos a amar, perdonar y perseverar.",
+        "length": "134",
+        "author": {
+          "name": "Friedrich Froebel",
+          "nationality": "Alemana",
+          "profession": "Pedagogo",
+          "field": "Educación"
+        },
+        "tags": [
+          "aprendizaje",
+          "amor",
+          "perdón",
+          "perseverancia"
+        ],
+        "category": "family",
+        "date": "21/04/1782",
+        "title": "Quote about family",
+        "id": "16"
+      },
+      {
+        "quote": "El legado familiar es un tesoro intangible, más valioso que cualquier riqueza material, que se transmite de corazón a corazón.",
+        "length": "128",
+        "author": {
+          "name": "Miguel de Unamuno",
+          "nationality": "Española",
+          "profession": "Filósofo y Escritor",
+          "field": "Filosofía y Literatura"
+        },
+        "tags": [
+          "legado",
+          "valor",
+          "transmisión",
+          "herencia"
+        ],
+        "category": "family",
+        "date": "29/09/1864",
+        "title": "Quote about family",
+        "id": "17"
+      },
+      {
+        "quote": "En el núcleo familiar se gestan las revoluciones más silenciosas y profundas, aquellas que cambian el curso de la historia humana.",
+        "length": "135",
+        "author": {
+          "name": "Simone de Beauvoir",
+          "nationality": "Francesa",
+          "profession": "Filósofa y Escritora",
+          "field": "Filosofía y Literatura"
+        },
+        "tags": [
+          "revolución",
+          "cambio",
+          "historia",
+          "influencia"
+        ],
+        "category": "family",
+        "date": "09/01/1908",
+        "title": "Quote about family",
+        "id": "18"
+      },
+      {
+        "quote": "La familia es el lienzo en blanco donde cada generación pinta su propia historia, agregando nuevos colores a la tradición.",
+        "length": "126",
+        "author": {
+          "name": "Frida Kahlo",
+          "nationality": "Mexicana",
+          "profession": "Pintora",
+          "field": "Arte"
+        },
+        "tags": [
+          "generaciones",
+          "historia",
+          "tradición",
+          "creatividad"
+        ],
+        "category": "family",
+        "date": "06/07/1907",
+        "title": "Quote about family",
+        "id": "19"
+      },
+      {
+        "quote": "El hogar es el santuario donde cultivamos las virtudes que nos permitirán florecer en el vasto jardín del mundo.",
+        "length": "118",
+        "author": {
+          "name": "José Martí",
+          "nationality": "Cubana",
+          "profession": "Poeta y Revolucionario",
+          "field": "Literatura y Política"
+        },
+        "tags": [
+          "virtudes",
+          "crecimiento",
+          "mundo",
+          "desarrollo"
+        ],
+        "category": "family",
+        "date": "28/01/1853",
+        "title": "Quote about family",
+        "id": "20"
+      }
     ]
-    }
-    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La pluma es más poderosa que la espada.",
+        "length": "40",
+        "author": {
+          "name": "Edward Bulwer-Lytton",
+          "nationality": "Británico",
+          "profession": "Escritor y Político",
+          "field": "Literatura y Política"
+        },
+        "tags": [
+          "escritura",
+          "poder",
+          "influencia",
+          "palabras"
+        ],
+        "category": "literature",
+        "date": "25/05/1803",
+        "title": "Quote about the power of writing",
+        "id": "1"
+      },
+      {
+        "quote": "Un libro debe ser el hacha que rompa el mar helado dentro de nosotros.",
+        "length": "74",
+        "author": {
+          "name": "Franz Kafka",
+          "nationality": "Checo",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "libros",
+          "impacto",
+          "transformación",
+          "lectura"
+        ],
+        "category": "literature",
+        "date": "03/07/1883",
+        "title": "Quote about the impact of books",
+        "id": "2"
+      },
+      {
+        "quote": "La literatura es la mejor manera de celebrar el ser humano.",
+        "length": "62",
+        "author": {
+          "name": "Gabriel García Márquez",
+          "nationality": "Colombiano",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "celebración",
+          "humanidad",
+          "arte"
+        ],
+        "category": "literature",
+        "date": "06/03/1927",
+        "title": "Quote about literature's purpose",
+        "id": "3"
+      },
+      {
+        "quote": "No hay libro tan malo que no tenga algo bueno.",
+        "length": "49",
+        "author": {
+          "name": "Miguel de Cervantes",
+          "nationality": "Español",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "libros",
+          "valor",
+          "aprendizaje",
+          "perspectiva"
+        ],
+        "category": "literature",
+        "date": "29/09/1547",
+        "title": "Quote about the value in every book",
+        "id": "4"
+      },
+      {
+        "quote": "La poesía es el eco de la melodía del universo en el corazón de los humanos.",
+        "length": "79",
+        "author": {
+          "name": "Rabindranath Tagore",
+          "nationality": "Indio",
+          "profession": "Poeta y Filósofo",
+          "field": "Literatura y Filosofía"
+        },
+        "tags": [
+          "poesía",
+          "universo",
+          "emoción",
+          "humanidad"
+        ],
+        "category": "literature",
+        "date": "07/05/1861",
+        "title": "Quote about the nature of poetry",
+        "id": "5"
+      },
+      {
+        "quote": "Un clásico es un libro que nunca termina de decir lo que tiene que decir.",
+        "length": "76",
+        "author": {
+          "name": "Italo Calvino",
+          "nationality": "Italiano",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "clásicos",
+          "libros",
+          "interpretación",
+          "eternidad"
+        ],
+        "category": "literature",
+        "date": "15/10/1923",
+        "title": "Quote about classic literature",
+        "id": "6"
+      },
+      {
+        "quote": "La literatura es siempre una expedición a la verdad.",
+        "length": "55",
+        "author": {
+          "name": "Franz Kafka",
+          "nationality": "Checo",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "verdad",
+          "exploración",
+          "conocimiento"
+        ],
+        "category": "literature",
+        "date": "03/07/1883",
+        "title": "Quote about literature's purpose",
+        "id": "7"
+      },
+      {
+        "quote": "Escribir es la manera más profunda de leer la vida.",
+        "length": "55",
+        "author": {
+          "name": "Francisco Umbral",
+          "nationality": "Español",
+          "profession": "Escritor y Periodista",
+          "field": "Literatura y Periodismo"
+        },
+        "tags": [
+          "escritura",
+          "vida",
+          "comprensión",
+          "expresión"
+        ],
+        "category": "literature",
+        "date": "11/05/1932",
+        "title": "Quote about writing and life",
+        "id": "8"
+      },
+      {
+        "quote": "La buena literatura está compuesta por tres fuerzas: voz, carácter y trama.",
+        "length": "80",
+        "author": {
+          "name": "Truman Capote",
+          "nationality": "Estadounidense",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "elementos",
+          "narrativa",
+          "composición"
+        ],
+        "category": "literature",
+        "date": "30/09/1924",
+        "title": "Quote about elements of good literature",
+        "id": "9"
+      },
+      {
+        "quote": "La literatura es la expresión más completa del alma de un pueblo.",
+        "length": "67",
+        "author": {
+          "name": "Mariano Picón Salas",
+          "nationality": "Venezolano",
+          "profession": "Escritor e Historiador",
+          "field": "Literatura e Historia"
+        },
+        "tags": [
+          "literatura",
+          "identidad",
+          "cultura",
+          "expresión"
+        ],
+        "category": "literature",
+        "date": "26/01/1901",
+        "title": "Quote about literature and cultural identity",
+        "id": "10"
+      },
+      {
+        "quote": "El ensayo es la ciencia menos la prueba explícita.",
+        "length": "52",
+        "author": {
+          "name": "José Ortega y Gasset",
+          "nationality": "Español",
+          "profession": "Filósofo y Ensayista",
+          "field": "Filosofía y Literatura"
+        },
+        "tags": [
+          "ensayo",
+          "ciencia",
+          "pensamiento",
+          "exploración"
+        ],
+        "category": "literature",
+        "date": "09/05/1883",
+        "title": "Quote about the nature of essays",
+        "id": "11"
+      },
+      {
+        "quote": "La poesía es el sentimiento que le sobra al corazón y te sale por la mano.",
+        "length": "78",
+        "author": {
+          "name": "Carmen Conde",
+          "nationality": "Española",
+          "profession": "Poeta y Narradora",
+          "field": "Literatura"
+        },
+        "tags": [
+          "poesía",
+          "sentimiento",
+          "expresión",
+          "emoción"
+        ],
+        "category": "literature",
+        "date": "15/08/1907",
+        "title": "Quote about the essence of poetry",
+        "id": "12"
+      },
+      {
+        "quote": "La novela es un espejo que se pasea por un camino real.",
+        "length": "62",
+        "author": {
+          "name": "Stendhal",
+          "nationality": "Francés",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "novela",
+          "realidad",
+          "reflexión",
+          "sociedad"
+        ],
+        "category": "literature",
+        "date": "23/01/1783",
+        "title": "Quote about the novel as a mirror of reality",
+        "id": "13"
+      },
+      {
+        "quote": "La literatura es una defensa contra las ofensas de la vida.",
+        "length": "62",
+        "author": {
+          "name": "Cesare Pavese",
+          "nationality": "Italiano",
+          "profession": "Escritor y Poeta",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "vida",
+          "defensa",
+          "consuelo"
+        ],
+        "category": "literature",
+        "date": "09/09/1908",
+        "title": "Quote about literature as life's defense",
+        "id": "14"
+      },
+      {
+        "quote": "Un buen escritor expresa grandes cosas con pequeñas palabras; a la inversa del mal escritor, que dice cosas insignificantes con palabras grandiosas.",
+        "length": "157",
+        "author": {
+          "name": "Ernesto Sabato",
+          "nationality": "Argentino",
+          "profession": "Escritor y Físico",
+          "field": "Literatura y Ciencia"
+        },
+        "tags": [
+          "escritura",
+          "expresión",
+          "estilo",
+          "palabras"
+        ],
+        "category": "literature",
+        "date": "24/06/1911",
+        "title": "Quote about the art of writing",
+        "id": "15"
+      },
+      {
+        "quote": "La literatura no es otra cosa que un sueño dirigido.",
+        "length": "56",
+        "author": {
+          "name": "Jorge Luis Borges",
+          "nationality": "Argentino",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "sueño",
+          "imaginación",
+          "creación"
+        ],
+        "category": "literature",
+        "date": "24/08/1899",
+        "title": "Quote about literature as directed dreaming",
+        "id": "16"
+      },
+      {
+        "quote": "La literatura es la inmortalidad de la palabra.",
+        "length": "48",
+        "author": {
+          "name": "Octavio Paz",
+          "nationality": "Mexicano",
+          "profession": "Poeta y Ensayista",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "palabra",
+          "inmortalidad",
+          "legado"
+        ],
+        "category": "literature",
+        "date": "31/03/1914",
+        "title": "Quote about literature's immortality",
+        "id": "17"
+      },
+      {
+        "quote": "El cuento es una herida en el aire.",
+        "length": "37",
+        "author": {
+          "name": "Julio Cortázar",
+          "nationality": "Argentino",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "cuento",
+          "impacto",
+          "brevedad",
+          "emoción"
+        ],
+        "category": "literature",
+        "date": "26/08/1914",
+        "title": "Quote about the nature of short stories",
+        "id": "18"
+      },
+      {
+        "quote": "La crítica literaria es ese arte de juzgar los libros sin haberlos leído.",
+        "length": "77",
+        "author": {
+          "name": "Jacinto Benavente",
+          "nationality": "Español",
+          "profession": "Dramaturgo",
+          "field": "Literatura"
+        },
+        "tags": [
+          "crítica",
+          "literatura",
+          "juicio",
+          "prejuicio"
+        ],
+        "category": "literature",
+        "date": "12/08/1866",
+        "title": "Quote about literary criticism",
+        "id": "19"
+      },
+      {
+        "quote": "La verdadera literatura comienza cuando el escritor se sorprende de lo que escribe.",
+        "length": "84",
+        "author": {
+          "name": "Juan Rulfo",
+          "nationality": "Mexicano",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "literatura",
+          "escritura",
+          "sorpresa",
+          "creatividad"
+        ],
+        "category": "literature",
+        "date": "16/05/1917",
+        "title": "Quote about the essence of true literature",
+        "id": "20"
+      }
+    ]
+  }
+}

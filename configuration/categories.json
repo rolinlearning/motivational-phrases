@@ -1,33 +1,124 @@
 {
-    "success": {
-      "total": 21
+  "success": {
+    "total": 23,
+    "status_code": 200,
+    "message": "Categories loaded successfully"
+  },
+  "contents": {
+    "art": {
+      "description": "Expressions of creativity and visual arts.",
+      "tags": ["creative", "visual", "cultural"],
+      "image": "art-category.png"
     },
-    "contents": {
-      "categories": {
-        "inspire": "Inspiring Quote of the day",
-        "management": "Management Quote of the day",
-        "life": "Quote of the day about life",
-        "art": "Art quote of the day",
-        "sports": "Sports Quote of the day",
-        "students": "Quote of the day for students",
-        "love": "Quote of the day about Love",
-        "funny": "Funny Quote of the day",
-        "wisdom": "Wisdom Quote of the day",
-        "success": "Success Quote of the day",
-        "health": "Health Quote of the day",
-        "leadership": "Leadership Quote of the day",
-        "motivation": "Motivation Quote of the day",
-        "creativity": "Creativity Quote of the day",
-        "travel": "Travel Quote of the day",
-        "friendship": "Friendship Quote of the day",
-        "family": "Family Quote of the day",
-        "learning": "Learning Quote of the day",
-        "courage": "Courage Quote of the day",
-        "technology": "Technology Quote of the day",
-        "nature": "Nature Quote of the day",
-        "financial": "Financial Quote of the day",
-        "spirituality": "Spirituality Quote of the day"
-      }
+    "creativity": {
+      "description": "The ability to generate original ideas and solutions.",
+      "tags": ["innovation", "imagination", "problem-solving"],
+      "image": "creativity-category.png"
+    },
+    "family": {
+      "description": "Relationships and activities involving family members.",
+      "tags": ["relationships", "home", "support"],
+      "image": "family-category.png"
+    },
+    "friendship": {
+      "description": "Bonding and interactions with friends.",
+      "tags": ["social", "companionship", "trust"],
+      "image": "friendship-category.png"
+    },
+    "funny": {
+      "description": "Content designed to amuse and entertain.",
+      "tags": ["humor", "comedy", "entertainment"],
+      "image": "funny-category.png"
+    },
+    "health": {
+      "description": "Topics related to physical and mental well-being.",
+      "tags": ["wellness", "fitness", "nutrition"],
+      "image": "health-category.png"
+    },
+    "inspiration": {
+      "description": "Sources of motivation and encouragement.",
+      "tags": ["motivation", "encouragement", "uplifting"],
+      "image": "inspiration-category.png"
+    },
+    "leadership": {
+      "description": "Skills and practices related to leading and managing.",
+      "tags": ["management", "guidance", "strategy"],
+      "image": "leadership-category.png"
+    },
+    "learning": {
+      "description": "The process of acquiring knowledge and skills.",
+      "tags": ["education", "growth", "development"],
+      "image": "learning-category.png"
+    },
+    "life": {
+      "description": "Various aspects and experiences of human existence.",
+      "tags": ["experience", "existence", "journey"],
+      "image": "life-category.png"
+    },
+    "literature": {
+      "description": "Written works, especially those considered of superior or lasting artistic merit.",
+      "tags": ["books", "reading", "writing"],
+      "image": "literature-category.png"
+    },
+    "love": {
+      "description": "Deep affection and emotional connection between people.",
+      "tags": ["romance", "emotion", "relationship"],
+      "image": "love-category.png"
+    },
+    "management": {
+      "description": "Organizing and coordinating resources and people.",
+      "tags": ["organization", "planning", "leadership"],
+      "image": "management-category.png"
+    },
+    "motivation": {
+      "description": "The drive to achieve goals and overcome challenges.",
+      "tags": ["drive", "inspiration", "goal-setting"],
+      "image": "motivation-category.png"
+    },
+    "nature": {
+      "description": "The physical world and its phenomena, including plants, animals, and landscapes.",
+      "tags": ["environment", "outdoors", "wildlife"],
+      "image": "nature-category.png"
+    },
+    "philosophy": {
+      "description": "The study of fundamental questions about existence, knowledge, and ethics.",
+      "tags": ["thinking", "ethics", "existence"],
+      "image": "philosophy-category.png"
+    },
+    "resilience": {
+      "description": "The capacity to recover quickly from difficulties.",
+      "tags": ["strength", "adaptability", "recovery"],
+      "image": "resilience-category.png"
+    },
+    "spirituality": {
+      "description": "The quality of being concerned with the soul or spirit.",
+      "tags": ["faith", "belief", "inner peace"],
+      "image": "spirituality-category.png"
+    },
+    "sport": {
+      "description": "Physical activities and games that involve competition.",
+      "tags": ["athletics", "competition", "fitness"],
+      "image": "sport-category.png"
+    },
+    "success": {
+      "description": "The achievement of desired goals and outcomes.",
+      "tags": ["achievement", "goal-setting", "accomplishment"],
+      "image": "success-category.png"
+    },
+    "technology": {
+      "description": "The application of scientific knowledge for practical purposes.",
+      "tags": ["innovation", "engineering", "computing"],
+      "image": "technology-category.png"
+    },
+    "travel": {
+      "description": "The act of moving from one place to another, often for leisure.",
+      "tags": ["exploration", "adventure", "vacation"],
+      "image": "travel-category.png"
+    },
+    "wisdom": {
+      "description": "The quality of having experience, knowledge, and good judgment.",
+      "tags": ["insight", "knowledge", "understanding"],
+      "image": "wisdom-category.png"
     }
   }
-  
+}

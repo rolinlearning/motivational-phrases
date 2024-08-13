@@ -1,293 +1,411 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"La salud es la mayor posesión. La alegría es el mayor tesoro.",
-    "length":"62",
-    "author":"Anónimo",
-    "tags":[
-    "salud",
-    "alegría",
-    "posesión",
-    "tesoro"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"1"
-    },
-    {
-    "quote":"Una mente sana reside en un cuerpo sano.",
-    "length":"40",
-    "author":"Juvenal",
-    "tags":[
-    "mente sana",
-    "cuerpo sano",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"2"
-    },
-    {
-    "quote":"La salud es la riqueza más valiosa.",
-    "length":"35",
-    "author":"Ralph Waldo Emerson",
-    "tags":[
-    "salud",
-    "riqueza",
-    "valioso"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"3"
-    },
-    {
-    "quote":"La buena salud y la buena conciencia son dos grandes bendiciones.",
-    "length":"62",
-    "author":"Anónimo",
-    "tags":[
-    "salud",
-    "conciencia",
-    "bendiciones"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"4"
-    },
-    {
-    "quote":"La risa es la mejor medicina.",
-    "length":"29",
-    "author":"Proverbio antiguo",
-    "tags":[
-    "risa",
-    "medicina",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"5"
-    },
-    {
-    "quote":"El primer requisito de la felicidad es la salud.",
-    "length":"48",
-    "author":"Ralph Waldo Emerson",
-    "tags":[
-    "felicidad",
-    "salud",
-    "requisito"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"6"
-    },
-    {
-    "quote":"La salud es la verdadera riqueza y no la de las piezas de oro y plata.",
-    "length":"68",
-    "author":"Mahatma Gandhi",
-    "tags":[
-    "salud",
-    "riqueza",
-    "oro",
-    "plata"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"7"
-    },
-    {
-    "quote":"Una vida con buena salud es una vida feliz.",
-    "length":"44",
-    "author":"Anónimo",
-    "tags":[
-    "vida",
-    "salud",
-    "felicidad"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"8"
-    },
-    {
-    "quote":"La salud es la mayor riqueza que tenemos, por eso hay que cuidarla.",
-    "length":"66",
-    "author":"Anónimo",
-    "tags":[
-    "salud",
-    "riqueza",
-    "cuidado"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"9"
-    },
-    {
-    "quote":"Prevenir es mejor que curar.",
-    "length":"28",
-    "author":"Proverbio popular",
-    "tags":[
-    "prevención",
-    "curación",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"10"
-    },
-    {
-    "quote":"Un alma sana en un cuerpo sano.",
-    "length":"32",
-    "author":"Juvenal",
-    "tags":[
-    "alma",
-    "cuerpo",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"11"
-    },
-    {
-    "quote":"El sueño es el mejor de los remedios.",
-    "length":"36",
-    "author":"Anónimo",
-    "tags":[
-    "sueño",
-    "remedio",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"12"
-    },
-    {
-    "quote":"Una mente tranquila es la mejor ayuda para la salud.",
-    "length":"51",
-    "author":"Anónimo",
-    "tags":[
-    "mente",
-    "tranquilidad",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"13"
-    },
-    {
-    "quote":"La mayor riqueza es la salud.",
-    "length":"30",
-    "author":"Virgilio",
-    "tags":[
-    "riqueza",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"14"
-    },
-    {
-    "quote":"La comida sana es la mejor fuente de salud.",
-    "length":"43",
-    "author":"Anónimo",
-    "tags":[
-    "comida sana",
-    "salud",
-    "fuente"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"15"
-    },
-    {
-    "quote":"Mente sana en cuerpo sano.",
-    "length":"26",
-    "author":"Decio Junio Juvenal",
-    "tags":[
-    "mente",
-    "cuerpo",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"16"
-    },
-    {
-    "quote":"El ejercicio es rey, la nutrición es reina. Pon ambos en su lugar y tendrás un reino perfecto.",
-    "length":"93",
-    "author":"Jack LaLanne",
-    "tags":[
-    "ejercicio",
-    "nutrición",
-    "salud",
-    "bienestar"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"17"
-    },
-    {
-    "quote":"Camina con los pies en la tierra y la mente en el cielo y disfrutarás una salud perfecta.",
-    "length":"90",
-    "author":"Charles Caleb Colton",
-    "tags":[
-    "caminar",
-    "mente",
-    "salud perfecta"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"18"
-    },
-    {
-    "quote":"Mantenerse físicamente activo es la clave para una buena salud.",
-    "length":"62",
-    "author":"Anónimo",
-    "tags":[
-    "actividad física",
-    "buena salud",
-    "clave"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"19"
-    },
-    {
-    "quote":"El descanso y la paz mental son fundamentales para la salud del alma y del cuerpo.",
-    "length":"81",
-    "author":"Napoleón Bonaparte",
-    "tags":[
-    "descanso",
-    "paz mental",
-    "alma",
-    "cuerpo",
-    "salud"
-    ],
-    "category":"health",
-    "date":"2023-08-08",
-    "title":"Frase sobre salud del día",
-    "id":"20"
-    }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La salud es el tesoro más preciado y el más fácil de perder; sin embargo, el menos cuidado.",
+        "length": "93",
+        "author": {
+          "name": "Hipócrates",
+          "nationality": "Griega",
+          "profession": "Médico",
+          "field": "Medicina"
+        },
+        "tags": [
+          "salud",
+          "tesoro",
+          "cuidado",
+          "prevención"
+        ],
+        "category": "health",
+        "date": "05/06/460 a.C.",
+        "title": "Quote about health value",
+        "id": "1"
+      },
+      {
+        "quote": "El mayor error en el tratamiento de las enfermedades es que existen médicos para el cuerpo y médicos para el alma, cuando no pueden separarse el uno del otro.",
+        "length": "166",
+        "author": {
+          "name": "Platón",
+          "nationality": "Griega",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "holístico",
+          "cuerpo",
+          "alma",
+          "tratamiento"
+        ],
+        "category": "health",
+        "date": "21/05/427 a.C.",
+        "title": "Quote about holistic health",
+        "id": "2"
+      },
+      {
+        "quote": "La mejor medicina es la naturaleza, que cura tres cuartas partes de las enfermedades y nunca habla mal del médico.",
+        "length": "123",
+        "author": {
+          "name": "Louis Pasteur",
+          "nationality": "Francesa",
+          "profession": "Químico y Microbiólogo",
+          "field": "Microbiología"
+        },
+        "tags": [
+          "naturaleza",
+          "medicina",
+          "curación",
+          "salud"
+        ],
+        "category": "health",
+        "date": "27/12/1822",
+        "title": "Quote about nature's healing power",
+        "id": "3"
+      },
+      {
+        "quote": "La primera riqueza es la salud.",
+        "length": "33",
+        "author": {
+          "name": "Ralph Waldo Emerson",
+          "nationality": "Estadounidense",
+          "profession": "Ensayista y Filósofo",
+          "field": "Filosofía y Literatura"
+        },
+        "tags": [
+          "salud",
+          "riqueza",
+          "prioridad",
+          "bienestar"
+        ],
+        "category": "health",
+        "date": "25/05/1803",
+        "title": "Quote about health as wealth",
+        "id": "4"
+      },
+      {
+        "quote": "El hombre que no encuentra tiempo para el ejercicio tendrá que encontrar tiempo para la enfermedad.",
+        "length": "97",
+        "author": {
+          "name": "Edward Stanley",
+          "nationality": "Británica",
+          "profession": "Político",
+          "field": "Política"
+        },
+        "tags": [
+          "ejercicio",
+          "prevención",
+          "tiempo",
+          "enfermedad"
+        ],
+        "category": "health",
+        "date": "13/03/1826",
+        "title": "Quote about exercise importance",
+        "id": "5"
+      },
+      {
+        "quote": "La salud no lo es todo, pero sin ella, todo lo demás es nada.",
+        "length": "64",
+        "author": {
+          "name": "Arthur Schopenhauer",
+          "nationality": "Alemana",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "salud",
+          "prioridad",
+          "vida",
+          "importancia"
+        ],
+        "category": "health",
+        "date": "22/02/1788",
+        "title": "Quote about health priority",
+        "id": "6"
+      },
+      {
+        "quote": "Nueve décimas partes de nuestra felicidad dependen de la salud.",
+        "length": "63",
+        "author": {
+          "name": "Schopenhauer",
+          "nationality": "Alemana",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "felicidad",
+          "salud",
+          "bienestar",
+          "vida"
+        ],
+        "category": "health",
+        "date": "22/02/1788",
+        "title": "Quote about health and happiness",
+        "id": "7"
+      },
+      {
+        "quote": "El agua es la fuerza motriz de toda la naturaleza.",
+        "length": "52",
+        "author": {
+          "name": "Leonardo da Vinci",
+          "nationality": "Italiana",
+          "profession": "Polímata",
+          "field": "Arte y Ciencia"
+        },
+        "tags": [
+          "agua",
+          "naturaleza",
+          "salud",
+          "vida"
+        ],
+        "category": "health",
+        "date": "15/04/1452",
+        "title": "Quote about water importance",
+        "id": "8"
+      },
+      {
+        "quote": "Que tu alimento sea tu medicina y tu medicina sea tu alimento.",
+        "length": "65",
+        "author": {
+          "name": "Hipócrates",
+          "nationality": "Griega",
+          "profession": "Médico",
+          "field": "Medicina"
+        },
+        "tags": [
+          "alimentación",
+          "medicina",
+          "salud",
+          "nutrición"
+        ],
+        "category": "health",
+        "date": "05/06/460 a.C.",
+        "title": "Quote about food as medicine",
+        "id": "9"
+      },
+      {
+        "quote": "La salud es la unidad que da valor a todos los ceros de la vida.",
+        "length": "67",
+        "author": {
+          "name": "Bernard Le Bouvier de Fontenelle",
+          "nationality": "Francesa",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "salud",
+          "valor",
+          "vida",
+          "metáfora"
+        ],
+        "category": "health",
+        "date": "11/02/1657",
+        "title": "Quote about health value",
+        "id": "10"
+      },
+      {
+        "quote": "El sueño es el mejor medicamento.",
+        "length": "35",
+        "author": {
+          "name": "Dalai Lama",
+          "nationality": "Tibetana",
+          "profession": "Líder Espiritual",
+          "field": "Espiritualidad"
+        },
+        "tags": [
+          "sueño",
+          "descanso",
+          "salud",
+          "bienestar"
+        ],
+        "category": "health",
+        "date": "06/07/1935",
+        "title": "Quote about sleep importance",
+        "id": "11"
+      },
+      {
+        "quote": "La risa es un poderoso medicamento.",
+        "length": "37",
+        "author": {
+          "name": "Patch Adams",
+          "nationality": "Estadounidense",
+          "profession": "Médico",
+          "field": "Medicina"
+        },
+        "tags": [
+          "risa",
+          "medicina",
+          "salud",
+          "bienestar"
+        ],
+        "category": "health",
+        "date": "28/05/1945",
+        "title": "Quote about laughter as medicine",
+        "id": "12"
+      },
+      {
+        "quote": "La salud es el silencio de los órganos.",
+        "length": "40",
+        "author": {
+          "name": "René Leriche",
+          "nationality": "Francesa",
+          "profession": "Cirujano",
+          "field": "Medicina"
+        },
+        "tags": [
+          "salud",
+          "bienestar",
+          "cuerpo",
+          "equilibrio"
+        ],
+        "category": "health",
+        "date": "12/10/1879",
+        "title": "Quote about health definition",
+        "id": "13"
+      },
+      {
+        "quote": "La música es una medicina para el corazón roto.",
+        "length": "49",
+        "author": {
+          "name": "William Shakespeare",
+          "nationality": "Británica",
+          "profession": "Dramaturgo",
+          "field": "Literatura"
+        },
+        "tags": [
+          "música",
+          "medicina",
+          "corazón",
+          "salud mental"
+        ],
+        "category": "health",
+        "date": "26/04/1564",
+        "title": "Quote about music and health",
+        "id": "14"
+      },
+      {
+        "quote": "La buena salud y el buen juicio son dos de las mayores bendiciones de la vida.",
+        "length": "81",
+        "author": {
+          "name": "Publio Siro",
+          "nationality": "Romana",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "salud",
+          "juicio",
+          "bendiciones",
+          "vida"
+        ],
+        "category": "health",
+        "date": "01/01/85 a.C.",
+        "title": "Quote about health and wisdom",
+        "id": "15"
+      },
+      {
+        "quote": "El ejercicio no sólo cambia tu cuerpo, cambia tu mente, tu actitud y tu humor.",
+        "length": "83",
+        "author": {
+          "name": "José Mujica",
+          "nationality": "Uruguaya",
+          "profession": "Político",
+          "field": "Política"
+        },
+        "tags": [
+          "ejercicio",
+          "salud",
+          "mente",
+          "actitud"
+        ],
+        "category": "health",
+        "date": "20/05/1935",
+        "title": "Quote about exercise benefits",
+        "id": "16"
+      },
+      {
+        "quote": "La alegría alarga la vida y es la madre de todas las virtudes.",
+        "length": "64",
+        "author": {
+          "name": "Johann Wolfgang von Goethe",
+          "nationality": "Alemana",
+          "profession": "Escritor",
+          "field": "Literatura"
+        },
+        "tags": [
+          "alegría",
+          "vida",
+          "salud",
+          "virtudes"
+        ],
+        "category": "health",
+        "date": "28/08/1749",
+        "title": "Quote about joy and health",
+        "id": "17"
+      },
+      {
+        "quote": "El mayor de los lujos es la salud.",
+        "length": "34",
+        "author": {
+          "name": "Benjamín Franklin",
+          "nationality": "Estadounidense",
+          "profession": "Político y Científico",
+          "field": "Política y Ciencia"
+        },
+        "tags": [
+          "salud",
+          "lujo",
+          "prioridad",
+          "vida"
+        ],
+        "category": "health",
+        "date": "17/01/1706",
+        "title": "Quote about health as luxury",
+        "id": "18"
+      },
+      {
+        "quote": "La moderación es la mejor medicina.",
+        "length": "37",
+        "author": {
+          "name": "Desiderio Erasmo de Róterdam",
+          "nationality": "Holandesa",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "moderación",
+          "medicina",
+          "salud",
+          "equilibrio"
+        ],
+        "category": "health",
+        "date": "28/10/1466",
+        "title": "Quote about moderation",
+        "id": "19"
+      },
+      {
+        "quote": "Una mente sana en un cuerpo sano es una descripción corta pero completa de un estado feliz en este mundo.",
+        "length": "110",
+        "author": {
+          "name": "John Locke",
+          "nationality": "Británica",
+          "profession": "Filósofo",
+          "field": "Filosofía"
+        },
+        "tags": [
+          "mente",
+          "cuerpo",
+          "salud",
+          "felicidad"
+        ],
+        "category": "health",
+        "date": "29/08/1632",
+        "title": "Quote about mind and body health",
+        "id": "20"
+      }
     ]
-    }
-    }
+  }
+}

@@ -1,198 +1,421 @@
 {
   "success": {
-    "total": 20
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
   },
   "contents": {
     "quotes": [
       {
-        "quote": "La tecnología es solo una herramienta. En términos de motivar a los niños y hacerlos trabajar juntos, el maestro es lo más importante.",
-        "length": "143",
-        "author": "Bill Gates",
-        "tags": ["tecnología", "educación", "herramienta"],
+        "quote": "La invención de la rueda ha sido uno de los mayores avances tecnológicos en la historia de la humanidad, transformando el transporte y la construcción.",
+        "length": "130",
+        "author": {
+          "name": "Arquímedes",
+          "nationality": "Griego",
+          "profession": "Matemático, Físico e Ingeniero",
+          "field": "Ciencia y Tecnología Antigua"
+        },
+        "tags": ["rueda", "transporte", "construcción", "invención"],
         "category": "technology",
-        "date": "2000-11-12",
-        "title": "Technology Quote of the day",
+        "date": "287 a.C.",
+        "title": "Cita sobre la tecnología",
         "id": "1"
       },
       {
-        "quote": "La ciencia de hoy es la tecnología del mañana.",
-        "length": "49",
-        "author": "Edward Teller",
-        "tags": ["ciencia", "tecnología", "futuro"],
+        "quote": "La imprenta de Gutenberg marcó un antes y un después en la difusión del conocimiento, revolucionando la comunicación y la educación.",
+        "length": "123",
+        "author": {
+          "name": "Johannes Gutenberg",
+          "nationality": "Alemán",
+          "profession": "Orfebre e Impresor",
+          "field": "Tecnología de la Información y Comunicación"
+        },
+        "tags": ["imprenta", "conocimiento", "comunicación", "educación"],
         "category": "technology",
-        "date": "1988-09-24",
-        "title": "Technology Quote of the day",
+        "date": "1440",
+        "title": "Cita sobre la tecnología",
         "id": "2"
       },
       {
-        "quote": "La tecnología es una palabra que describe algo que no funciona todavía.",
-        "length": "74",
-        "author": "Douglas Adams",
-        "tags": ["tecnología", "innovación", "funcionamiento"],
+        "quote": "La invención de la máquina de vapor marcó el inicio de la Revolución Industrial, impulsando el desarrollo de nuevas tecnologías y transformando la sociedad.",
+        "length": "141",
+        "author": {
+          "name": "James Watt",
+          "nationality": "Británico",
+          "profession": "Ingeniero e Inventor",
+          "field": "Ingeniería Mecánica"
+        },
+        "tags": [
+          "máquina de vapor",
+          "Revolución Industrial",
+          "desarrollo tecnológico",
+          "transformación social"
+        ],
         "category": "technology",
-        "date": "1999-03-11",
-        "title": "Technology Quote of the day",
+        "date": "1769",
+        "title": "Cita sobre la tecnología",
         "id": "3"
       },
       {
-        "quote": "La tecnología no es nada. Lo importante es que tengas fe en la gente, que sean básicamente buenas e inteligentes, y si les das herramientas, harán cosas maravillosas con ellas.",
-        "length": "191",
-        "author": "Steve Jobs",
-        "tags": ["tecnología", "fe", "herramientas"],
+        "quote": "La electrificación y la introducción de las telecomunicaciones han sido catalizadores fundamentales para la evolución de la sociedad moderna y la globalización.",
+        "length": "145",
+        "author": {
+          "name": "Nikola Tesla",
+          "nationality": "Croata",
+          "profession": "Físico, Ingeniero e Inventor",
+          "field": "Ingeniería Eléctrica y Electrónica"
+        },
+        "tags": [
+          "electrificación",
+          "telecomunicaciones",
+          "evolución social",
+          "globalización"
+        ],
         "category": "technology",
-        "date": "1994-10-25",
-        "title": "Technology Quote of the day",
+        "date": "1856",
+        "title": "Cita sobre la tecnología",
         "id": "4"
       },
       {
-        "quote": "Cualquier tecnología suficientemente avanzada es indistinguible de la magia.",
-        "length": "73",
-        "author": "Arthur C. Clarke",
-        "tags": ["tecnología", "magia", "avance"],
+        "quote": "El desarrollo de la informática y la computación han transformado la forma en que vivimos, trabajamos y nos comunicamos, abriendo nuevas posibilidades para la humanidad.",
+        "length": "158",
+        "author": {
+          "name": "Alan Turing",
+          "nationality": "Británico",
+          "profession": "Matemático, Lógico e Informático",
+          "field": "Ciencias de la Computación"
+        },
+        "tags": [
+          "informática",
+          "computación",
+          "transformación",
+          "comunicación",
+          "posibilidades"
+        ],
         "category": "technology",
-        "date": "1962-01-01",
-        "title": "Technology Quote of the day",
+        "date": "1912",
+        "title": "Cita sobre la tecnología",
         "id": "5"
       },
       {
-        "quote": "Una vez que una tecnología es realmente buena, desaparece. Se convierte en parte de la vida cotidiana.",
-        "length": "98",
-        "author": "Kevin Kelly",
-        "tags": ["tecnología", "vida", "cotidiano"],
+        "quote": "La innovación en los materiales y la nanotecnología están abriendo nuevas fronteras para el desarrollo de aplicaciones que pueden mejorar la calidad de vida y resolver problemas globales.",
+        "length": "167",
+        "author": {
+          "name": "Richard Feynman",
+          "nationality": "Estadounidense",
+          "profession": "Físico Teórico",
+          "field": "Física Cuántica y Nanotecnología"
+        },
+        "tags": [
+          "materiales",
+          "nanotecnología",
+          "innovación",
+          "aplicaciones",
+          "calidad de vida",
+          "problemas globales"
+        ],
         "category": "technology",
-        "date": "1998-06-30",
-        "title": "Technology Quote of the day",
+        "date": "1918",
+        "title": "Cita sobre la tecnología",
         "id": "6"
       },
       {
-        "quote": "La tecnología es el gran igualador.",
-        "length": "35",
-        "author": "Steve Jobs",
-        "tags": ["tecnología", "igualdad", "oportunidades"],
+        "quote": "La robótica y la automatización están transformando los procesos industriales y laborales, aumentando la productividad y eficiencia, pero también planteando desafíos éticos y sociales.",
+        "length": "167",
+        "author": {
+          "name": "Joseph Engelberger",
+          "nationality": "Estadounidense",
+          "profession": "Físico e Ingeniero",
+          "field": "Robótica e Ingeniería Industrial"
+        },
+        "tags": [
+          "robótica",
+          "automatización",
+          "productividad",
+          "eficiencia",
+          "desafíos éticos",
+          "desafíos sociales"
+        ],
         "category": "technology",
-        "date": "2004-01-06",
-        "title": "Technology Quote of the day",
+        "date": "1925",
+        "title": "Cita sobre la tecnología",
         "id": "7"
       },
       {
-        "quote": "La tecnología avanza y se multiplica cada día.",
-        "length": "46",
-        "author": "Ray Kurzweil",
-        "tags": ["tecnología", "avance", "multiplicación"],
+        "quote": "La revolución digital y el desarrollo del Internet han cambiado radicalmente la forma en que accedemos a la información, nos comunicamos y realizamos transacciones, transformando la sociedad y la economía.",
+        "length": "185",
+        "author": {
+          "name": "Tim Berners-Lee",
+          "nationality": "Británico",
+          "profession": "Científico de la Computación e Ingeniero",
+          "field": "Tecnologías de la Información y Comunicación"
+        },
+        "tags": [
+          "revolución digital",
+          "Internet",
+          "información",
+          "comunicación",
+          "transacciones",
+          "transformación social",
+          "transformación económica"
+        ],
         "category": "technology",
-        "date": "2001-05-15",
-        "title": "Technology Quote of the day",
+        "date": "1955",
+        "title": "Cita sobre la tecnología",
         "id": "8"
       },
       {
-        "quote": "La tecnología se alimenta a sí misma. La tecnología hace posible más tecnología.",
-        "length": "76",
-        "author": "Alvin Toffler",
-        "tags": ["tecnología", "innovación", "progreso"],
+        "quote": "La biotecnología y la ingeniería genética han abierto nuevas posibilidades para comprender, prevenir y tratar enfermedades, mejorando la salud y calidad de vida de las personas.",
+        "length": "160",
+        "author": {
+          "name": "Kary Mullis",
+          "nationality": "Estadounidense",
+          "profession": "Químico y Bioquímico",
+          "field": "Biotecnología y Genómica"
+        },
+        "tags": [
+          "biotecnología",
+          "ingeniería genética",
+          "enfermedades",
+          "salud",
+          "calidad de vida"
+        ],
         "category": "technology",
-        "date": "1980-02-28",
-        "title": "Technology Quote of the day",
+        "date": "1944",
+        "title": "Cita sobre la tecnología",
         "id": "9"
       },
       {
-        "quote": "La tecnología es el arte de organizar el mundo para que no tengamos que experimentarlo.",
-        "length": "89",
-        "author": "Max Frisch",
-        "tags": ["tecnología", "arte", "organización"],
+        "quote": "La inteligencia artificial y el aprendizaje automático están transformando la forma en que resolvemos problemas, tomamos decisiones y entendemos el mundo que nos rodea.",
+        "length": "152",
+        "author": {
+          "name": "Yoshua Bengio",
+          "nationality": "Canadiense",
+          "profession": "Científico de la Computación e Investigador",
+          "field": "Inteligencia Artificial y Aprendizaje Automático"
+        },
+        "tags": [
+          "inteligencia artificial",
+          "aprendizaje automático",
+          "resolución de problemas",
+          "toma de decisiones",
+          "comprensión del mundo"
+        ],
         "category": "technology",
-        "date": "1974-04-12",
-        "title": "Technology Quote of the day",
+        "date": "1964",
+        "title": "Cita sobre la tecnología",
         "id": "10"
       },
       {
-        "quote": "La mejor forma de predecir el futuro es inventarlo.",
-        "length": "49",
-        "author": "Alan Kay",
-        "tags": ["tecnología", "futuro", "inventar"],
+        "quote": "La impresión 3D y la fabricación aditiva han revolucionado la producción industrial, permitiendo la creación de objetos personalizados y prototipos de una manera más rápida y eficiente.",
+        "length": "171",
+        "author": {
+          "name": "Chuck Hull",
+          "nationality": "Estadounidense",
+          "profession": "Ingeniero Químico e Inventor",
+          "field": "Fabricación Aditiva y Tecnologías 3D"
+        },
+        "tags": [
+          "impresión 3D",
+          "fabricación aditiva",
+          "producción industrial",
+          "personalización",
+          "prototipado",
+          "eficiencia"
+        ],
         "category": "technology",
-        "date": "1971-03-10",
-        "title": "Technology Quote of the day",
+        "date": "1939",
+        "title": "Cita sobre la tecnología",
         "id": "11"
       },
       {
-        "quote": "La tecnología es un sirviente útil pero un amo peligroso.",
-        "length": "61",
-        "author": "Christian Lous Lange",
-        "tags": ["tecnología", "sirviente", "peligro"],
+        "quote": "La realidad virtual y aumentada están abriendo nuevas formas de interacción y experiencia, transformando la manera en que percibimos y nos relacionamos con el mundo digital.",
+        "length": "160",
+        "author": {
+          "name": "Jaron Lanier",
+          "nationality": "Estadounidense",
+          "profession": "Científico Informático y Filósofo",
+          "field": "Realidad Virtual y Realidad Aumentada"
+        },
+        "tags": [
+          "realidad virtual",
+          "realidad aumentada",
+          "interacción",
+          "experiencia",
+          "percepción",
+          "mundo digital"
+        ],
         "category": "technology",
-        "date": "1930-12-10",
-        "title": "Technology Quote of the day",
+        "date": "1960",
+        "title": "Cita sobre la tecnología",
         "id": "12"
       },
       {
-        "quote": "La tecnología puede traer ventajas desmedidas a los individuos que la dominen.",
-        "length": "81",
-        "author": "Carly Fiorina",
-        "tags": ["tecnología", "ventajas", "dominar"],
+        "quote": "La creciente miniaturización y avances en la nanotecnología están abriendo nuevas posibilidades para el desarrollo de dispositivos y materiales con propiedades revolucionarias.",
+        "length": "161",
+        "author": {
+          "name": "Richard Smalley",
+          "nationality": "Estadounidense",
+          "profession": "Químico y Premio Nobel",
+          "field": "Nanotecnología y Química Aplicada"
+        },
+        "tags": [
+          "miniaturización",
+          "nanotecnología",
+          "dispositivos",
+          "materiales",
+          "propiedades revolucionarias"
+        ],
         "category": "technology",
-        "date": "1999-11-02",
-        "title": "Technology Quote of the day",
+        "date": "1943",
+        "title": "Cita sobre la tecnología",
         "id": "13"
       },
       {
-        "quote": "El gran mito de nuestra era es que la tecnología es comunicación.",
-        "length": "64",
-        "author": "Libby Larsen",
-        "tags": ["tecnología", "mito", "comunicación"],
+        "quote": "La digitalización y el análisis de grandes volúmenes de datos (big data) están transformando la toma de decisiones, optimizando procesos y abriendo nuevas oportunidades de negocio.",
+        "length": "162",
+        "author": {
+          "name": "Cathy O'Neil",
+          "nationality": "Estadounidense",
+          "profession": "Matemática y Analista de Datos",
+          "field": "Big Data y Análisis de Datos"
+        },
+        "tags": [
+          "digitalización",
+          "big data",
+          "toma de decisiones",
+          "optimización de procesos",
+          "oportunidades de negocio"
+        ],
         "category": "technology",
-        "date": "2002-04-18",
-        "title": "Technology Quote of the day",
+        "date": "1972",
+        "title": "Cita sobre la tecnología",
         "id": "14"
       },
       {
-        "quote": "La tecnología es solo tan buena como la persona que la usa.",
-        "length": "57",
-        "author": "Bill Gates",
-        "tags": ["tecnología", "uso", "persona"],
+        "quote": "La ciberseguridad y la protección de la privacidad digital se han convertido en elementos clave para salvaguardar nuestra información y garantizar la confianza en un mundo cada vez más conectado.",
+        "length": "167",
+        "author": {
+          "name": "Bruce Schneier",
+          "nationality": "Estadounidense",
+          "profession": "Criptógrafo y Experto en Seguridad",
+          "field": "Ciberseguridad y Privacidad Digital"
+        },
+        "tags": [
+          "ciberseguridad",
+          "privacidad digital",
+          "protección de información",
+          "confianza",
+          "mundo conectado"
+        ],
         "category": "technology",
-        "date": "2001-03-12",
-        "title": "Technology Quote of the day",
+        "date": "1963",
+        "title": "Cita sobre la tecnología",
         "id": "15"
       },
       {
-        "quote": "Vivimos en una sociedad exquisitamente dependiente de la ciencia y la tecnología, en la cual casi nadie sabe nada de ciencia y tecnología.",
-        "length": "148",
-        "author": "Carl Sagan",
-        "tags": ["tecnología", "ciencia", "sociedad"],
+        "quote": "Los avances en la robótica y la inteligencia artificial están transformando la forma en que interactuamos con nuestro entorno, abriendo nuevas posibilidades para mejorar la calidad de vida.",
+        "length": "163",
+        "author": {
+          "name": "Rodney Brooks",
+          "nationality": "Australiano",
+          "profession": "Científico de la Computación e Ingeniero",
+          "field": "Robótica e Inteligencia Artificial"
+        },
+        "tags": [
+          "robótica",
+          "inteligencia artificial",
+          "interacción",
+          "entorno",
+          "calidad de vida"
+        ],
         "category": "technology",
-        "date": "1994-09-21",
-        "title": "Technology Quote of the day",
+        "date": "1956",
+        "title": "Cita sobre la tecnología",
         "id": "16"
       },
       {
-        "quote": "La tecnología es el lápiz con el que el futuro está escribiendo nuestra vida presente.",
-        "length": "83",
-        "author": "Scott Cook",
-        "tags": ["tecnología", "futuro", "presente"],
+        "quote": "La innovación en energías renovables y la transición hacia fuentes de energía limpias son fundamentales para enfrentar los desafíos ambientales y climáticos de nuestro tiempo.",
+        "length": "158",
+        "author": {
+          "name": "Amory Lovins",
+          "nationality": "Estadounidense",
+          "profession": "Físico y Asesor en Energía",
+          "field": "Energías Renovables y Sostenibilidad"
+        },
+        "tags": [
+          "energías renovables",
+          "energía limpia",
+          "desafíos ambientales",
+          "desafíos climáticos"
+        ],
         "category": "technology",
-        "date": "2003-11-14",
-        "title": "Technology Quote of the day",
+        "date": "1947",
+        "title": "Cita sobre la tecnología",
         "id": "17"
       },
       {
-        "quote": "La tecnología es la campana que llama a la civilización a la mesa.",
-        "length": "68",
-        "author": "Richard Buckminster Fuller",
-        "tags": ["tecnología", "civilización", "llamada"],
+        "quote": "La biotecnología y la ingeniería genómica están revolucionando la medicina, abriendo nuevas posibilidades para la prevención, diagnóstico y tratamiento de enfermedades.",
+        "length": "155",
+        "author": {
+          "name": "Craig Venter",
+          "nationality": "Estadounidense",
+          "profession": "Biólogo Molecular y Genetista",
+          "field": "Biotecnología y Genómica Médica"
+        },
+        "tags": [
+          "biotecnología",
+          "ingeniería genómica",
+          "medicina",
+          "prevención",
+          "diagnóstico",
+          "tratamiento"
+        ],
         "category": "technology",
-        "date": "1969-07-10",
-        "title": "Technology Quote of the day",
+        "date": "1946",
+        "title": "Cita sobre la tecnología",
         "id": "18"
       },
       {
-        "quote": "La tecnología es un arma de doble filo. Puede ser usada para construir o para destruir.",
-        "length": "85",
-        "author": "Michelle M. Pillow",
-        "tags": ["tecnología", "arma", "doble filo"],
+        "quote": "La conectividad global y el desarrollo de redes 5G están transformando la forma en que nos comunicamos, accedemos a la información y gestionamos nuestras actividades cotidianas.",
+        "length": "162",
+        "author": {
+          "name": "Mats Granryd",
+          "nationality": "Sueco",
+          "profession": "Ingeniero y Directivo de Telecomunicaciones",
+          "field": "Redes de Comunicación y Tecnología 5G"
+        },
+        "tags": [
+          "conectividad global",
+          "redes 5G",
+          "comunicación",
+          "acceso a información",
+          "gestión de actividades"
+        ],
         "category": "technology",
-        "date": "2008-06-18",
-        "title": "Technology Quote of the day",
+        "date": "1962",
+        "title": "Cita sobre la tecnología",
         "id": "19"
+      },
+      {
+        "quote": "La inteligencia artificial y el aprendizaje automático están transformando la forma en que comprendemos y resolvemos problemas complejos, abriendo nuevas fronteras para la innovación.",
+        "length": "161",
+        "author": {
+          "name": "Fei-Fei Li",
+          "nationality": "China-Estadounidense",
+          "profession": "Científica de la Computación e Investigadora",
+          "field": "Inteligencia Artificial y Aprendizaje Automático"
+        },
+        "tags": [
+          "inteligencia artificial",
+          "aprendizaje automático",
+          "resolución de problemas",
+          "innovación"
+        ],
+        "category": "technology",
+        "date": "1976",
+        "title": "Cita sobre la tecnología",
+        "id": "20"
       }
     ]
   }

@@ -1,300 +1,351 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"La forma más segura de no tener éxito es simplemente no intentarlo.",
-    "length":"64",
-    "author":"Richard Whately",
-    "tags":[
-    "motivación",
-    "éxito",
-    "intento"
-    ],
-    "category":"motivation",
-    "date":"1787-1863",
-    "title":"Frase motivacional del día",
-    "id":"1"
-    },
-    {
-    "quote":"El único camino hacia el éxito es tomar la firme resolución de progresar.",
-    "length":"71",
-    "author":"John Quincy Adams",
-    "tags":[
-    "motivación",
-    "éxito",
-    "resolución",
-    "progreso"
-    ],
-    "category":"motivation",
-    "date":"1767-1848",
-    "title":"Frase motivacional del día",
-    "id":"2"
-    },
-    {
-    "quote":"El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
-    "length":"71",
-    "author":"Winston Churchill",
-    "tags":[
-    "motivación",
-    "éxito",
-    "fracaso",
-    "entusiasmo"
-    ],
-    "category":"motivation",
-    "date":"1874-1965",
-    "title":"Frase motivacional del día",
-    "id":"3"
-    },
-    {
-    "quote":"La motivación encuentra la brecha final en la realización de la inspiración.",
-    "length":"72",
-    "author":"Evan Esar",
-    "tags":[
-    "motivación",
-    "inspiración",
-    "realización"
-    ],
-    "category":"motivation",
-    "date":"1899-1995",
-    "title":"Frase motivacional del día",
-    "id":"4"
-    },
-    {
-    "quote":"Cada mañana nos levantamos es la primera mañana del resto de nuestras vidas.",
-    "length":"76",
-    "author":"Anónimo",
-    "tags":[
-    "motivación",
-    "nueva oportunidad",
-    "vida"
-    ],
-    "category":"motivation",
-    "date":"Desconocida",
-    "title":"Frase motivacional del día",
-    "id":"5"
-    },
-    {
-    "quote":"El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de manera más inteligente.",
-    "length":"96",
-    "author":"Henry Ford",
-    "tags":[
-    "motivación",
-    "fracaso",
-    "oportunidad",
-    "inteligencia"
-    ],
-    "category":"motivation",
-    "date":"1863-1947",
-    "title":"Frase motivacional del día",
-    "id":"6"
-    },
-    {
-    "quote":"La clave para el éxito es el trabajo arduo y no perder nunca la esperanza.",
-    "length":"73",
-    "author":"Anónimo",
-    "tags":[
-    "motivación",
-    "éxito",
-    "trabajo duro",
-    "esperanza"
-    ],
-    "category":"motivation",
-    "date":"Desconocida",
-    "title":"Frase motivacional del día",
-    "id":"7"
-    },
-    {
-    "quote":"Nunca te rindas. Hoy es duro, mañana será peor, pero pasado mañana será radiante.",
-    "length":"79",
-    "author":"Anónimo",
-    "tags":[
-    "motivación",
-    "perseverancia",
-    "esperanza",
-    "futuro"
-    ],
-    "category":"motivation",
-    "date":"Desconocida",
-    "title":"Frase motivacional del día",
-    "id":"8"
-    },
-    {
-    "quote":"Comienza donde estás. Usa lo que tienes. Haz lo que puedas.",
-    "length":"57",
-    "author":"Arthur Ashe",
-    "tags":[
-    "motivación",
-    "acción",
-    "recursos",
-    "capacidad"
-    ],
-    "category":"motivation",
-    "date":"1943-1993",
-    "title":"Frase motivacional del día",
-    "id":"9"
-    },
-    {
-    "quote":"Un pequeño paso positivo puede ser el principio de algo realmente grande.",
-    "length":"72",
-    "author":"Anónimo",
-    "tags":[
-    "motivación",
-    "pequeños pasos",
-    "grandes logros"
-    ],
-    "category":"motivation",
-    "date":"Desconocida",
-    "title":"Frase motivacional del día",
-    "id":"10"
-    },
-    {
-    "quote":"Lo que la mente puede concebir y creer, también puede lograrlo.",
-    "length":"63",
-    "author":"Napoleón Hill",
-    "tags":[
-    "motivación",
-    "mentalidad",
-    "logros"
-    ],
-    "category":"motivation",
-    "date":"1883-1970",
-    "title":"Frase motivacional del día",
-    "id":"11"
-    },
-    {
-    "quote":"Nunca es demasiado tarde para ser lo que podrías haber sido.",
-    "length":"58",
-    "author":"George Eliot",
-    "tags":[
-    "motivación",
-    "potencial",
-    "cambio"
-    ],
-    "category":"motivation",
-    "date":"1819-1880",
-    "title":"Frase motivacional del día",
-    "id":"12"
-    },
-    {
-    "quote":"La única manera de hacer un gran trabajo es amar lo que haces.",
-    "length":"60",
-    "author":"Steve Jobs",
-    "tags":[
-    "motivación",
-    "pasión",
-    "trabajo"
-    ],
-    "category":"motivation",
-    "date":"1955-2011",
-    "title":"Frase motivacional del día",
-    "id":"13"
-    },
-    {
-    "quote":"El coraje no es tener la fuerza para seguir adelante; es progresar sin ver el camino final.",
-    "length":"89",
-    "author":"Anónimo",
-    "tags":[
-    "motivación",
-    "coraje",
-    "progreso",
-    "fe"
-    ],
-    "category":"motivation",
-    "date":"Desconocida",
-    "title":"Frase motivacional del día",
-    "id":"14"
-    },
-    {
-    "quote":"La única forma de hacer un trabajo extraordinario es amar lo que haces.",
-    "length":"68",
-    "author":"Steve Jobs",
-    "tags":[
-    "motivación",
-    "pasión",
-    "trabajo",
-    "extraordinario"
-    ],
-    "category":"motivation",
-    "date":"1955-2011",
-    "title":"Frase motivacional del día",
-    "id":"15"
-    },
-    {
-    "quote":"No es el más fuerte el que sobrevive, ni el más inteligente, sino el que mejor se adapta al cambio.",
-    "length":"99",
-    "author":"Charles Darwin",
-    "tags":[
-    "motivación",
-    "adaptación",
-    "cambio",
-    "supervivencia"
-    ],
-    "category":"motivation",
-    "date":"1809-1882",
-    "title":"Frase motivacional del día",
-    "id":"16"
-    },
-    {
-    "quote":"La disciplina es la puente entre las metas y los logros.",
-    "length":"54",
-    "author":"Anónimo",
-    "tags":[
-    "motivación",
-    "disciplina",
-    "metas",
-    "logros"
-    ],
-    "category":"motivation",
-    "date":"Desconocida",
-    "title":"Frase motivacional del día",
-    "id":"17"
-    },
-    {
-    "quote":"Cree que puedes y estarás a mitad de camino.",
-    "length":"44",
-    "author":"Theodore Roosevelt",
-    "tags":[
-    "motivación",
-    "creencia",
-    "confianza"
-    ],
-    "category":"motivation",
-    "date":"1858-1919",
-    "title":"Frase motivacional del día",
-    "id":"18"
-    },
-    {
-    "quote":"La paciencia y la perseverancia tienen un poder mágico ante el que las dificultades desaparecen y los obstáculos se desvanecen.",
-    "length":"121",
-    "author":"John Quincy Adams",
-    "tags":[
-    "motivación",
-    "paciencia",
-    "perseverancia",
-    "obstáculos"
-    ],
-    "category":"motivation",
-    "date":"1767-1848",
-    "title":"Frase motivacional del día",
-    "id":"19"
-    },
-    {
-    "quote":"Nada es imposible, la palabra misma lo dice: Yo soy posible.",
-    "length":"58",
-    "author":"Audrey Hepburn",
-    "tags":[
-    "motivación",
-    "posibilidad",
-    "capacidad"
-    ],
-    "category":"motivation",
-    "date":"1929-1993",
-    "title":"Frase motivacional del día",
-    "id":"20"
-    }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La motivación es la clave para alcanzar tus sueños, es el combustible que te impulsa a superar los obstáculos y a transformar tus metas en realidad.",
+        "length": "135",
+        "author": {
+          "name": "Oprah Winfrey",
+          "nationality": "Estadounidense",
+          "profession": "Presentadora de TV, Actriz y Empresaria",
+          "field": "Medios de Comunicación y Emprendimiento"
+        },
+        "tags": ["motivación", "sueños", "obstáculos", "metas"],
+        "category": "motivation",
+        "date": "29/01/1954",
+        "title": "Cita sobre la motivación",
+        "id": "1"
+      },
+      {
+        "quote": "La clave para lograr tus objetivos es mantener una actitud positiva y creer firmemente en tus capacidades. La motivación nace de tu propia determinación.",
+        "length": "141",
+        "author": {
+          "name": "Zig Ziglar",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal"
+        },
+        "tags": [
+          "objetivos",
+          "actitud positiva",
+          "capacidades",
+          "determinación"
+        ],
+        "category": "motivation",
+        "date": "06/11/1926",
+        "title": "Cita sobre la motivación",
+        "id": "2"
+      },
+      {
+        "quote": "La motivación es el motor que nos impulsa a salir de nuestra zona de confort y a enfrentar nuevos desafíos. Es la fuerza que nos inspira a alcanzar lo imposible.",
+        "length": "143",
+        "author": {
+          "name": "Tony Robbins",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal"
+        },
+        "tags": ["motivación", "zona de confort", "desafíos", "inspiración"],
+        "category": "motivation",
+        "date": "29/02/1960",
+        "title": "Cita sobre la motivación",
+        "id": "3"
+      },
+      {
+        "quote": "La motivación es el combustible que alimenta nuestros sueños y nos impulsa a superar nuestros propios límites. Es la chispa que enciende el fuego de la excelencia.",
+        "length": "142",
+        "author": {
+          "name": "Les Brown",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal"
+        },
+        "tags": ["motivación", "sueños", "límites", "excelencia"],
+        "category": "motivation",
+        "date": "13/02/1945",
+        "title": "Cita sobre la motivación",
+        "id": "4"
+      },
+      {
+        "quote": "La motivación es el combustible que nos impulsa a superarnos y a lograr lo que nos parecía imposible. Es la fuerza que nos mantiene en movimiento hacia nuestras metas.",
+        "length": "151",
+        "author": {
+          "name": "Jim Rohn",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Empresario",
+          "field": "Desarrollo Personal y Emprendimiento"
+        },
+        "tags": ["motivación", "superación", "logros", "metas"],
+        "category": "motivation",
+        "date": "17/09/1930",
+        "title": "Cita sobre la motivación",
+        "id": "5"
+      },
+      {
+        "quote": "La motivación es el combustible que nos permite transformar nuestras ideas en realidad. Es la chispa que enciende el fuego de la acción y nos impulsa a hacer todo lo necesario para alcanzar nuestros objetivos.",
+        "length": "179",
+        "author": {
+          "name": "Zig Ziglar",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal"
+        },
+        "tags": ["motivación", "ideas", "acción", "objetivos"],
+        "category": "motivation",
+        "date": "06/11/1926",
+        "title": "Cita sobre la motivación",
+        "id": "6"
+      },
+      {
+        "quote": "La motivación es la fuerza que nos impulsa a salir de nuestra zona de confort y a enfrentar nuevos desafíos. Es la energía que nos mantiene en movimiento y nos ayuda a alcanzar nuestras metas.",
+        "length": "156",
+        "author": {
+          "name": "Brian Tracy",
+          "nationality": "Canadiense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal y Liderazgo"
+        },
+        "tags": [
+          "motivación",
+          "zona de confort",
+          "desafíos",
+          "energía",
+          "metas"
+        ],
+        "category": "motivation",
+        "date": "05/01/1944",
+        "title": "Cita sobre la motivación",
+        "id": "7"
+      },
+      {
+        "quote": "La motivación es la chispa que enciende el fuego de la pasión y nos impulsa a perseguir nuestros sueños. Es la fuerza que nos mantiene enfocados y determinados a alcanzar el éxito.",
+        "length": "153",
+        "author": {
+          "name": "Earl Nightingale",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal"
+        },
+        "tags": ["motivación", "pasión", "sueños", "enfoque", "éxito"],
+        "category": "motivation",
+        "date": "12/03/1921",
+        "title": "Cita sobre la motivación",
+        "id": "8"
+      },
+      {
+        "quote": "La motivación es el impulso que nos empuja a superar nuestros miedos y a enfrentar los desafíos con coraje. Es la fuerza que nos mantiene en movimiento y nos ayuda a alcanzar lo imposible.",
+        "length": "155",
+        "author": {
+          "name": "Malala Yousafzai",
+          "nationality": "Pakistaní",
+          "profession": "Activista por los Derechos de la Mujer y la Educación",
+          "field": "Derechos Humanos"
+        },
+        "tags": ["motivación", "miedos", "desafíos", "coraje", "lo imposible"],
+        "category": "motivation",
+        "date": "12/07/1997",
+        "title": "Cita sobre la motivación",
+        "id": "9"
+      },
+      {
+        "quote": "La motivación es el combustible que alimenta nuestros sueños y nos impulsa a superar nuestras limitaciones. Es la fuerza que nos mantiene en movimiento y nos ayuda a transformar nuestras aspiraciones en realidad.",
+        "length": "169",
+        "author": {
+          "name": "Deepak Chopra",
+          "nationality": "Indio-Estadounidense",
+          "profession": "Médico, Escritor y Conferencista",
+          "field": "Medicina Alternativa y Espiritualidad"
+        },
+        "tags": [
+          "motivación",
+          "sueños",
+          "limitaciones",
+          "aspiraciones",
+          "realidad"
+        ],
+        "category": "motivation",
+        "date": "22/10/1946",
+        "title": "Cita sobre la motivación",
+        "id": "10"
+      },
+      {
+        "quote": "La motivación es la fuerza invisible que nos impulsa a alcanzar nuestros objetivos. Es la chispa que enciende el fuego de la determinación y nos ayuda a superar los obstáculos en nuestro camino.",
+        "length": "163",
+        "author": {
+          "name": "Eckhart Tolle",
+          "nationality": "Alemán-Canadiense",
+          "profession": "Escritor y Conferencista",
+          "field": "Espiritualidad y Desarrollo Personal"
+        },
+        "tags": ["motivación", "objetivos", "determinación", "obstáculos"],
+        "category": "motivation",
+        "date": "16/02/1948",
+        "title": "Cita sobre la motivación",
+        "id": "11"
+      },
+      {
+        "quote": "La motivación es la fuerza que nos impulsa a salir de nuestra zona de confort y a abrazar nuevas oportunidades. Es la energía que nos mantiene en movimiento y nos ayuda a alcanzar nuestros sueños.",
+        "length": "159",
+        "author": {
+          "name": "Brené Brown",
+          "nationality": "Estadounidense",
+          "profession": "Investigadora y Autora",
+          "field": "Psicología y Desarrollo Personal"
+        },
+        "tags": [
+          "motivación",
+          "zona de confort",
+          "oportunidades",
+          "energía",
+          "sueños"
+        ],
+        "category": "motivation",
+        "date": "18/11/1965",
+        "title": "Cita sobre la motivación",
+        "id": "12"
+      },
+      {
+        "quote": "La motivación es la llama que enciende nuestro espíritu y nos impulsa a alcanzar alturas que antes parecían inalcanzables. Es la fuerza que nos mantiene enfocados y determinados a lograr nuestras metas.",
+        "length": "166",
+        "author": {
+          "name": "Mia Hamm",
+          "nationality": "Estadounidense",
+          "profession": "Futbolista",
+          "field": "Deporte y Liderazgo"
+        },
+        "tags": ["motivación", "espíritu", "alturas", "enfoque", "metas"],
+        "category": "motivation",
+        "date": "17/03/1972",
+        "title": "Cita sobre la motivación",
+        "id": "13"
+      },
+      {
+        "quote": "La motivación es el motor que nos impulsa a salir de nuestra zona de confort y a enfrentar nuevos desafíos. Es la fuerza que nos mantiene en movimiento y nos ayuda a alcanzar nuestro máximo potencial.",
+        "length": "165",
+        "author": {
+          "name": "Michelle Obama",
+          "nationality": "Estadounidense",
+          "profession": "Abogada, Escritora y Ex Primera Dama",
+          "field": "Política y Liderazgo"
+        },
+        "tags": ["motivación", "zona de confort", "desafíos", "potencial"],
+        "category": "motivation",
+        "date": "17/01/1964",
+        "title": "Cita sobre la motivación",
+        "id": "14"
+      },
+      {
+        "quote": "La motivación es la chispa que enciende el fuego de la ambición y nos impulsa a superar nuestros límites. Es la fuerza que nos mantiene en movimiento y nos ayuda a alcanzar nuestros sueños.",
+        "length": "157",
+        "author": {
+          "name": "Will Smith",
+          "nationality": "Estadounidense",
+          "profession": "Actor, Productor y Rapero",
+          "field": "Cine y Música"
+        },
+        "tags": ["motivación", "ambición", "límites", "sueños"],
+        "category": "motivation",
+        "date": "25/09/1968",
+        "title": "Cita sobre la motivación",
+        "id": "15"
+      },
+      {
+        "quote": "La motivación es la fuerza que nos impulsa a salir de nuestra zona de confort y a abrazar nuevos desafíos. Es la energía que nos mantiene en movimiento y nos ayuda a alcanzar nuestro máximo potencial.",
+        "length": "162",
+        "author": {
+          "name": "Simon Sinek",
+          "nationality": "Británico-Estadounidense",
+          "profession": "Autor y Conferencista",
+          "field": "Liderazgo y Desarrollo Personal"
+        },
+        "tags": [
+          "motivación",
+          "zona de confort",
+          "desafíos",
+          "energía",
+          "potencial"
+        ],
+        "category": "motivation",
+        "date": "09/10/1973",
+        "title": "Cita sobre la motivación",
+        "id": "16"
+      },
+      {
+        "quote": "La motivación es el combustible que alimenta nuestros sueños y nos impulsa a superar nuestros miedos. Es la fuerza que nos mantiene en movimiento y nos ayuda a transformar lo imposible en realidad.",
+        "length": "166",
+        "author": {
+          "name": "Les Brown",
+          "nationality": "Estadounidense",
+          "profession": "Orador Motivacional y Autor",
+          "field": "Desarrollo Personal"
+        },
+        "tags": ["motivación", "sueños", "miedos", "lo imposible", "realidad"],
+        "category": "motivation",
+        "date": "13/02/1945",
+        "title": "Cita sobre la motivación",
+        "id": "17"
+      },
+      {
+        "quote": "La motivación es la chispa que enciende el fuego de la determinación y nos impulsa a alcanzar nuestras metas. Es la fuerza que nos mantiene enfocados y nos ayuda a superar los obstáculos en nuestro camino.",
+        "length": "166",
+        "author": {
+          "name": "Arianna Huffington",
+          "nationality": "Griega-Estadounidense",
+          "profession": "Empresaria y Autora",
+          "field": "Medios de Comunicación y Desarrollo Personal"
+        },
+        "tags": [
+          "motivación",
+          "determinación",
+          "metas",
+          "enfoque",
+          "obstáculos"
+        ],
+        "category": "motivation",
+        "date": "15/07/1950",
+        "title": "Cita sobre la motivación",
+        "id": "18"
+      },
+      {
+        "quote": "La motivación es el impulso que nos empuja a salir de nuestra zona de confort y a abrazar el cambio. Es la fuerza que nos mantiene en movimiento y nos ayuda a alcanzar nuevos horizontes.",
+        "length": "158",
+        "author": {
+          "name": "Jack Canfield",
+          "nationality": "Estadounidense",
+          "profession": "Autor y Conferencista",
+          "field": "Desarrollo Personal"
+        },
+        "tags": [
+          "motivación",
+          "zona de confort",
+          "cambio",
+          "nuevos horizontes"
+        ],
+        "category": "motivation",
+        "date": "19/08/1944",
+        "title": "Cita sobre la motivación",
+        "id": "19"
+      },
+      {
+        "quote": "La motivación es la fuerza que nos impulsa a alcanzar nuestros objetivos más ambiciosos. Es la chispa que enciende el fuego de la pasión y nos ayuda a superar cualquier obstáculo.",
+        "length": "158",
+        "author": {
+          "name": "Napoleon Hill",
+          "nationality": "Estadounidense",
+          "profession": "Autor y Conferencista",
+          "field": "Desarrollo Personal y Emprendimiento"
+        },
+        "tags": ["motivación", "objetivos ambiciosos", "pasión", "obstáculos"],
+        "category": "motivation",
+        "date": "26/10/1883",
+        "title": "Cita sobre la motivación",
+        "id": "20"
+      }
     ]
-    }
-    }
+  }
+}

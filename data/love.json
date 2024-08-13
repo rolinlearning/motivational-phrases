@@ -1,288 +1,316 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"El amor todo lo puede; es un privilegio inmenso, una aventura espléndida.",
-    "length":"72",
-    "author":"Pablo Neruda",
-    "tags":[
-    "amor",
-    "privilegio",
-    "aventura"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"1"
-    },
-    {
-    "quote":"El amor no hace que el mundo gire, pero sí que dé algunas vueltas increíbles.",
-    "length":"76",
-    "author":"Joe Moore",
-    "tags":[
-    "amor",
-    "mundo",
-    "vueltas"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"2"
-    },
-    {
-    "quote":"El amor es la fuerza más poderosa del universo.",
-    "length":"47",
-    "author":"Martin Luther King Jr.",
-    "tags":[
-    "amor",
-    "fuerza",
-    "universo"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"3"
-    },
-    {
-    "quote":"Donde hay amor hay vida.",
-    "length":"25",
-    "author":"Mahatma Gandhi",
-    "tags":[
-    "amor",
-    "vida"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"4"
-    },
-    {
-    "quote":"El amor es paciente, el amor es amable.",
-    "length":"38",
-    "author":"Biblia",
-    "tags":[
-    "amor",
-    "paciencia",
-    "amabilidad"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"5"
-    },
-    {
-    "quote":"El amor es la única fuerza capaz de transformar un alma.",
-    "length":"56",
-    "author":"Simone de Beauvoir",
-    "tags":[
-    "amor",
-    "fuerza",
-    "transformación"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"6"
-    },
-    {
-    "quote":"El amor es como una amistad en llamas.",
-    "length":"39",
-    "author":"Carolina Oltra Albiñana",
-    "tags":[
-    "amor",
-    "amistad",
-    "llamas"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"7"
-    },
-    {
-    "quote":"El amor es la única locura a la que vale la pena entregarse.",
-    "length":"59",
-    "author":"André Breton",
-    "tags":[
-    "amor",
-    "locura",
-    "entrega"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"8"
-    },
-    {
-    "quote":"El amor es el vínculo más fuerte del mundo.",
-    "length":"43",
-    "author":"Anónimo",
-    "tags":[
-    "amor",
-    "vínculo",
-    "mundo"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"9"
-    },
-    {
-    "quote":"El amor verdadero no tiene precio, pero sí un valor infinito.",
-    "length":"58",
-    "author":"Anónimo",
-    "tags":[
-    "amor",
-    "verdadero",
-    "valor"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"10"
-    },
-    {
-    "quote":"El amor es la respuesta a todas las preguntas.",
-    "length":"45",
-    "author":"Anónimo",
-    "tags":[
-    "amor",
-    "respuesta",
-    "preguntas"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"11"
-    },
-    {
-    "quote":"El amor debe ser recíproco para ser real.",
-    "length":"39",
-    "author":"Lao Tzu",
-    "tags":[
-    "amor",
-    "reciprocidad",
-    "realidad"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"12"
-    },
-    {
-    "quote":"El amor es el único rayo de luz que puede disipar las tinieblas.",
-    "length":"61",
-    "author":"León Tolstói",
-    "tags":[
-    "amor",
-    "luz",
-    "tinieblas"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"13"
-    },
-    {
-    "quote":"El amor abre los ojos del alma.",
-    "length":"30",
-    "author":"Anónimo",
-    "tags":[
-    "amor",
-    "alma",
-    "visión"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"14"
-    },
-    {
-    "quote":"El amor enciende miles de soles.",
-    "length":"31",
-    "author":"Rabindranath Tagore",
-    "tags":[
-    "amor",
-    "soles",
-    "luz"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"15"
-    },
-    {
-    "quote":"El amor es un arcoíris entre dos almas.",
-    "length":"38",
-    "author":"Khalil Gibran",
-    "tags":[
-    "amor",
-    "arcoíris",
-    "almas"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"16"
-    },
-    {
-    "quote":"El amor lo remedia todo, menos la falta de amor.",
-    "length":"48",
-    "author":"Gabriel García Márquez",
-    "tags":[
-    "amor",
-    "remedio",
-    "falta"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"17"
-    },
-    {
-    "quote":"Hay un solo amor, pero hay mil maneras diferentes de expresarlo.",
-    "length":"62",
-    "author":"Anónimo",
-    "tags":[
-    "amor",
-    "expresión",
-    "maneras"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"18"
-    },
-    {
-    "quote":"El amor es ciego, pero el matrimonio le devuelve la vista.",
-    "length":"56",
-    "author":"Milton Berle",
-    "tags":[
-    "amor",
-    "ceguera",
-    "matrimonio"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"19"
-    },
-    {
-    "quote":"El amor es la única respuesta a todas las preguntas.",
-    "length":"50",
-    "author":"Anónimo",
-    "tags":[
-    "amor",
-    "respuestas",
-    "preguntas"
-    ],
-    "category":"love",
-    "date":"2023-08-08",
-    "title":"Frase del día sobre el amor",
-    "id":"20"
-    }
-    ]
-    }
-    }
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "Ama y haz lo que quieras. Si callas, callarás con amor; si gritas, gritarás con amor; si corriges, corregirás con amor, si perdonas, perdonarás con amor.",
+				"length": "132",
+				"author": {
+					"name": "San Agustín",
+					"nationality": "Argelino",
+					"profession": "Filósofo y Teólogo",
+					"field": "Filosofía y Teología"
+				},
+				"tags": ["amor", "libertad", "perdón", "compasión"],
+				"category": "love",
+				"date": "13/11/354",
+				"title": "Cita sobre el amor",
+				"id": "1"
+			},
+			{
+				"quote": "El amor es una condición en la que la felicidad de otra persona es esencial para tu propia felicidad.",
+				"length": "93",
+				"author": {
+					"name": "Robert Heinlein",
+					"nationality": "Estadounidense",
+					"profession": "Escritor",
+					"field": "Ciencia Ficción"
+				},
+				"tags": ["amor", "felicidad", "conexión", "bienestar"],
+				"category": "love",
+				"date": "07/07/1907",
+				"title": "Cita sobre el amor",
+				"id": "2"
+			},
+			{
+				"quote": "Amar no es solamente querer, es sobre todo comprender.",
+				"length": "56",
+				"author": {
+					"name": "Françoise Sagan",
+					"nationality": "Francesa",
+					"profession": "Escritora",
+					"field": "Literatura"
+				},
+				"tags": ["amor", "comprensión", "empatía", "afecto"],
+				"category": "love",
+				"date": "21/06/1935",
+				"title": "Cita sobre el amor",
+				"id": "3"
+			},
+			{
+				"quote": "El amor es la fuerza más humilde, pero la más poderosa de la que dispone el mundo.",
+				"length": "83",
+				"author": {
+					"name": "Mahatma Gandhi",
+					"nationality": "Indio",
+					"profession": "Político y Activista",
+					"field": "Derechos Civiles"
+				},
+				"tags": ["amor", "fuerza", "poder", "humanidad"],
+				"category": "love",
+				"date": "02/10/1869",
+				"title": "Cita sobre el amor",
+				"id": "4"
+			},
+			{
+				"quote": "Ser profundamente amado te da fuerza, amar profundamente a alguien te da valor.",
+				"length": "81",
+				"author": {
+					"name": "Lao Tzu",
+					"nationality": "Chino",
+					"profession": "Filósofo",
+					"field": "Taoísmo"
+				},
+				"tags": ["amor", "fuerza", "valor", "confianza"],
+				"category": "love",
+				"date": "01/01/604 a.C.",
+				"title": "Cita sobre el amor",
+				"id": "5"
+			},
+			{
+				"quote": "El amor es un acto de perdón infinito. Una mirada tierna que se vuelve hábito.",
+				"length": "77",
+				"author": {
+					"name": "Peter Ustinov",
+					"nationality": "Británico",
+					"profession": "Actor y Escritor",
+					"field": "Cine y Teatro"
+				},
+				"tags": ["amor", "perdón", "ternura", "hábito"],
+				"category": "love",
+				"date": "16/04/1921",
+				"title": "Cita sobre el amor",
+				"id": "6"
+			},
+			{
+				"quote": "El amor consiste en encontrar en la felicidad de otro tu propia felicidad.",
+				"length": "71",
+				"author": {
+					"name": "Gottfried Leibniz",
+					"nationality": "Alemán",
+					"profession": "Filósofo y Matemático",
+					"field": "Filosofía y Matemáticas"
+				},
+				"tags": ["amor", "felicidad", "compartir", "alegría"],
+				"category": "love",
+				"date": "01/07/1646",
+				"title": "Cita sobre el amor",
+				"id": "7"
+			},
+			{
+				"quote": "Donde hay amor hay vida.",
+				"length": "24",
+				"author": {
+					"name": "Mahatma Gandhi",
+					"nationality": "Indio",
+					"profession": "Político y Activista",
+					"field": "Derechos Civiles"
+				},
+				"tags": ["amor", "vida", "energía", "esperanza"],
+				"category": "love",
+				"date": "02/10/1869",
+				"title": "Cita sobre el amor",
+				"id": "8"
+			},
+			{
+				"quote": "Amarse a uno mismo es el comienzo de una historia de amor eterna.",
+				"length": "66",
+				"author": {
+					"name": "Oscar Wilde",
+					"nationality": "Irlandés",
+					"profession": "Escritor y Poeta",
+					"field": "Literatura"
+				},
+				"tags": [
+					"amor propio",
+					"aceptación",
+					"autoestima",
+					"eternidad"
+				],
+				"category": "love",
+				"date": "16/10/1854",
+				"title": "Cita sobre el amor",
+				"id": "9"
+			},
+			{
+				"quote": "Te amo no por quien eres, sino por quien soy cuando estoy contigo.",
+				"length": "65",
+				"author": {
+					"name": "Gabriel García Márquez",
+					"nationality": "Colombiano",
+					"profession": "Escritor",
+					"field": "Literatura"
+				},
+				"tags": ["amor", "autenticidad", "aceptación", "compañía"],
+				"category": "love",
+				"date": "06/03/1927",
+				"title": "Cita sobre el amor",
+				"id": "10"
+			},
+			{
+				"quote": "El amor es un juego que pueden jugar dos personas y ganar ambas.",
+				"length": "65",
+				"author": {
+					"name": "Eva Gabor",
+					"nationality": "Húngara",
+					"profession": "Actriz",
+					"field": "Cine"
+				},
+				"tags": ["amor", "juego", "ganar", "felicidad"],
+				"category": "love",
+				"date": "11/02/1919",
+				"title": "Cita sobre el amor",
+				"id": "11"
+			},
+			{
+				"quote": "La medida del amor es amar sin medida.",
+				"length": "38",
+				"author": {
+					"name": "San Agustín",
+					"nationality": "Argelino",
+					"profession": "Filósofo y Teólogo",
+					"field": "Filosofía y Teología"
+				},
+				"tags": ["amor", "incondicional", "ilimitado", "profundo"],
+				"category": "love",
+				"date": "13/11/354",
+				"title": "Cita sobre el amor",
+				"id": "12"
+			},
+			{
+				"quote": "El amor es la única libertad en un mundo donde todo está sujeto al cálculo de probabilidades.",
+				"length": "91",
+				"author": {
+					"name": "Milan Kundera",
+					"nationality": "Checo",
+					"profession": "Escritor",
+					"field": "Literatura"
+				},
+				"tags": ["amor", "libertad", "probabilidad", "destino"],
+				"category": "love",
+				"date": "01/04/1929",
+				"title": "Cita sobre el amor",
+				"id": "13"
+			},
+			{
+				"quote": "El amor es como el viento, no puedes verlo, pero puedes sentirlo.",
+				"length": "67",
+				"author": {
+					"name": "Nicholas Sparks",
+					"nationality": "Estadounidense",
+					"profession": "Escritor",
+					"field": "Romance"
+				},
+				"tags": ["amor", "invisible", "sentimiento", "presencia"],
+				"category": "love",
+				"date": "31/12/1965",
+				"title": "Cita sobre el amor",
+				"id": "14"
+			},
+			{
+				"quote": "El amor no se mira, se siente, y aún más cuando ella está junto a ti.",
+				"length": "66",
+				"author": {
+					"name": "Pablo Neruda",
+					"nationality": "Chileno",
+					"profession": "Poeta",
+					"field": "Poesía"
+				},
+				"tags": ["amor", "sentimiento", "presencia", "cercanía"],
+				"category": "love",
+				"date": "12/07/1904",
+				"title": "Cita sobre el amor",
+				"id": "15"
+			},
+			{
+				"quote": "Ama hasta que te duela. Si te duele es buena señal.",
+				"length": "51",
+				"author": {
+					"name": "Madre Teresa de Calcuta",
+					"nationality": "India",
+					"profession": "Misionera",
+					"field": "Humanitarismo"
+				},
+				"tags": ["amor", "dolor", "intensidad", "entrega"],
+				"category": "love",
+				"date": "26/08/1910",
+				"title": "Cita sobre el amor",
+				"id": "16"
+			},
+			{
+				"quote": "El amor es un secreto que los ojos no saben guardar.",
+				"length": "53",
+				"author": {
+					"name": "Proverbio africano",
+					"nationality": "Africano",
+					"profession": "Proverbio",
+					"field": "Cultura popular"
+				},
+				"tags": ["amor", "secreto", "evidente", "mirada"],
+				"category": "love",
+				"date": "01/01/1000",
+				"title": "Cita sobre el amor",
+				"id": "17"
+			},
+			{
+				"quote": "El amor no domina, cultiva.",
+				"length": "27",
+				"author": {
+					"name": "Johann Wolfgang von Goethe",
+					"nationality": "Alemán",
+					"profession": "Escritor y Poeta",
+					"field": "Literatura"
+				},
+				"tags": ["amor", "cultivar", "crecer", "libertad"],
+				"category": "love",
+				"date": "28/08/1749",
+				"title": "Cita sobre el amor",
+				"id": "18"
+			},
+			{
+				"quote": "Amar no es mirarse el uno al otro, es mirar juntos en la misma dirección.",
+				"length": "74",
+				"author": {
+					"name": "Antoine de Saint-Exupéry",
+					"nationality": "Francés",
+					"profession": "Escritor y Aviador",
+					"field": "Literatura"
+				},
+				"tags": ["amor", "complicidad", "futuro", "compañerismo"],
+				"category": "love",
+				"date": "29/06/1900",
+				"title": "Cita sobre el amor",
+				"id": "19"
+			},
+			{
+				"quote": "El amor es la respuesta, sin importar cuál sea la pregunta.",
+				"length": "57",
+				"author": {
+					"name": "Wayne Dyer",
+					"nationality": "Estadounidense",
+					"profession": "Autor y Conferencista",
+					"field": "Autoayuda"
+				},
+				"tags": ["amor", "respuesta", "solución", "vida"],
+				"category": "love",
+				"date": "10/05/1940",
+				"title": "Cita sobre el amor",
+				"id": "20"
+			}
+		]
+	}
+}

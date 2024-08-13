@@ -1,297 +1,410 @@
 {
-    "success":{
-    "total":20
-    },
-    "contents":{
-    "quotes":[
-    {
-    "quote":"La sabiduría es hija de la experiencia.",
-    "length":"38",
-    "author":"Leonardo da Vinci",
-    "tags":[
-    "sabiduría",
-    "experiencia"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"1"
-    },
-    {
-    "quote":"El conocimiento habla, pero la sabiduría escucha.",
-    "length":"47",
-    "author":"Jimi Hendrix",
-    "tags":[
-    "conocimiento",
-    "sabiduría",
-    "escuchar"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"2"
-    },
-    {
-    "quote":"La sabiduría es el resultado de una vida bien vivida.",
-    "length":"52",
-    "author":"Sócrates",
-    "tags":[
-    "sabiduría",
-    "vida",
-    "bien vivir"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"3"
-    },
-    {
-    "quote":"La sabiduría no es producto de la instrucción sino de la experiencia.",
-    "length":"67",
-    "author":"Albert Einstein",
-    "tags":[
-    "sabiduría",
-    "instrucción",
-    "experiencia"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"4"
-    },
-    {
-    "quote":"La sabiduría consiste en ser capaz de distinguir lo bueno de lo malo y lo verdadero de lo falso.",
-    "length":"95",
-    "author":"Sócrates",
-    "tags":[
-    "sabiduría",
-    "bueno",
-    "malo",
-    "verdadero",
-    "falso"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"5"
-    },
-    {
-    "quote":"La verdadera sabiduría es estar preparado para la desgracia.",
-    "length":"57",
-    "author":"Esquilo",
-    "tags":[
-    "sabiduría",
-    "desgracia",
-    "preparación"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"6"
-    },
-    {
-    "quote":"La sabiduría es el arte de conocer los límites del conocimiento.",
-    "length":"60",
-    "author":"Platón",
-    "tags":[
-    "sabiduría",
-    "arte",
-    "conocimiento",
-    "límites"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"7"
-    },
-    {
-    "quote":"La sabiduría es la joya del carácter.",
-    "length":"35",
-    "author":"William Rounseville Alger",
-    "tags":[
-    "sabiduría",
-    "carácter",
-    "joya"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"8"
-    },
-    {
-    "quote":"La sabiduría mejor es la que da el tiempo.",
-    "length":"40",
-    "author":"Tito Livio",
-    "tags":[
-    "sabiduría",
-    "tiempo"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"9"
-    },
-    {
-    "quote":"La sabiduría es la quintaesencia de la ciencia, el arte y la filosofía.",
-    "length":"70",
-    "author":"Alfonso Reyes",
-    "tags":[
-    "sabiduría",
-    "ciencia",
-    "arte",
-    "filosofía"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"10"
-    },
-    {
-    "quote":"La sabiduría es la cosa mejor que poseen los hombres para la conducción de la vida.",
-    "length":"81",
-    "author":"Sócrates",
-    "tags":[
-    "sabiduría",
-    "vida",
-    "conducción"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"11"
-    },
-    {
-    "quote":"La verdadera sabiduría no está en acumular conocimientos, sino en saber vivir.",
-    "length":"75",
-    "author":"Lucio Anneo Séneca",
-    "tags":[
-    "sabiduría",
-    "conocimientos",
-    "vivir"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"12"
-    },
-    {
-    "quote":"La sabiduría es como una isla rodeada de tempestades y tormentas. Solo los hábiles pilotos pueden llegar a ella.",
-    "length":"107",
-    "author":"Michel de Montaigne",
-    "tags":[
-    "sabiduría",
-    "isla",
-    "tempestades",
-    "tormentas",
-    "pilotos"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"13"
-    },
-    {
-    "quote":"La sabiduría nos hace ser pacientes con los defectos de los demás.",
-    "length":"63",
-    "author":"Samuel Smiles",
-    "tags":[
-    "sabiduría",
-    "paciencia",
-    "defectos",
-    "otros"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"14"
-    },
-    {
-    "quote":"La verdadera sabiduría está en reconocer la propia ignorancia.",
-    "length":"58",
-    "author":"Sócrates",
-    "tags":[
-    "sabiduría",
-    "ignorancia",
-    "reconocimiento"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"15"
-    },
-    {
-    "quote":"La sabiduría es tener sueños bastante grandes para no perderlos de vista mientras se persiguen.",
-    "length":"92",
-    "author":"Oscar Wilde",
-    "tags":[
-    "sabiduría",
-    "sueños",
-    "perseguir",
-    "vista"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"16"
-    },
-    {
-    "quote":"La verdadera sabiduría consiste en servir mejor a los demás.",
-    "length":"57",
-    "author":"Marco Aurelio",
-    "tags":[
-    "sabiduría",
-    "servicio",
-    "otros"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"17"
-    },
-    {
-    "quote":"La sabiduría suprema es tener sueños bastante grandes para no perderlos de vista mientras se los persigue.",
-    "length":"100",
-    "author":"William Faulkner",
-    "tags":[
-    "sabiduría",
-    "sueños",
-    "vista",
-    "perseguir"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"18"
-    },
-    {
-    "quote":"La sabiduría es saber lo que es necesario hacer después de uno sabe lo que es necesario saber.",
-    "length":"92",
-    "author":"Anónimo",
-    "tags":[
-    "sabiduría",
-    "necesidad",
-    "saber",
-    "hacer"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"19"
-    },
-    {
-    "quote":"La verdadera sabiduría está en ver las cosas como son, sin distorsionarlas.",
-    "length":"73",
-    "author":"Anónimo",
-    "tags":[
-    "sabiduría",
-    "verdad",
-    "distorsión"
-    ],
-    "category":"wisdom",
-    "date":"2023-08-08",
-    "title":"Frase sabia del día",
-    "id":"20"
-    }
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La verdadera sabiduría es reconocer la propia ignorancia y estar siempre dispuesto a aprender de los demás. Sólo así se puede crecer en conocimiento y entendimiento.",
+        "length": "149",
+        "author": {
+          "name": "Sócrates",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía y Sabiduría"
+        },
+        "tags": [
+          "reconocimiento de la ignorancia",
+          "aprendizaje de los demás",
+          "crecimiento en conocimiento",
+          "entendimiento"
+        ],
+        "category": "wisdom",
+        "date": "-470",
+        "title": "Cita sobre la sabiduría",
+        "id": "1"
+      },
+      {
+        "quote": "La sabiduría implica discernimiento, prudencia y la capacidad de ver más allá de las apariencias. Es la guía que nos permite tomar decisiones acertadas.",
+        "length": "149",
+        "author": {
+          "name": "Confucio",
+          "nationality": "Chino",
+          "profession": "Filósofo y Maestro",
+          "field": "Filosofía y Sabiduría Confuciana"
+        },
+        "tags": [
+          "discernimiento",
+          "prudencia",
+          "ver más allá de las apariencias",
+          "toma de decisiones acertadas"
+        ],
+        "category": "wisdom",
+        "date": "-551",
+        "title": "Cita sobre la sabiduría",
+        "id": "2"
+      },
+      {
+        "quote": "La sabiduría es la capacidad de aplicar el conocimiento de manera efectiva, con entendimiento y juicio. Es la brújula que nos guía en el viaje de la vida.",
+        "length": "153",
+        "author": {
+          "name": "Aristóteles",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía y Ética"
+        },
+        "tags": [
+          "aplicación efectiva del conocimiento",
+          "entendimiento",
+          "juicio",
+          "guía en la vida"
+        ],
+        "category": "wisdom",
+        "date": "-384",
+        "title": "Cita sobre la sabiduría",
+        "id": "3"
+      },
+      {
+        "quote": "La verdadera sabiduría radica en la humildad y la apertura mental. Sólo así podremos aprender de nuestras experiencias y crecer como seres humanos.",
+        "length": "145",
+        "author": {
+          "name": "Buda",
+          "nationality": "Indio",
+          "profession": "Maestro Espiritual",
+          "field": "Filosofía y Espiritualidad Budista"
+        },
+        "tags": [
+          "humildad",
+          "apertura mental",
+          "aprendizaje de experiencias",
+          "crecimiento personal"
+        ],
+        "category": "wisdom",
+        "date": "-560",
+        "title": "Cita sobre la sabiduría",
+        "id": "4"
+      },
+      {
+        "quote": "La sabiduría se manifiesta en la capacidad de ver las cosas desde múltiples perspectivas, de cuestionar los supuestos y de adaptarse a los cambios con flexibilidad.",
+        "length": "149",
+        "author": {
+          "name": "Bertrand Russell",
+          "nationality": "Británico",
+          "profession": "Filósofo y Matemático",
+          "field": "Filosofía y Lógica"
+        },
+        "tags": [
+          "diferentes perspectivas",
+          "cuestionamiento de supuestos",
+          "adaptación a cambios",
+          "flexibilidad"
+        ],
+        "category": "wisdom",
+        "date": "1872",
+        "title": "Cita sobre la sabiduría",
+        "id": "5"
+      },
+      {
+        "quote": "La sabiduría es la capacidad de discernir lo esencial de lo superfluo, de separar lo verdadero de lo falso, y de actuar con prudencia y buen juicio.",
+        "length": "146",
+        "author": {
+          "name": "Cicerón",
+          "nationality": "Romano",
+          "profession": "Orador y Político",
+          "field": "Filosofía y Retórica"
+        },
+        "tags": [
+          "discernimiento",
+          "separación de lo verdadero y falso",
+          "prudencia",
+          "buen juicio"
+        ],
+        "category": "wisdom",
+        "date": "-106",
+        "title": "Cita sobre la sabiduría",
+        "id": "6"
+      },
+      {
+        "quote": "La sabiduría es la capacidad de comprender la naturaleza de las cosas, de ver más allá de las apariencias y de actuar con integridad y coherencia.",
+        "length": "142",
+        "author": {
+          "name": "Platón",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía y Metafísica"
+        },
+        "tags": [
+          "comprensión de la naturaleza de las cosas",
+          "ver más allá de las apariencias",
+          "integridad",
+          "coherencia"
+        ],
+        "category": "wisdom",
+        "date": "-428",
+        "title": "Cita sobre la sabiduría",
+        "id": "7"
+      },
+      {
+        "quote": "La sabiduría implica el equilibrio entre la razón y la emoción, la capacidad de ver las cosas con claridad y de tomar decisiones con discernimiento.",
+        "length": "144",
+        "author": {
+          "name": "Séneca",
+          "nationality": "Romano",
+          "profession": "Filósofo y Político",
+          "field": "Filosofía Estoica"
+        },
+        "tags": [
+          "equilibrio entre razón y emoción",
+          "claridad de visión",
+          "toma de decisiones con discernimiento"
+        ],
+        "category": "wisdom",
+        "date": "-4",
+        "title": "Cita sobre la sabiduría",
+        "id": "8"
+      },
+      {
+        "quote": "La sabiduría es la capacidad de aprender de los errores, de adaptarse a los cambios y de encontrar soluciones creativas a los problemas de la vida.",
+        "length": "138",
+        "author": {
+          "name": "Gandhi",
+          "nationality": "Indio",
+          "profession": "Líder Político y Espiritual",
+          "field": "Filosofía y Espiritualidad"
+        },
+        "tags": [
+          "aprendizaje de errores",
+          "adaptación a cambios",
+          "soluciones creativas",
+          "problemas de la vida"
+        ],
+        "category": "wisdom",
+        "date": "1869",
+        "title": "Cita sobre la sabiduría",
+        "id": "9"
+      },
+      {
+        "quote": "La sabiduría es la virtud que nos permite tomar decisiones con claridad, actuar con integridad y enfrentar los desafíos de la vida con fortaleza y compostura.",
+        "length": "151",
+        "author": {
+          "name": "Marcus Aurelio",
+          "nationality": "Romano",
+          "profession": "Emperador y Filósofo",
+          "field": "Filosofía Estoica"
+        },
+        "tags": [
+          "toma de decisiones con claridad",
+          "integridad",
+          "enfrentar desafíos",
+          "fortaleza y compostura"
+        ],
+        "category": "wisdom",
+        "date": "121",
+        "title": "Cita sobre la sabiduría",
+        "id": "10"
+      },
+       {
+        "quote": "La sabiduría no consiste en tener respuestas a todas las preguntas, sino en saber hacer las preguntas correctas.",
+        "length": "128",
+        "author": {
+          "name": "Socrates",
+          "nationality": "Greek",
+          "profession": "Philosopher",
+          "field": "Philosophy and Wisdom"
+        },
+        "tags": [
+          "wisdom",
+          "questions",
+          "understanding",
+          "philosophy"
+        ],
+        "category": "wisdom",
+        "date": "-470",
+        "title": "Quote on Wisdom",
+        "id": "1"
+      },
+      {
+        "quote": "La verdadera sabiduría radica en reconocer la propia ignorancia y estar dispuesto a aprender siempre.",
+        "length": "115",
+        "author": {
+          "name": "Confucius",
+          "nationality": "Chinese",
+          "profession": "Philosopher",
+          "field": "Confucianism and Wisdom"
+        },
+        "tags": [
+          "wisdom",
+          "ignorance",
+          "learning",
+          "self-awareness"
+        ],
+        "category": "wisdom",
+        "date": "-551",
+        "title": "Quote on Wisdom",
+        "id": "2"
+      },
+      {
+        "quote": "La sabiduría es la capacidad de aplicar el conocimiento de manera efectiva para guiar nuestras decisiones.",
+        "length": "121",
+        "author": {
+          "name": "Aristotle",
+          "nationality": "Greek",
+          "profession": "Philosopher",
+          "field": "Philosophy and Ethics"
+        },
+        "tags": [
+          "wisdom",
+          "knowledge",
+          "decision-making",
+          "guidance"
+        ],
+        "category": "wisdom",
+        "date": "-384",
+        "title": "Quote on Wisdom",
+        "id": "3"
+      },
+      {
+        "quote": "La sabiduría verdadera está en la humildad y la capacidad de aprender de cada experiencia.",
+        "length": "110",
+        "author": {
+          "name": "Buddha",
+          "nationality": "Indian",
+          "profession": "Spiritual Teacher",
+          "field": "Buddhist Philosophy"
+        },
+        "tags": [
+          "wisdom",
+          "humility",
+          "learning",
+          "experience"
+        ],
+        "category": "wisdom",
+        "date": "-560",
+        "title": "Quote on Wisdom",
+        "id": "4"
+      },
+      {
+        "quote": "La sabiduría se manifiesta en la capacidad de cuestionar lo establecido y adaptarse a nuevas realidades con flexibilidad.",
+        "length": "137",
+        "author": {
+          "name": "Bertrand Russell",
+          "nationality": "British",
+          "profession": "Philosopher and Mathematician",
+          "field": "Philosophy and Logic"
+        },
+        "tags": [
+          "wisdom",
+          "questioning",
+          "adaptation",
+          "flexibility"
+        ],
+        "category": "wisdom",
+        "date": "1872",
+        "title": "Quote on Wisdom",
+        "id": "5"
+      },
+      {
+        "quote": "La sabiduría es la capacidad de distinguir entre lo esencial y lo superfluo, y actuar con prudencia.",
+        "length": "113",
+        "author": {
+          "name": "Cicero",
+          "nationality": "Roman",
+          "profession": "Orator and Politician",
+          "field": "Philosophy and Rhetoric"
+        },
+        "tags": [
+          "wisdom",
+          "discernment",
+          "prudence",
+          "essentials"
+        ],
+        "category": "wisdom",
+        "date": "-106",
+        "title": "Quote on Wisdom",
+        "id": "6"
+      },
+      {
+        "quote": "La verdadera sabiduría es la capacidad de entender la realidad y actuar con integridad.",
+        "length": "106",
+        "author": {
+          "name": "Plato",
+          "nationality": "Greek",
+          "profession": "Philosopher",
+          "field": "Philosophy and Metaphysics"
+        },
+        "tags": [
+          "wisdom",
+          "understanding",
+          "integrity",
+          "reality"
+        ],
+        "category": "wisdom",
+        "date": "-428",
+        "title": "Quote on Wisdom",
+        "id": "7"
+      },
+      {
+        "quote": "La sabiduría es el equilibrio entre la razón y la emoción, y la capacidad de tomar decisiones acertadas.",
+        "length": "123",
+        "author": {
+          "name": "Seneca",
+          "nationality": "Roman",
+          "profession": "Philosopher and Politician",
+          "field": "Stoic Philosophy"
+        },
+        "tags": [
+          "wisdom",
+          "balance",
+          "reason",
+          "decision-making"
+        ],
+        "category": "wisdom",
+        "date": "-4",
+        "title": "Quote on Wisdom",
+        "id": "8"
+      },
+      {
+        "quote": "La sabiduría es aprender de los errores, adaptarse a los cambios y encontrar soluciones creativas.",
+        "length": "114",
+        "author": {
+          "name": "Gandhi",
+          "nationality": "Indian",
+          "profession": "Political and Spiritual Leader",
+          "field": "Philosophy and Spirituality"
+        },
+        "tags": [
+          "wisdom",
+          "learning",
+          "adaptation",
+          "creativity"
+        ],
+        "category": "wisdom",
+        "date": "1869",
+        "title": "Quote on Wisdom",
+        "id": "9"
+      },
+      {
+        "quote": "La sabiduría es la virtud de tomar decisiones claras y enfrentar los desafíos con fortaleza.",
+        "length": "108",
+        "author": {
+          "name": "Marcus Aurelius",
+          "nationality": "Roman",
+          "profession": "Emperor and Philosopher",
+          "field": "Stoic Philosophy"
+        },
+        "tags": [
+          "wisdom",
+          "clarity",
+          "fortitude",
+          "challenges"
+        ],
+        "category": "wisdom",
+        "date": "121",
+        "title": "Quote on Wisdom",
+        "id": "10"
+      }
     ]
-    }
-    }
+  }
+}

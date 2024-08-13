@@ -1,0 +1,326 @@
+{
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "El deporte tiene el poder de cambiar el mundo. Tiene el poder de inspirar, de unir a la gente como pocas otras cosas.",
+				"length": "118",
+				"author": {
+					"name": "Nelson Mandela",
+					"nationality": "Sudafricana",
+					"profession": "Político y activista",
+					"field": "Derechos humanos y política"
+				},
+				"tags": ["inspiración", "unidad", "cambio", "deporte"],
+				"category": "sport",
+				"date": "18/07/1918",
+				"title": "Quote on the power of sport",
+				"id": "1"
+			},
+			{
+				"quote": "Ganar no lo es todo, pero el esfuerzo por ganar sí lo es.",
+				"length": "61",
+				"author": {
+					"name": "Vince Lombardi",
+					"nationality": "Estadounidense",
+					"profession": "Entrenador de fútbol americano",
+					"field": "Deporte y liderazgo"
+				},
+				"tags": ["esfuerzo", "victoria", "competición", "actitud"],
+				"category": "sport",
+				"date": "11/06/1913",
+				"title": "Quote on effort in sports",
+				"id": "2"
+			},
+			{
+				"quote": "El deporte es una escuela de vida donde se aprende a ganar con humildad y a perder con dignidad.",
+				"length": "98",
+				"author": {
+					"name": "Juan Antonio Samaranch",
+					"nationality": "Española",
+					"profession": "Presidente del COI",
+					"field": "Administración deportiva"
+				},
+				"tags": ["aprendizaje", "humildad", "dignidad", "deporte"],
+				"category": "sport",
+				"date": "17/07/1920",
+				"title": "Quote on sports as life lessons",
+				"id": "3"
+			},
+			{
+				"quote": "En el deporte, como en la vida, la práctica es la base del perfeccionamiento.",
+				"length": "75",
+				"author": {
+					"name": "Richard Nixon",
+					"nationality": "Estadounidense",
+					"profession": "Político y abogado",
+					"field": "Política y deporte"
+				},
+				"tags": [
+					"práctica",
+					"perfeccionamiento",
+					"disciplina",
+					"deporte"
+				],
+				"category": "sport",
+				"date": "09/01/1913",
+				"title": "Quote on practice in sports",
+				"id": "4"
+			},
+			{
+				"quote": "El dolor es temporal. La gloria es para siempre.",
+				"length": "49",
+				"author": {
+					"name": "Lance Armstrong",
+					"nationality": "Estadounidense",
+					"profession": "Ciclista",
+					"field": "Ciclismo"
+				},
+				"tags": ["esfuerzo", "gloria", "superación", "deporte"],
+				"category": "sport",
+				"date": "18/09/1971",
+				"title": "Quote on pain and glory in sports",
+				"id": "5"
+			},
+			{
+				"quote": "El deporte es la mejor forma de comunicación entre las personas de todo el mundo.",
+				"length": "85",
+				"author": {
+					"name": "Didier Drogba",
+					"nationality": "Marfileña",
+					"profession": "Futbolista",
+					"field": "Fútbol"
+				},
+				"tags": ["comunicación", "unidad", "globalidad", "deporte"],
+				"category": "sport",
+				"date": "11/03/1978",
+				"title": "Quote on sport as global communication",
+				"id": "6"
+			},
+			{
+				"quote": "El éxito no es un accidente. Es trabajo duro, perseverancia, aprendizaje, estudio, sacrificio y, sobre todo, amor por lo que estás haciendo.",
+				"length": "144",
+				"author": {
+					"name": "Pelé",
+					"nationality": "Brasileña",
+					"profession": "Futbolista",
+					"field": "Fútbol"
+				},
+				"tags": ["éxito", "trabajo duro", "perseverancia", "pasión"],
+				"category": "sport",
+				"date": "23/10/1940",
+				"title": "Quote on success in sports",
+				"id": "7"
+			},
+			{
+				"quote": "No se trata de cuántas veces caes, sino de cuántas veces te levantas.",
+				"length": "73",
+				"author": {
+					"name": "Mia Hamm",
+					"nationality": "Estadounidense",
+					"profession": "Futbolista",
+					"field": "Fútbol femenino"
+				},
+				"tags": [
+					"resiliencia",
+					"perseverancia",
+					"superación",
+					"deporte"
+				],
+				"category": "sport",
+				"date": "17/03/1972",
+				"title": "Quote on resilience in sports",
+				"id": "8"
+			},
+			{
+				"quote": "El deporte no construye el carácter. Lo revela.",
+				"length": "51",
+				"author": {
+					"name": "Heywood Broun",
+					"nationality": "Estadounidense",
+					"profession": "Periodista deportivo",
+					"field": "Periodismo deportivo"
+				},
+				"tags": ["carácter", "revelación", "personalidad", "deporte"],
+				"category": "sport",
+				"date": "07/12/1888",
+				"title": "Quote on sport revealing character",
+				"id": "9"
+			},
+			{
+				"quote": "Los campeones siguen jugando hasta que lo hacen bien.",
+				"length": "56",
+				"author": {
+					"name": "Billie Jean King",
+					"nationality": "Estadounidense",
+					"profession": "Tenista",
+					"field": "Tenis"
+				},
+				"tags": ["perseverancia", "excelencia", "victoria", "deporte"],
+				"category": "sport",
+				"date": "22/11/1943",
+				"title": "Quote on champions' persistence",
+				"id": "10"
+			},
+			{
+				"quote": "El deporte es una metáfora de la vida. Si trabajas duro, obtienes resultados.",
+				"length": "79",
+				"author": {
+					"name": "Michael Jordan",
+					"nationality": "Estadounidense",
+					"profession": "Baloncestista",
+					"field": "Baloncesto"
+				},
+				"tags": ["trabajo duro", "resultados", "vida", "deporte"],
+				"category": "sport",
+				"date": "17/02/1963",
+				"title": "Quote on sport as a metaphor for life",
+				"id": "11"
+			},
+			{
+				"quote": "En el deporte, la mente es tan importante como el cuerpo. A veces, incluso más.",
+				"length": "82",
+				"author": {
+					"name": "Gary Neville",
+					"nationality": "Inglesa",
+					"profession": "Futbolista y entrenador",
+					"field": "Fútbol"
+				},
+				"tags": ["mente", "cuerpo", "equilibrio", "deporte"],
+				"category": "sport",
+				"date": "18/02/1975",
+				"title": "Quote on mind-body balance in sports",
+				"id": "12"
+			},
+			{
+				"quote": "El deporte tiene el poder de superar las viejas divisiones y crear el vínculo de aspiraciones compartidas.",
+				"length": "106",
+				"author": {
+					"name": "Sebastian Coe",
+					"nationality": "Británica",
+					"profession": "Atleta y político",
+					"field": "Atletismo y administración deportiva"
+				},
+				"tags": ["unidad", "superación", "aspiraciones", "deporte"],
+				"category": "sport",
+				"date": "29/09/1956",
+				"title": "Quote on sport overcoming divisions",
+				"id": "13"
+			},
+			{
+				"quote": "El mejor atleta no es el más fuerte, sino el que nunca se rinde.",
+				"length": "69",
+				"author": {
+					"name": "Nadia Comăneci",
+					"nationality": "Rumana",
+					"profession": "Gimnasta",
+					"field": "Gimnasia"
+				},
+				"tags": [
+					"perseverancia",
+					"determinación",
+					"fortaleza",
+					"deporte"
+				],
+				"category": "sport",
+				"date": "12/11/1961",
+				"title": "Quote on perseverance in sports",
+				"id": "14"
+			},
+			{
+				"quote": "El deporte es la única causa que puede hacer que me levante de la cama a las cuatro y media de la mañana.",
+				"length": "108",
+				"author": {
+					"name": "Rafael Nadal",
+					"nationality": "Española",
+					"profession": "Tenista",
+					"field": "Tenis"
+				},
+				"tags": ["pasión", "dedicación", "motivación", "deporte"],
+				"category": "sport",
+				"date": "03/06/1986",
+				"title": "Quote on passion for sports",
+				"id": "15"
+			},
+			{
+				"quote": "El deporte es una guerra sin armas.",
+				"length": "37",
+				"author": {
+					"name": "George Orwell",
+					"nationality": "Británica",
+					"profession": "Escritor",
+					"field": "Literatura"
+				},
+				"tags": ["competición", "guerra", "metáfora", "deporte"],
+				"category": "sport",
+				"date": "25/06/1903",
+				"title": "Quote on sport as metaphorical war",
+				"id": "16"
+			},
+			{
+				"quote": "En el deporte, la diversidad en la personalidad es algo bueno. Hace que el deporte sea colorido.",
+				"length": "95",
+				"author": {
+					"name": "Martina Navratilova",
+					"nationality": "Checo-estadounidense",
+					"profession": "Tenista",
+					"field": "Tenis"
+				},
+				"tags": ["diversidad", "personalidad", "riqueza", "deporte"],
+				"category": "sport",
+				"date": "18/10/1956",
+				"title": "Quote on diversity in sports",
+				"id": "17"
+			},
+			{
+				"quote": "El deporte es un lenguaje universal que puede unir a las personas, sin importar su origen, creencias o situación económica.",
+				"length": "127",
+				"author": {
+					"name": "Kofi Annan",
+					"nationality": "Ghanesa",
+					"profession": "Diplomático",
+					"field": "Relaciones internacionales"
+				},
+				"tags": ["unidad", "universalidad", "igualdad", "deporte"],
+				"category": "sport",
+				"date": "08/04/1938",
+				"title": "Quote on sport as a universal language",
+				"id": "18"
+			},
+			{
+				"quote": "Lo que separa a los buenos de los grandes es la atención al detalle.",
+				"length": "69",
+				"author": {
+					"name": "John Wooden",
+					"nationality": "Estadounidense",
+					"profession": "Entrenador de baloncesto",
+					"field": "Baloncesto"
+				},
+				"tags": ["detalle", "excelencia", "atención", "deporte"],
+				"category": "sport",
+				"date": "14/10/1910",
+				"title": "Quote on attention to detail in sports",
+				"id": "19"
+			},
+			{
+				"quote": "El deporte tiene el poder de inspirar y unir a las personas de una manera que pocas otras cosas pueden lograr.",
+				"length": "110",
+				"author": {
+					"name": "Usain Bolt",
+					"nationality": "Jamaicana",
+					"profession": "Atleta",
+					"field": "Atletismo"
+				},
+				"tags": ["inspiración", "unidad", "poder", "deporte"],
+				"category": "sport",
+				"date": "21/08/1986",
+				"title": "Quote on sport's power to inspire and unite",
+				"id": "20"
+			}
+		]
+	}
+}

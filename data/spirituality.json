@@ -1,289 +1,371 @@
 {
-    "success":{
-       "total":20
-    },
-    "contents":{
-       "quotes":[
-          {
-             "quote":"La espiritualidad es despertar a la divinidad que hay dentro de ti.",
-             "length":"66",
-             "author":"Amit Ray",
-             "tags":[
-                "espiritualidad",
-                "despertar",
-                "divinidad"
-             ],
-             "category":"espiritualidad",
-             "date":"2015-03-21",
-             "title":"Cita espiritual del día",
-             "id":"ES01AR21032015"
-          },
-          {
-             "quote":"El silencio es el lenguaje de Dios, todo lo demás es una mala traducción.",
-             "length":"77",
-             "author":"Rumi",
-             "tags":[
-                "silencio",
-                "Dios",
-                "espiritualidad"
-             ],
-             "category":"espiritualidad",
-             "date":"1260-09-30",
-             "title":"Cita espiritual del día",
-             "id":"ES02RU30091260"
-          },
-          {
-             "quote":"La religión es para quienes temen el infierno. La espiritualidad es para quienes ya han estado allí.",
-             "length":"105",
-             "author":"Vine Deloria Jr.",
-             "tags":[
-                "religión",
-                "espiritualidad",
-                "experiencia"
-             ],
-             "category":"espiritualidad",
-             "date":"1994-11-15",
-             "title":"Cita espiritual del día",
-             "id":"ES03VD15111994"
-          },
-          {
-             "quote":"El alma siempre sabe qué hacer para sanarse a sí misma. El desafío es silenciar la mente.",
-             "length":"93",
-             "author":"Caroline Myss",
-             "tags":[
-                "alma",
-                "sanación",
-                "mente"
-             ],
-             "category":"espiritualidad",
-             "date":"2004-07-09",
-             "title":"Cita espiritual del día",
-             "id":"ES04CM09072004"
-          },
-          {
-             "quote":"La espiritualidad es reconocer y celebrar que estamos todos inextricablemente conectados entre sí por un poder mayor que todos nosotros.",
-             "length":"139",
-             "author":"Brené Brown",
-             "tags":[
-                "conexión",
-                "celebración",
-                "poder"
-             ],
-             "category":"espiritualidad",
-             "date":"2010-06-12",
-             "title":"Cita espiritual del día",
-             "id":"ES05BB12062010"
-          },
-          {
-             "quote":"Tu visión se volverá clara solamente cuando puedas mirar en tu propio corazón.",
-             "length":"84",
-             "author":"Carl Jung",
-             "tags":[
-                "visión",
-                "corazón",
-                "introspección"
-             ],
-             "category":"espiritualidad",
-             "date":"1957-02-18",
-             "title":"Cita espiritual del día",
-             "id":"ES06CJ18021957"
-          },
-          {
-             "quote":"La espiritualidad es la ciencia de la conexión del alma con su fuente.",
-             "length":"71",
-             "author":"Amit Ray",
-             "tags":[
-                "ciencia",
-                "alma",
-                "conexión"
-             ],
-             "category":"espiritualidad",
-             "date":"2017-08-03",
-             "title":"Cita espiritual del día",
-             "id":"ES07AR03082017"
-          },
-          {
-             "quote":"El propósito de la vida es vivir una vida con propósito.",
-             "length":"58",
-             "author":"Richard Leider",
-             "tags":[
-                "propósito",
-                "vida",
-                "significado"
-             ],
-             "category":"espiritualidad",
-             "date":"1997-04-22",
-             "title":"Cita espiritual del día",
-             "id":"ES08RL22041997"
-          },
-          {
-             "quote":"La paz viene desde adentro. No la busques afuera.",
-             "length":"53",
-             "author":"Buda",
-             "tags":[
-                "paz",
-                "interior",
-                "búsqueda"
-             ],
-             "category":"espiritualidad",
-             "date":"528-05-15",
-             "title":"Cita espiritual del día",
-             "id":"ES09BU15055280"
-          },
-          {
-             "quote":"El universo no está fuera de ti. Mira dentro de ti; todo lo que quieres, ya eres.",
-             "length":"85",
-             "author":"Rumi",
-             "tags":[
-                "universo",
-                "interior",
-                "realización"
-             ],
-             "category":"espiritualidad",
-             "date":"1273-12-17",
-             "title":"Cita espiritual del día",
-             "id":"ES10RU17121273"
-          },
-          {
-             "quote":"La espiritualidad es vivir la vida ordinaria con extraordinaria conciencia.",
-             "length":"75",
-             "author":"Osho",
-             "tags":[
-                "vida",
-                "conciencia",
-                "ordinario"
-             ],
-             "category":"espiritualidad",
-             "date":"1985-03-30",
-             "title":"Cita espiritual del día",
-             "id":"ES11OS30031985"
-          },
-          {
-             "quote":"Somos seres espirituales teniendo una experiencia humana.",
-             "length":"62",
-             "author":"Pierre Teilhard de Chardin",
-             "tags":[
-                "ser",
-                "experiencia",
-                "humanidad"
-             ],
-             "category":"espiritualidad",
-             "date":"1955-04-10",
-             "title":"Cita espiritual del día",
-             "id":"ES12PT10041955"
-          },
-          {
-             "quote":"La espiritualidad es la llave maestra que abre todas las puertas.",
-             "length":"64",
-             "author":"Swami Vivekananda",
-             "tags":[
-                "llave",
-                "puertas",
-                "apertura"
-             ],
-             "category":"espiritualidad",
-             "date":"1893-09-11",
-             "title":"Cita espiritual del día",
-             "id":"ES13SV11091893"
-          },
-          {
-             "quote":"El camino espiritual es simplemente el viaje de vivir nuestra vida. Todos ya estamos en un camino espiritual, lo sepamos o no.",
-             "length":"138",
-             "author":"Paulo Coelho",
-             "tags":[
-                "camino",
-                "vida",
-                "conciencia"
-             ],
-             "category":"espiritualidad",
-             "date":"2006-08-24",
-             "title":"Cita espiritual del día",
-             "id":"ES14PC24082006"
-          },
-          {
-             "quote":"La espiritualidad es la conciencia de que todo está conectado.",
-             "length":"63",
-             "author":"Eckhart Tolle",
-             "tags":[
-                "conciencia",
-                "conexión",
-                "unidad"
-             ],
-             "category":"espiritualidad",
-             "date":"2005-10-06",
-             "title":"Cita espiritual del día",
-             "id":"ES15ET06102005"
-          },
-          {
-             "quote":"La verdadera espiritualidad es la del guerrero. No es una huida del mundo, sino un compromiso valiente con la vida.",
-             "length":"118",
-             "author":"Chogyam Trungpa",
-             "tags":[
-                "guerrero",
-                "compromiso",
-                "vida"
-             ],
-             "category":"espiritualidad",
-             "date":"1976-07-20",
-             "title":"Cita espiritual del día",
-             "id":"ES16CT20071976"
-          },
-          {
-             "quote":"La espiritualidad es el arte de estar vivo.",
-             "length":"44",
-             "author":"Thich Nhat Hanh",
-             "tags":[
-                "arte",
-                "vida",
-                "presencia"
-             ],
-             "category":"espiritualidad",
-             "date":"1999-03-14",
-             "title":"Cita espiritual del día",
-             "id":"ES17TN14031999"
-          },
-          {
-             "quote":"La espiritualidad es la manera más elevada de conciencia política.",
-             "length":"66",
-             "author":"Vimala Thakar",
-             "tags":[
-                "conciencia",
-                "política",
-                "elevación"
-             ],
-             "category":"espiritualidad",
-             "date":"1984-11-30",
-             "title":"Cita espiritual del día",
-             "id":"ES18VT30111984"
-          },
-          {
-             "quote":"La espiritualidad no es adoptar más creencias y suposiciones, sino descubrir nuestra naturaleza esencial.",
-             "length":"106",
-             "author":"Eckhart Tolle",
-             "tags":[
-                "creencias",
-                "naturaleza",
-                "descubrimiento"
-             ],
-             "category":"espiritualidad",
-             "date":"2008-09-18",
-             "title":"Cita espiritual del día",
-             "id":"ES19ET18092008"
-          },
-          {
-             "quote":"La espiritualidad es la conciencia de que estamos aquí para servir.",
-             "length":"67",
-             "author":"Amit Ray",
-             "tags":[
-                "servicio",
-                "conciencia",
-                "propósito"
-             ],
-             "category":"espiritualidad",
-             "date":"2019-02-07",
-             "title":"Cita espiritual del día",
-             "id":"ES20AR07022019"
-          }
-       ]
-    }
- }
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "La verdadera espiritualidad no se encuentra en los templos o los libros, sino en la quietud de nuestro propio corazón.",
+				"length": "115",
+				"author": {
+					"name": "Teresa de Ávila",
+					"nationality": "Española",
+					"profession": "Monja carmelita y escritora mística",
+					"field": "Misticismo cristiano"
+				},
+				"tags": [
+					"espiritualidad",
+					"introspección",
+					"corazón",
+					"quietud"
+				],
+				"category": "spirituality",
+				"date": "28/03/1515",
+				"title": "Quote on inner spirituality",
+				"id": "1"
+			},
+			{
+				"quote": "La meditación es el camino hacia la paz interior y la conexión con el universo que nos rodea.",
+				"length": "93",
+				"author": {
+					"name": "Buda Gautama",
+					"nationality": "Indio",
+					"profession": "Maestro espiritual",
+					"field": "Budismo"
+				},
+				"tags": ["meditación", "paz interior", "conexión", "universo"],
+				"category": "spirituality",
+				"date": "05/04/563 a.C.",
+				"title": "Quote on meditation",
+				"id": "2"
+			},
+			{
+				"quote": "El alma es el reflejo de la divinidad en cada ser humano, una chispa de luz eterna que nos conecta con lo trascendental.",
+				"length": "122",
+				"author": {
+					"name": "Paramahansa Yogananda",
+					"nationality": "Indio",
+					"profession": "Yogui y guru",
+					"field": "Yoga y meditación"
+				},
+				"tags": ["alma", "divinidad", "trascendencia", "luz"],
+				"category": "spirituality",
+				"date": "05/01/1893",
+				"title": "Quote on the divine soul",
+				"id": "3"
+			},
+			{
+				"quote": "La fe es el puente invisible que conecta nuestro mundo terrenal con el reino de lo divino.",
+				"length": "88",
+				"author": {
+					"name": "San Agustín de Hipona",
+					"nationality": "Romano",
+					"profession": "Filósofo y teólogo",
+					"field": "Teología cristiana"
+				},
+				"tags": ["fe", "conexión", "divinidad", "trascendencia"],
+				"category": "spirituality",
+				"date": "13/11/354",
+				"title": "Quote on faith",
+				"id": "4"
+			},
+			{
+				"quote": "La verdadera iluminación no es escapar de la oscuridad, sino comprender su naturaleza y trascenderla.",
+				"length": "103",
+				"author": {
+					"name": "Eckhart Tolle",
+					"nationality": "Alemán",
+					"profession": "Escritor espiritual",
+					"field": "Espiritualidad contemporánea"
+				},
+				"tags": [
+					"iluminación",
+					"trascendencia",
+					"comprensión",
+					"oscuridad"
+				],
+				"category": "spirituality",
+				"date": "16/02/1948",
+				"title": "Quote on enlightenment",
+				"id": "5"
+			},
+			{
+				"quote": "El camino del misticismo nos lleva a descubrir la unidad fundamental de toda la existencia.",
+				"length": "89",
+				"author": {
+					"name": "Rumi",
+					"nationality": "Persa",
+					"profession": "Poeta y místico sufí",
+					"field": "Misticismo islámico"
+				},
+				"tags": [
+					"misticismo",
+					"unidad",
+					"existencia",
+					"descubrimiento"
+				],
+				"category": "spirituality",
+				"date": "30/09/1207",
+				"title": "Quote on mysticism",
+				"id": "6"
+			},
+			{
+				"quote": "La consciencia es el espejo en el que se refleja la realidad divina, permitiéndonos percibir la verdad última.",
+				"length": "113",
+				"author": {
+					"name": "Sri Aurobindo",
+					"nationality": "Indio",
+					"profession": "Filósofo y yogui",
+					"field": "Yoga integral"
+				},
+				"tags": ["consciencia", "divinidad", "verdad", "percepción"],
+				"category": "spirituality",
+				"date": "15/08/1872",
+				"title": "Quote on consciousness",
+				"id": "7"
+			},
+			{
+				"quote": "La devoción es el fuego que purifica el corazón y nos acerca a la experiencia de lo sagrado.",
+				"length": "92",
+				"author": {
+					"name": "Ramakrishna",
+					"nationality": "Indio",
+					"profession": "Místico y santo hindú",
+					"field": "Hinduismo"
+				},
+				"tags": ["devoción", "purificación", "sagrado", "experiencia"],
+				"category": "spirituality",
+				"date": "18/02/1836",
+				"title": "Quote on devotion",
+				"id": "8"
+			},
+			{
+				"quote": "El silencio interior es el lenguaje del alma, a través del cual nos comunicamos con lo divino.",
+				"length": "94",
+				"author": {
+					"name": "Thomas Merton",
+					"nationality": "Estadounidense",
+					"profession": "Monje trapense y escritor",
+					"field": "Misticismo cristiano"
+				},
+				"tags": ["silencio", "alma", "comunicación", "divinidad"],
+				"category": "spirituality",
+				"date": "31/01/1915",
+				"title": "Quote on inner silence",
+				"id": "9"
+			},
+			{
+				"quote": "La compasión es el fruto más elevado de la espiritualidad, que nos conecta con todos los seres vivos.",
+				"length": "102",
+				"author": {
+					"name": "Dalai Lama",
+					"nationality": "Tibetano",
+					"profession": "Líder espiritual budista",
+					"field": "Budismo tibetano"
+				},
+				"tags": [
+					"compasión",
+					"espiritualidad",
+					"conexión",
+					"seres vivos"
+				],
+				"category": "spirituality",
+				"date": "06/07/1935",
+				"title": "Quote on compassion",
+				"id": "10"
+			},
+			{
+				"quote": "La sabiduría espiritual nos enseña que somos parte de algo mucho más grande que nosotros mismos.",
+				"length": "98",
+				"author": {
+					"name": "Carl Jung",
+					"nationality": "Suizo",
+					"profession": "Psiquiatra y psicoanalista",
+					"field": "Psicología analítica"
+				},
+				"tags": [
+					"sabiduría",
+					"espiritualidad",
+					"unidad",
+					"trascendencia"
+				],
+				"category": "spirituality",
+				"date": "26/07/1875",
+				"title": "Quote on spiritual wisdom",
+				"id": "11"
+			},
+			{
+				"quote": "La práctica espiritual nos guía hacia el despertar de nuestra verdadera naturaleza divina.",
+				"length": "88",
+				"author": {
+					"name": "Ramana Maharshi",
+					"nationality": "Indio",
+					"profession": "Sabio y guru",
+					"field": "Advaita Vedanta"
+				},
+				"tags": [
+					"práctica espiritual",
+					"despertar",
+					"naturaleza divina",
+					"autoconocimiento"
+				],
+				"category": "spirituality",
+				"date": "30/12/1879",
+				"title": "Quote on spiritual practice",
+				"id": "12"
+			},
+			{
+				"quote": "El amor incondicional es la expresión más pura de la espiritualidad en acción.",
+				"length": "80",
+				"author": {
+					"name": "Madre Teresa",
+					"nationality": "Albania",
+					"profession": "Monja católica y misionera",
+					"field": "Trabajo humanitario"
+				},
+				"tags": [
+					"amor incondicional",
+					"espiritualidad",
+					"acción",
+					"compasión"
+				],
+				"category": "spirituality",
+				"date": "26/08/1910",
+				"title": "Quote on unconditional love",
+				"id": "13"
+			},
+			{
+				"quote": "La gratitud es el portal que nos abre a la abundancia espiritual y la conexión con lo divino.",
+				"length": "94",
+				"author": {
+					"name": "Meister Eckhart",
+					"nationality": "Alemán",
+					"profession": "Teólogo y místico",
+					"field": "Misticismo cristiano"
+				},
+				"tags": [
+					"gratitud",
+					"abundancia espiritual",
+					"conexión",
+					"divinidad"
+				],
+				"category": "spirituality",
+				"date": "01/01/1260",
+				"title": "Quote on gratitude",
+				"id": "14"
+			},
+			{
+				"quote": "El perdón es el acto supremo de liberación espiritual, que nos libera de las cadenas del pasado.",
+				"length": "100",
+				"author": {
+					"name": "Desmond Tutu",
+					"nationality": "Sudafricano",
+					"profession": "Arzobispo y activista",
+					"field": "Teología y derechos humanos"
+				},
+				"tags": [
+					"perdón",
+					"liberación espiritual",
+					"pasado",
+					"transformación"
+				],
+				"category": "spirituality",
+				"date": "07/10/1931",
+				"title": "Quote on forgiveness",
+				"id": "15"
+			},
+			{
+				"quote": "La energía espiritual fluye a través de nosotros cuando abrimos nuestro corazón al universo.",
+				"length": "92",
+				"author": {
+					"name": "Deepak Chopra",
+					"nationality": "Indio-estadounidense",
+					"profession": "Médico y escritor",
+					"field": "Medicina alternativa y espiritualidad"
+				},
+				"tags": [
+					"energía espiritual",
+					"apertura",
+					"corazón",
+					"universo"
+				],
+				"category": "spirituality",
+				"date": "22/10/1946",
+				"title": "Quote on spiritual energy",
+				"id": "16"
+			},
+			{
+				"quote": "La humildad es el cimiento de toda virtud espiritual y el camino hacia la verdadera sabiduría.",
+				"length": "94",
+				"author": {
+					"name": "San Francisco de Asís",
+					"nationality": "Italiano",
+					"profession": "Fraile y predicador",
+					"field": "Cristianismo"
+				},
+				"tags": ["humildad", "virtud", "sabiduría", "espiritualidad"],
+				"category": "spirituality",
+				"date": "03/10/1181",
+				"title": "Quote on humility",
+				"id": "17"
+			},
+			{
+				"quote": "La contemplación nos lleva a experimentar la unidad con todo lo que existe, revelando nuestra verdadera naturaleza.",
+				"length": "114",
+				"author": {
+					"name": "Plotino",
+					"nationality": "Egipcio",
+					"profession": "Filósofo neoplatónico",
+					"field": "Filosofía y misticismo"
+				},
+				"tags": ["contemplación", "unidad", "existencia", "naturaleza"],
+				"category": "spirituality",
+				"date": "01/01/204",
+				"title": "Quote on contemplation",
+				"id": "18"
+			},
+			{
+				"quote": "El camino espiritual es un viaje de autodescubrimiento que nos lleva de regreso a nuestra esencia divina.",
+				"length": "106",
+				"author": {
+					"name": "Swami Vivekananda",
+					"nationality": "Indio",
+					"profession": "Monje hindú y filósofo",
+					"field": "Vedanta y yoga"
+				},
+				"tags": [
+					"camino espiritual",
+					"autodescubrimiento",
+					"esencia divina",
+					"transformación"
+				],
+				"category": "spirituality",
+				"date": "12/01/1863",
+				"title": "Quote on spiritual journey",
+				"id": "19"
+			},
+			{
+				"quote": "La paz interior es el reflejo de nuestra conexión con lo divino y la fuente de toda felicidad verdadera.",
+				"length": "104",
+				"author": {
+					"name": "Thich Nhat Hanh",
+					"nationality": "Vietnamita",
+					"profession": "Monje budista y activista por la paz",
+					"field": "Budismo zen"
+				},
+				"tags": [
+					"paz interior",
+					"conexión divina",
+					"felicidad",
+					"espiritualidad"
+				],
+				"category": "spirituality",
+				"date": "11/10/1926",
+				"title": "Quote on inner peace",
+				"id": "20"
+			}
+		]
+	}
+}

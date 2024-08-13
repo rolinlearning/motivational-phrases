@@ -1,0 +1,429 @@
+{
+  "success": {
+    "total": 20,
+    "status_code": 200,
+    "message": "Phrases loaded successfully"
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "La filosofía es el arte de pensar con claridad, de cuestionar lo evidente y de buscar la esencia de las cosas más allá de las apariencias.",
+        "length": "125",
+        "author": {
+          "name": "Sócrates",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía Antigua"
+        },
+        "tags": [
+          "filosofía",
+          "pensamiento",
+          "cuestionamiento",
+          "esencia"
+        ],
+        "category": "philosophy",
+        "date": "-470/-399 a.C.",
+        "title": "Cita sobre filosofía",
+        "id": "1"
+      },
+      {
+        "quote": "La filosofía es el viaje del alma en busca de la verdad, un ejercicio de la razón que nos libera de las cadenas de la ignorancia y nos acerca a la sabiduría.",
+        "length": "141",
+        "author": {
+          "name": "Platón",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía Antigua"
+        },
+        "tags": [
+          "filosofía",
+          "alma",
+          "verdad",
+          "razón",
+          "sabiduría"
+        ],
+        "category": "philosophy",
+        "date": "-428/-348 a.C.",
+        "title": "Cita sobre filosofía",
+        "id": "2"
+      },
+      {
+        "quote": "La filosofía es el arte de vivir, de encontrar el sentido de la existencia y de descubrir la belleza del universo a través de la reflexión y la contemplación.",
+        "length": "141",
+        "author": {
+          "name": "Epicuro",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía Helenística"
+        },
+        "tags": [
+          "filosofía",
+          "sentido de la existencia",
+          "reflexión",
+          "contemplación"
+        ],
+        "category": "philosophy",
+        "date": "-341/-270 a.C.",
+        "title": "Cita sobre filosofía",
+        "id": "3"
+      },
+      {
+        "quote": "La filosofía es la búsqueda incesante de la verdad, un ejercicio de la razón que nos permite comprender la naturaleza del ser y del conocimiento.",
+        "length": "131",
+        "author": {
+          "name": "Aristóteles",
+          "nationality": "Griego",
+          "profession": "Filósofo",
+          "field": "Filosofía Antigua"
+        },
+        "tags": [
+          "filosofía",
+          "verdad",
+          "razón",
+          "ser",
+          "conocimiento"
+        ],
+        "category": "philosophy",
+        "date": "-384/-322 a.C.",
+        "title": "Cita sobre filosofía",
+        "id": "4"
+      },
+      {
+        "quote": "La filosofía es la actividad que nos libera de las ataduras de la ignorancia y nos acerca a la comprensión del mundo y de nosotros mismos.",
+        "length": "127",
+        "author": {
+          "name": "Séneca",
+          "nationality": "Romano",
+          "profession": "Filósofo y Político",
+          "field": "Filosofía Estoica"
+        },
+        "tags": [
+          "filosofía",
+          "ignorancia",
+          "comprensión",
+          "mundo",
+          "sí mismo"
+        ],
+        "category": "philosophy",
+        "date": "-4/-65",
+        "title": "Cita sobre filosofía",
+        "id": "5"
+      },
+      {
+        "quote": "La filosofía es la búsqueda de la sabiduría, un esfuerzo constante por comprender la naturaleza de la realidad y la condición humana.",
+        "length": "123",
+        "author": {
+          "name": "Bertrand Russell",
+          "nationality": "Británico",
+          "profession": "Filósofo y Matemático",
+          "field": "Lógica y Filosofía del Lenguaje"
+        },
+        "tags": [
+          "filosofía",
+          "sabiduría",
+          "realidad",
+          "condición humana"
+        ],
+        "category": "philosophy",
+        "date": "18/05/1872",
+        "title": "Cita sobre filosofía",
+        "id": "6"
+      },
+      {
+        "quote": "La filosofía es el arte de cuestionar lo que se da por hecho, de desafiar las ideas preconcebidas y de buscar nuevas formas de entender el mundo.",
+        "length": "132",
+        "author": {
+          "name": "Simone de Beauvoir",
+          "nationality": "Francesa",
+          "profession": "Filósofa y Escritora",
+          "field": "Existencialismo y Feminismo"
+        },
+        "tags": [
+          "filosofía",
+          "cuestionamiento",
+          "ideas preconcebidas",
+          "nuevas formas de entendimiento"
+        ],
+        "category": "philosophy",
+        "date": "09/01/1908",
+        "title": "Cita sobre filosofía",
+        "id": "7"
+      },
+      {
+        "quote": "La filosofía es el ejercicio de la razón que nos permite comprender la naturaleza del universo, de la sociedad y de nosotros mismos.",
+        "length": "117",
+        "author": {
+          "name": "Michel Foucault",
+          "nationality": "Francés",
+          "profession": "Filósofo y Teórico Social",
+          "field": "Filosofía Contemporánea"
+        },
+        "tags": [
+          "filosofía",
+          "razón",
+          "universo",
+          "sociedad",
+          "sí mismo"
+        ],
+        "category": "philosophy",
+        "date": "15/10/1926",
+        "title": "Cita sobre filosofía",
+        "id": "8"
+      },
+      {
+        "quote": "La filosofía es el arte de vivir con sabiduría, de encontrar la justa medida entre las pasiones y la razón, y de descubrir el sentido de la existencia.",
+        "length": "136",
+        "author": {
+          "name": "Séneca",
+          "nationality": "Romano",
+          "profession": "Filósofo y Político",
+          "field": "Filosofía Estoica"
+        },
+        "tags": [
+          "filosofía",
+          "sabiduría",
+          "pasiones",
+          "razón",
+          "sentido de la existencia"
+        ],
+        "category": "philosophy",
+        "date": "-4/-65",
+        "title": "Cita sobre filosofía",
+        "id": "9"
+      },
+      {
+        "quote": "La filosofía es la búsqueda incansable de la verdad, un ejercicio de la razón que nos libera de las ilusiones y nos acerca a la esencia de las cosas.",
+        "length": "134",
+        "author": {
+          "name": "Immanuel Kant",
+          "nationality": "Alemán",
+          "profession": "Filósofo",
+          "field": "Filosofía Moderna"
+        },
+        "tags": [
+          "filosofía",
+          "verdad",
+          "razón",
+          "ilusiones",
+          "esencia"
+        ],
+        "category": "philosophy",
+        "date": "22/04/1724",
+        "title": "Cita sobre filosofía",
+        "id": "10"
+      },
+      {
+        "quote": "La filosofía es el arte de pensar con profundidad, de cuestionar lo establecido y de buscar nuevas formas de comprender el mundo y nuestra relación con él.",
+        "length": "137",
+        "author": {
+          "name": "Hannah Arendt",
+          "nationality": "Alemana-Estadounidense",
+          "profession": "Filósofa y Teórica Política",
+          "field": "Filosofía Política"
+        },
+        "tags": [
+          "filosofía",
+          "pensamiento profundo",
+          "cuestionamiento",
+          "comprensión del mundo",
+          "relación con el mundo"
+        ],
+        "category": "philosophy",
+        "date": "14/10/1906",
+        "title": "Cita sobre filosofía",
+        "id": "11"
+      },
+      {
+        "quote": "La filosofía es el arte de pensar con claridad, de cuestionar los dogmas y de buscar la verdad más allá de las apariencias. Es un ejercicio de la libertad del espíritu.",
+        "length": "149",
+        "author": {
+          "name": "Jean-Paul Sartre",
+          "nationality": "Francés",
+          "profession": "Filósofo y Escritor",
+          "field": "Existencialismo"
+        },
+        "tags": [
+          "filosofía",
+          "pensamiento claro",
+          "cuestionamiento",
+          "verdad",
+          "libertad del espíritu"
+        ],
+        "category": "philosophy",
+        "date": "21/06/1905",
+        "title": "Cita sobre filosofía",
+        "id": "12"
+      },
+      {
+        "quote": "La filosofía es el arte de cultivar la sabiduría, de comprender la naturaleza del ser y de encontrar el sentido de la existencia a través de la reflexión y el diálogo.",
+        "length": "144",
+        "author": {
+          "name": "Martha Nussbaum",
+          "nationality": "Estadounidense",
+          "profession": "Filósofa y Teórica Política",
+          "field": "Filosofía Política y Ética"
+        },
+        "tags": [
+          "filosofía",
+          "sabiduría",
+          "ser",
+          "sentido de la existencia",
+          "reflexión",
+          "diálogo"
+        ],
+        "category": "philosophy",
+        "date": "06/05/1947",
+        "title": "Cita sobre filosofía",
+        "id": "13"
+      },
+      {
+        "quote": "La filosofía es el arte de pensar por sí mismo, de cuestionar los dogmas y de buscar la verdad a través de la razón y la contemplación.",
+        "length": "126",
+        "author": {
+          "name": "René Descartes",
+          "nationality": "Francés",
+          "profession": "Filósofo y Matemático",
+          "field": "Filosofía Moderna"
+        },
+        "tags": [
+          "filosofía",
+          "pensamiento autónomo",
+          "cuestionamiento",
+          "verdad",
+          "razón",
+          "contemplación"
+        ],
+        "category": "philosophy",
+        "date": "31/03/1596",
+        "title": "Cita sobre filosofía",
+        "id": "14"
+      },
+      {
+        "quote": "La filosofía es el ejercicio de la razón que nos permite comprender la naturaleza del mundo y de nosotros mismos, y encontrar el sentido de nuestra existencia.",
+        "length": "135",
+        "author": {
+          "name": "Friedrich Nietzsche",
+          "nationality": "Alemán",
+          "profession": "Filósofo",
+          "field": "Filosofía Contemporánea"
+        },
+        "tags": [
+          "filosofía",
+          "razón",
+          "comprensión del mundo",
+          "sí mismo",
+          "sentido de la existencia"
+        ],
+        "category": "philosophy",
+        "date": "15/10/1844",
+        "title": "Cita sobre filosofía",
+        "id": "15"
+      },
+      {
+        "quote": "La filosofía es el arte de cuestionar todo, de dudar de lo evidente y de buscar la verdad más allá de las apariencias. Es un ejercicio de la libertad del pensamiento.",
+        "length": "145",
+        "author": {
+          "name": "Voltaire",
+          "nationality": "Francés",
+          "profession": "Filósofo y Escritor",
+          "field": "Ilustración"
+        },
+        "tags": [
+          "filosofía",
+          "cuestionamiento",
+          "duda",
+          "verdad",
+          "libertad del pensamiento"
+        ],
+        "category": "philosophy",
+        "date": "21/11/1694",
+        "title": "Cita sobre filosofía",
+        "id": "16"
+      },
+      {
+        "quote": "La filosofía es la búsqueda incansable de la sabiduría, un ejercicio de la razón que nos permite comprender la naturaleza del universo y de la condición humana.",
+        "length": "138",
+        "author": {
+          "name": "Bertrand Russell",
+          "nationality": "Británico",
+          "profession": "Filósofo y Matemático",
+          "field": "Lógica y Filosofía del Lenguaje"
+        },
+        "tags": [
+          "filosofía",
+          "sabiduría",
+          "razón",
+          "universo",
+          "condición humana"
+        ],
+        "category": "philosophy",
+        "date": "18/05/1872",
+        "title": "Cita sobre filosofía",
+        "id": "17"
+      },
+      {
+        "quote": "La filosofía es el arte de pensar de manera crítica y creativa, de cuestionar las ideas establecidas y de buscar nuevas formas de entender el mundo y nuestra relación con él.",
+        "length": "151",
+        "author": {
+          "name": "Michel de Montaigne",
+          "nationality": "Francés",
+          "profession": "Filósofo y Ensayista",
+          "field": "Humanismo"
+        },
+        "tags": [
+          "filosofía",
+          "pensamiento crítico",
+          "pensamiento creativo",
+          "cuestionamiento",
+          "nuevas formas de entendimiento"
+        ],
+        "category": "philosophy",
+        "date": "28/02/1533",
+        "title": "Cita sobre filosofía",
+        "id": "18"
+      },
+      {
+        "quote": "La filosofía es el arte de pensar con profundidad, de cuestionar los supuestos y de buscar la verdad más allá de las apariencias. Es un ejercicio de la libertad de la mente.",
+        "length": "148",
+        "author": {
+          "name": "Simone Weil",
+          "nationality": "Francesa",
+          "profession": "Filósofa y Mística",
+          "field": "Filosofía Social y Ética"
+        },
+        "tags": [
+          "filosofía",
+          "pensamiento profundo",
+          "cuestionamiento",
+          "verdad",
+          "libertad de la mente"
+        ],
+        "category": "philosophy",
+        "date": "03/02/1909",
+        "title": "Cita sobre filosofía",
+        "id": "19"
+      },
+      {
+        "quote": "La filosofía es la búsqueda incesante de la sabiduría, un ejercicio de la razón que nos permite comprender la naturaleza del ser y encontrar el sentido de nuestra existencia.",
+        "length": "144",
+        "author": { 
+          "name": "Lao Tzu",
+          "nationality": "Chino",
+          "profession" : "Filósofo",
+          "field" : "Taoísmo"
+        }, 
+        "tags": [
+          "filosofía",
+          "sabiduría", 
+          "razón", 
+          "ser",
+          "existencia"
+        ],
+        "category" : "philosophy",
+        "date": "-6 siglo a.C.",
+        "title": "Cita sobre filosofía",
+        "id": "20"
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+	"success": {
+		"total": 20,
+		"status_code": 200,
+		"message": "Phrases loaded successfully"
+	},
+	"contents": {
+		"quotes": [
+			{
+				"quote": "El arte es el lenguaje universal del alma, capaz de trascender fronteras y culturas.",
+				"length": "82",
+				"author": {
+					"name": "Pablo Picasso",
+					"nationality": "Español",
+					"profession": "Pintor",
+					"field": "Arte Moderno y Cubismo"
+				},
+				"tags": ["lenguaje", "alma", "trascendencia", "culturas"],
+				"category": "art",
+				"date": "25/10/1881",
+				"title": "Cita sobre el arte",
+				"id": "1"
+			},
+			{
+				"quote": "La danza es la poesía del cuerpo en movimiento, una expresión sublime de la belleza y la gracia.",
+				"length": "92",
+				"author": {
+					"name": "Martha Graham",
+					"nationality": "Estadounidense",
+					"profession": "Bailarina y Coreógrafa",
+					"field": "Danza Moderna"
+				},
+				"tags": ["danza", "poesía", "belleza", "gracia"],
+				"category": "art",
+				"date": "11/05/1894",
+				"title": "Cita sobre el arte",
+				"id": "2"
+			},
+			{
+				"quote": "La música es el alimento del alma, capaz de sanar heridas y elevar el espíritu humano.",
+				"length": "85",
+				"author": {
+					"name": "Beethoven",
+					"nationality": "Alemán",
+					"profession": "Compositor",
+					"field": "Música Clásica"
+				},
+				"tags": ["música", "alma", "sanación", "espíritu"],
+				"category": "art",
+				"date": "16/12/1770",
+				"title": "Cita sobre el arte",
+				"id": "3"
+			},
+			{
+				"quote": "La fotografía es la captura del momento eterno, un instante congelado en el tiempo que invita a la reflexión.",
+				"length": "107",
+				"author": {
+					"name": "Ansel Adams",
+					"nationality": "Estadounidense",
+					"profession": "Fotógrafo",
+					"field": "Fotografía de Paisajes"
+				},
+				"tags": ["fotografía", "momento", "tiempo", "reflexión"],
+				"category": "art",
+				"date": "20/02/1902",
+				"title": "Cita sobre el arte",
+				"id": "4"
+			},
+			{
+				"quote": "La arquitectura es la cristalización de los sueños del hombre, una expresión tangible de la belleza y la funcionalidad.",
+				"length": "115",
+				"author": {
+					"name": "Frank Lloyd Wright",
+					"nationality": "Estadounidense",
+					"profession": "Arquitecto",
+					"field": "Arquitectura Orgánica"
+				},
+				"tags": ["arquitectura", "sueños", "belleza", "funcionalidad"],
+				"category": "art",
+				"date": "08/06/1867",
+				"title": "Cita sobre el arte",
+				"id": "5"
+			},
+			{
+				"quote": "El teatro es el espejo de la vida, reflejando nuestras alegrías, penas y conflictos en un escenario compartido.",
+				"length": "105",
+				"author": {
+					"name": "William Shakespeare",
+					"nationality": "Inglés",
+					"profession": "Dramaturgo y Poeta",
+					"field": "Teatro y Literatura"
+				},
+				"tags": ["teatro", "vida", "emociones", "escenario"],
+				"category": "art",
+				"date": "23/04/1564",
+				"title": "Cita sobre el arte",
+				"id": "6"
+			},
+			{
+				"quote": "La poesía es el canto del alma, capaz de expresar las emociones más profundas con palabras que tocan el corazón.",
+				"length": "108",
+				"author": {
+					"name": "Gabriela Mistral",
+					"nationality": "Chilena",
+					"profession": "Poetisa",
+					"field": "Poesía Lírica"
+				},
+				"tags": ["poesía", "alma", "emociones", "corazón"],
+				"category": "art",
+				"date": "07/04/1889",
+				"title": "Cita sobre el arte",
+				"id": "7"
+			},
+			{
+				"quote": "La literatura es el viaje del alma a través de las palabras, transportándonos a mundos imaginarios y revelándonos verdades universales.",
+				"length": "127",
+				"author": {
+					"name": "Gabriel García Márquez",
+					"nationality": "Colombiano",
+					"profession": "Escritor",
+					"field": "Realismo Mágico"
+				},
+				"tags": ["literatura", "alma", "palabras", "verdades"],
+				"category": "art",
+				"date": "06/03/1927",
+				"title": "Cita sobre el arte",
+				"id": "8"
+			},
+			{
+				"quote": "El cine es el arte de contar historias a través de imágenes en movimiento, capturando la esencia de la experiencia humana.",
+				"length": "117",
+				"author": {
+					"name": "Alfred Hitchcock",
+					"nationality": "Británico",
+					"profession": "Director de Cine",
+					"field": "Cine de Suspenso"
+				},
+				"tags": ["cine", "historias", "imágenes", "experiencia"],
+				"category": "art",
+				"date": "13/08/1899",
+				"title": "Cita sobre el arte",
+				"id": "9"
+			},
+			{
+				"quote": "La moda es una forma de arte efímera, una expresión del espíritu creativo que refleja la cultura y la época.",
+				"length": "105",
+				"author": {
+					"name": "Coco Chanel",
+					"nationality": "Francesa",
+					"profession": "Diseñadora de Moda",
+					"field": "Moda y Estilo"
+				},
+				"tags": ["moda", "arte", "creatividad", "cultura"],
+				"category": "art",
+				"date": "19/08/1883",
+				"title": "Cita sobre el arte",
+				"id": "10"
+			},
+			{
+				"quote": "El diseño gráfico es el arte de comunicar ideas y mensajes a través de la combinación armoniosa de elementos visuales.",
+				"length": "114",
+				"author": {
+					"name": "Paul Rand",
+					"nationality": "Estadounidense",
+					"profession": "Diseñador Gráfico",
+					"field": "Diseño Gráfico y Publicidad"
+				},
+				"tags": [
+					"diseño gráfico",
+					"comunicación",
+					"ideas",
+					"elementos visuales"
+				],
+				"category": "art",
+				"date": "15/08/1914",
+				"title": "Cita sobre el arte",
+				"id": "11"
+			},
+			{
+				"quote": "La artesanía es el arte de crear belleza con las propias manos, transmitiendo tradiciones y culturas a través de objetos únicos.",
+				"length": "124",
+				"author": {
+					"name": "Waunita Petri",
+					"nationality": "Estadounidense",
+					"profession": "Artesana",
+					"field": "Artesanía Textil"
+				},
+				"tags": [
+					"artesanía",
+					"belleza",
+					"tradiciones",
+					"objetos únicos"
+				],
+				"category": "art",
+				"date": "28/11/1924",
+				"title": "Cita sobre el arte",
+				"id": "12"
+			},
+			{
+				"quote": "El arte callejero es una forma de expresión rebelde que desafía las convenciones y lleva el arte al público.",
+				"length": "103",
+				"author": {
+					"name": "Banksy",
+					"nationality": "Británico",
+					"profession": "Artista Callejero",
+					"field": "Arte Urbano y Grafiti"
+				},
+				"tags": ["arte callejero", "expresión", "rebeldía", "público"],
+				"category": "art",
+				"date": "28/07/1974",
+				"title": "Cita sobre el arte",
+				"id": "13"
+			},
+			{
+				"quote": "La caligrafía es el arte de transformar las letras en obras de belleza, donde cada trazo es una expresión del alma del artista.",
+				"length": "122",
+				"author": {
+					"name": "Wang Xizhi",
+					"nationality": "Chino",
+					"profession": "Calígrafo",
+					"field": "Caligrafía China"
+				},
+				"tags": ["caligrafía", "belleza", "letras", "alma"],
+				"category": "art",
+				"date": "03/02/0303",
+				"title": "Cita sobre el arte",
+				"id": "14"
+			},
+			{
+				"quote": "El arte culinario es una forma de expresión creativa que combina sabores, aromas y presentaciones para deleitar los sentidos.",
+				"length": "119",
+				"author": {
+					"name": "Julia Child",
+					"nationality": "Estadounidense",
+					"profession": "Cocinera y Autora",
+					"field": "Cocina Francesa"
+				},
+				"tags": [
+					"arte culinario",
+					"creatividad",
+					"sabores",
+					"sentidos"
+				],
+				"category": "art",
+				"date": "15/08/1912",
+				"title": "Cita sobre el arte",
+				"id": "15"
+			},
+			{
+				"quote": "La jardinería es el arte de cultivar la belleza de la naturaleza, creando espacios armoniosos que elevan el espíritu.",
+				"length": "112",
+				"author": {
+					"name": "Gertrude Jekyll",
+					"nationality": "Británica",
+					"profession": "Jardinera y Escritora",
+					"field": "Jardinería y Diseño de Jardines"
+				},
+				"tags": ["jardinería", "belleza", "naturaleza", "armonía"],
+				"category": "art",
+				"date": "29/11/1843",
+				"title": "Cita sobre el arte",
+				"id": "16"
+			},
+			{
+				"quote": "El arte es la expresión más pura de la libertad humana, una forma de trascender los límites y explorar nuevos horizontes.",
+				"length": "117",
+				"author": {
+					"name": "Frida Kahlo",
+					"nationality": "Mexicana",
+					"profession": "Pintora",
+					"field": "Arte Mexicano y Surrealismo"
+				},
+				"tags": [
+					"libertad",
+					"trascendencia",
+					"expresión",
+					"horizontes"
+				],
+				"category": "art",
+				"date": "06/07/1907",
+				"title": "Cita sobre el arte",
+				"id": "17"
+			},
+			{
+				"quote": "La música es el lenguaje universal del alma, capaz de unir corazones y culturas a través de melodías sin fronteras.",
+				"length": "111",
+				"author": {
+					"name": "Plácido Domingo",
+					"nationality": "Español",
+					"profession": "Cantante de Ópera",
+					"field": "Ópera y Música Clásica"
+				},
+				"tags": ["música", "alma", "corazones", "culturas"],
+				"category": "art",
+				"date": "21/01/1941",
+				"title": "Cita sobre el arte",
+				"id": "18"
+			},
+			{
+				"quote": "La fotografía es el arte de capturar la belleza efímera del momento presente, congelando el tiempo en una imagen eterna.",
+				"length": "115",
+				"author": {
+					"name": "Henri Cartier-Bresson",
+					"nationality": "Francés",
+					"profession": "Fotógrafo",
+					"field": "Fotografía Callejera y Documental"
+				},
+				"tags": ["fotografía", "belleza", "momento", "eternidad"],
+				"category": "art",
+				"date": "22/08/1908",
+				"title": "Cita sobre el arte",
+				"id": "19"
+			},
+			{
+				"quote": "El diseño es el arte de crear soluciones funcionales y estéticas, combinando forma y función de manera armoniosa.",
+				"length": "111",
+				"author": {
+					"name": "Dieter Rams",
+					"nationality": "Alemán",
+					"profession": "Diseñador Industrial",
+					"field": "Diseño de Productos"
+				},
+				"tags": ["diseño", "funcionalidad", "estética", "armonía"],
+				"category": "art",
+				"date": "20/05/1932",
+				"title": "Cita sobre el arte",
+				"id": "20"
+			}
+		]
+	}
+}
